@@ -1,0 +1,17 @@
+1. iii. What does the interface do differently?
+	classes can inherit multiple interfaces using the implements keyword but only one class
+	using the extends keyword.
+
+1. iv. What is the difference between IS-A and HAS-A relationship?
+	IS-A relationships are formed by inheretence from a class
+	and HAS-A relationships are formed by using a class
+
+Part 2
+
+1. c. Call the bark method in TestDog, for both objects. What do the error messages mean?
+	object a is an Animal object and has no bark() method
+	object b is a Dog object but its reference type is Animal so again there is no bark() method
+
+1. f. Why does it work?
+	making the new object bark and move works because it is only using methods that are
+	defined in the Dog class and when its created its reference is Dog instead of Animal.

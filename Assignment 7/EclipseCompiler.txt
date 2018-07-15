@@ -1,0 +1,1110 @@
+22 Mar 2018 2:58:50 GMT: Log 'EclipseCompiler.txt' opened: 22 Mar 2018 2:58:50 GMT with name C:\Users\willi\Desktop\CSE271\Assignment 7\EclipseCompiler.txt
+22 Mar 2018 2:58:50 GMT: Log 'EclipseCompiler.txt' opened: 22 Mar 2018 2:58:50 GMT with name C:\Users\willi\Desktop\CSE271\Assignment 7\EclipseCompiler.txt
+22 Mar 2018 2:58:50 GMT: Log 'EclipseCompiler.txt' opened: 22 Mar 2018 2:58:50 GMT with name C:\Users\willi\Desktop\CSE271\Assignment 7\EclipseCompiler.txt
+22 Mar 2018 2:58:50 GMT: Log 'EclipseCompiler.txt' opened: 22 Mar 2018 2:58:50 GMT with name C:\Users\willi\Desktop\CSE271\Assignment 7\EclipseCompiler.txt
+22 Mar 2018 2:59:05 GMT: Log 'EclipseCompiler.txt' opened: 22 Mar 2018 2:59:05 GMT with name C:\Users\willi\Desktop\CSE271\Assignment 7\EclipseCompiler.txt
+22 Mar 2018 3:01:34 GMT: diagnostics = javax.tools.DiagnosticCollector@8e61ce
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e58671
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:01:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@23a39d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:01:34 GMT: Compiler call returned
+22 Mar 2018 3:01:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e0aabe
+22 Mar 2018 3:01:34 GMT:  Kind = WARNING
+22 Mar 2018 3:01:34 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:01:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3083db
+22 Mar 2018 3:01:34 GMT:  Kind = WARNING
+22 Mar 2018 3:01:34 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 5 ColNo = 12 Msg = 'The value of the local variable deck is not used'
+22 Mar 2018 3:02:28 GMT: diagnostics = javax.tools.DiagnosticCollector@8cb0ba
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@150d897
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:02:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f78e34' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:02:28 GMT: Compiler call returned
+22 Mar 2018 3:02:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1793a29
+22 Mar 2018 3:02:28 GMT:  Kind = WARNING
+22 Mar 2018 3:02:28 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:02:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cc914a
+22 Mar 2018 3:02:28 GMT:  Kind = ERROR
+22 Mar 2018 3:02:28 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 8 ColNo = 11 Msg = 'Return type for the method is missing'
+22 Mar 2018 3:02:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ba1748
+22 Mar 2018 3:02:28 GMT:  Kind = ERROR
+22 Mar 2018 3:02:28 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 5 ColNo = 5 Msg = 'The method createDeck() is undefined for the type Deck'
+22 Mar 2018 3:03:37 GMT: diagnostics = javax.tools.DiagnosticCollector@17c00aa
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1923007
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:03:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@c55b77' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:03:37 GMT: Compiler call returned
+22 Mar 2018 3:03:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1420794
+22 Mar 2018 3:03:37 GMT:  Kind = WARNING
+22 Mar 2018 3:03:37 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:03:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@90713e
+22 Mar 2018 3:03:37 GMT:  Kind = ERROR
+22 Mar 2018 3:03:37 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 11 ColNo = 12 Msg = 'Type mismatch: cannot convert from Card[] to Deck'
+22 Mar 2018 3:03:52 GMT: diagnostics = javax.tools.DiagnosticCollector@1c5475
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c0b13
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:03:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@103f95f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:03:52 GMT: Compiler call returned
+22 Mar 2018 3:03:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1008773
+22 Mar 2018 3:03:52 GMT:  Kind = WARNING
+22 Mar 2018 3:03:52 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:03:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e16d74
+22 Mar 2018 3:03:52 GMT:  Kind = ERROR
+22 Mar 2018 3:03:52 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 11 ColNo = 12 Msg = 'Type mismatch: cannot convert from Card[] to Deck'
+22 Mar 2018 3:04:09 GMT: diagnostics = javax.tools.DiagnosticCollector@11e521e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14f96c8
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:04:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c0625d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:04:09 GMT: Compiler call returned
+22 Mar 2018 3:04:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@54f77d
+22 Mar 2018 3:04:09 GMT:  Kind = WARNING
+22 Mar 2018 3:04:09 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:04:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@182a254
+22 Mar 2018 3:04:09 GMT:  Kind = ERROR
+22 Mar 2018 3:04:09 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 10 ColNo = 19 Msg = 'Type mismatch: cannot convert from Card[] to Deck[]'
+22 Mar 2018 3:04:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@789efe
+22 Mar 2018 3:04:09 GMT:  Kind = ERROR
+22 Mar 2018 3:04:09 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 11 ColNo = 12 Msg = 'Type mismatch: cannot convert from Deck[] to Deck'
+22 Mar 2018 3:04:34 GMT: diagnostics = javax.tools.DiagnosticCollector@a271ee
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7352bf
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:04:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@17a33d4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:04:34 GMT: Compiler call returned
+22 Mar 2018 3:04:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e3ca6d
+22 Mar 2018 3:04:34 GMT:  Kind = WARNING
+22 Mar 2018 3:04:34 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:11:18 GMT: diagnostics = javax.tools.DiagnosticCollector@1bb8647
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c85f20
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:11:18 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@28c1f1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:11:18 GMT: Compiler call returned
+22 Mar 2018 3:11:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c4fc08
+22 Mar 2018 3:11:18 GMT:  Kind = WARNING
+22 Mar 2018 3:11:18 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:11:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e24367
+22 Mar 2018 3:11:18 GMT:  Kind = ERROR
+22 Mar 2018 3:11:18 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 16 ColNo = 10 Msg = 'The return type is incompatible with Card.toString()'
+22 Mar 2018 3:12:41 GMT: diagnostics = javax.tools.DiagnosticCollector@9d75e8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1df7802
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:12:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@608f37' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:12:41 GMT: Compiler call returned
+22 Mar 2018 3:12:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1128601
+22 Mar 2018 3:12:41 GMT:  Kind = WARNING
+22 Mar 2018 3:12:41 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:12:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1da60eb
+22 Mar 2018 3:12:41 GMT:  Kind = ERROR
+22 Mar 2018 3:12:41 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 16 ColNo = 10 Msg = 'The return type is incompatible with Card.toString()'
+22 Mar 2018 3:14:10 GMT: diagnostics = javax.tools.DiagnosticCollector@1be35c7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10e4afd
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:14:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@61d7e1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:14:10 GMT: Compiler call returned
+22 Mar 2018 3:14:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1960da5
+22 Mar 2018 3:14:10 GMT:  Kind = WARNING
+22 Mar 2018 3:14:10 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:14:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@baa41d
+22 Mar 2018 3:14:10 GMT:  Kind = ERROR
+22 Mar 2018 3:14:10 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 16 ColNo = 17 Msg = 'This method must return a result of type java.lang.String'
+22 Mar 2018 3:14:25 GMT: diagnostics = javax.tools.DiagnosticCollector@fac13b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@12de111
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:14:25 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ed2149' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:14:25 GMT: Compiler call returned
+22 Mar 2018 3:14:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8d1b96
+22 Mar 2018 3:14:25 GMT:  Kind = WARNING
+22 Mar 2018 3:14:25 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:14:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14846bb
+22 Mar 2018 3:14:25 GMT:  Kind = ERROR
+22 Mar 2018 3:14:25 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 20 ColNo = 13 Msg = 'Type mismatch: cannot convert from Card to java.lang.String'
+22 Mar 2018 3:14:37 GMT: diagnostics = javax.tools.DiagnosticCollector@1a596e5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18fccbe
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:14:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c3c1d0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:14:37 GMT: Compiler call returned
+22 Mar 2018 3:14:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7b3aee
+22 Mar 2018 3:14:37 GMT:  Kind = WARNING
+22 Mar 2018 3:14:37 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:14:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@560890
+22 Mar 2018 3:14:37 GMT:  Kind = WARNING
+22 Mar 2018 3:14:37 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 18 ColNo = 37 Msg = 'Dead code'
+22 Mar 2018 3:14:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b0a40b
+22 Mar 2018 3:14:37 GMT:  Kind = ERROR
+22 Mar 2018 3:14:37 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 16 ColNo = 17 Msg = 'This method must return a result of type java.lang.String'
+22 Mar 2018 3:16:08 GMT: diagnostics = javax.tools.DiagnosticCollector@7bd81
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@191a0a3
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:16:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e8a1ee' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:16:08 GMT: Compiler call returned
+22 Mar 2018 3:16:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b30516
+22 Mar 2018 3:16:08 GMT:  Kind = WARNING
+22 Mar 2018 3:16:08 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:16:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c9fa0
+22 Mar 2018 3:16:08 GMT:  Kind = ERROR
+22 Mar 2018 3:16:08 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 20 ColNo = 21 Msg = 'The method getCard() is undefined for the type Card'
+22 Mar 2018 3:16:47 GMT: diagnostics = javax.tools.DiagnosticCollector@f2e3c8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@233c0f
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:16:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@12f5fa2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:16:47 GMT: Compiler call returned
+22 Mar 2018 3:16:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@227615
+22 Mar 2018 3:16:47 GMT:  Kind = WARNING
+22 Mar 2018 3:16:47 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:16:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@986363
+22 Mar 2018 3:16:47 GMT:  Kind = ERROR
+22 Mar 2018 3:16:47 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 20 ColNo = 13 Msg = 'Type mismatch: cannot convert from int to java.lang.String'
+22 Mar 2018 3:17:11 GMT: diagnostics = javax.tools.DiagnosticCollector@b382f5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d22225
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:17:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@643e33' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:17:11 GMT: Compiler call returned
+22 Mar 2018 3:17:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15652a0
+22 Mar 2018 3:17:11 GMT:  Kind = WARNING
+22 Mar 2018 3:17:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:17:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@151454a
+22 Mar 2018 3:17:11 GMT:  Kind = WARNING
+22 Mar 2018 3:17:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 18 ColNo = 37 Msg = 'Dead code'
+22 Mar 2018 3:17:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13fd709
+22 Mar 2018 3:17:11 GMT:  Kind = ERROR
+22 Mar 2018 3:17:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 16 ColNo = 17 Msg = 'This method must return a result of type java.lang.String'
+22 Mar 2018 3:17:27 GMT: diagnostics = javax.tools.DiagnosticCollector@1b1f8c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@fa4623
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:17:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6b3533' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:17:27 GMT: Compiler call returned
+22 Mar 2018 3:17:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d6dfc8
+22 Mar 2018 3:17:27 GMT:  Kind = WARNING
+22 Mar 2018 3:17:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:17:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1319a76
+22 Mar 2018 3:17:27 GMT:  Kind = WARNING
+22 Mar 2018 3:17:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 18 ColNo = 37 Msg = 'Dead code'
+22 Mar 2018 3:20:47 GMT: diagnostics = javax.tools.DiagnosticCollector@19e5589
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16038d3
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:20:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15eefce' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:20:47 GMT: Compiler call returned
+22 Mar 2018 3:20:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18c116
+22 Mar 2018 3:20:47 GMT:  Kind = ERROR
+22 Mar 2018 3:20:47 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 1 ColNo = 30 Msg = 'The type Card cannot be a superinterface of Deck; a superinterface must be an interface'
+22 Mar 2018 3:20:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@be32fd
+22 Mar 2018 3:20:47 GMT:  Kind = WARNING
+22 Mar 2018 3:20:47 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:27:31 GMT: diagnostics = javax.tools.DiagnosticCollector@18ed694
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9b280f
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:27:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@9fc5e8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:27:31 GMT: Compiler call returned
+22 Mar 2018 3:27:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c255b4
+22 Mar 2018 3:27:31 GMT:  Kind = WARNING
+22 Mar 2018 3:27:31 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:27:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b0e4e8
+22 Mar 2018 3:27:31 GMT:  Kind = ERROR
+22 Mar 2018 3:27:31 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 15 ColNo = 12 Msg = 'Type mismatch: cannot convert from java.util.ArrayList<Card> to Card[]'
+22 Mar 2018 3:27:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8eeaba
+22 Mar 2018 3:27:31 GMT:  Kind = ERROR
+22 Mar 2018 3:27:31 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 20 ColNo = 29 Msg = 'length cannot be resolved or is not a field'
+22 Mar 2018 3:27:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c86204
+22 Mar 2018 3:27:31 GMT:  Kind = ERROR
+22 Mar 2018 3:27:31 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 22 ColNo = 13 Msg = 'The type of the expression must be an array type but it resolved to java.util.ArrayList<Card>'
+22 Mar 2018 3:27:52 GMT: diagnostics = javax.tools.DiagnosticCollector@13c0287
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@41822f
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:27:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1754848' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:27:52 GMT: Compiler call returned
+22 Mar 2018 3:27:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18cd6db
+22 Mar 2018 3:27:52 GMT:  Kind = WARNING
+22 Mar 2018 3:27:52 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:27:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@192a8d2
+22 Mar 2018 3:27:52 GMT:  Kind = ERROR
+22 Mar 2018 3:27:52 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 20 ColNo = 29 Msg = 'length cannot be resolved or is not a field'
+22 Mar 2018 3:27:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3035f3
+22 Mar 2018 3:27:52 GMT:  Kind = ERROR
+22 Mar 2018 3:27:52 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 22 ColNo = 13 Msg = 'The type of the expression must be an array type but it resolved to java.util.ArrayList<Card>'
+22 Mar 2018 3:28:42 GMT: diagnostics = javax.tools.DiagnosticCollector@75e920
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b719ff
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:28:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@54cfac' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:28:42 GMT: Compiler call returned
+22 Mar 2018 3:28:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19cdb6e
+22 Mar 2018 3:28:42 GMT:  Kind = WARNING
+22 Mar 2018 3:28:42 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:28:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1dc88b0
+22 Mar 2018 3:28:42 GMT:  Kind = ERROR
+22 Mar 2018 3:28:42 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 22 ColNo = 13 Msg = 'The type of the expression must be an array type but it resolved to java.util.ArrayList<Card>'
+22 Mar 2018 3:29:09 GMT: diagnostics = javax.tools.DiagnosticCollector@9d7532
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@153edee
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:29:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@11dfec8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:29:09 GMT: Compiler call returned
+22 Mar 2018 3:29:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f355d
+22 Mar 2018 3:29:09 GMT:  Kind = WARNING
+22 Mar 2018 3:29:09 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:29:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@93878
+22 Mar 2018 3:29:09 GMT:  Kind = WARNING
+22 Mar 2018 3:29:09 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 20 ColNo = 37 Msg = 'Dead code'
+22 Mar 2018 3:29:23 GMT: diagnostics = javax.tools.DiagnosticCollector@468b47
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c18d93
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:29:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@887944' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:29:23 GMT: Compiler call returned
+22 Mar 2018 3:29:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c94383
+22 Mar 2018 3:29:23 GMT:  Kind = WARNING
+22 Mar 2018 3:29:23 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:29:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bfde2c
+22 Mar 2018 3:29:23 GMT:  Kind = WARNING
+22 Mar 2018 3:29:23 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 20 ColNo = 37 Msg = 'Dead code'
+22 Mar 2018 3:29:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@168d266
+22 Mar 2018 3:29:23 GMT:  Kind = ERROR
+22 Mar 2018 3:29:23 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 18 ColNo = 17 Msg = 'This method must return a result of type java.lang.String'
+22 Mar 2018 3:29:38 GMT: diagnostics = javax.tools.DiagnosticCollector@8172b3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@158127b
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:29:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1590900' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:29:38 GMT: Compiler call returned
+22 Mar 2018 3:29:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@144d852
+22 Mar 2018 3:29:38 GMT:  Kind = WARNING
+22 Mar 2018 3:29:38 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:29:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a98e1f
+22 Mar 2018 3:29:38 GMT:  Kind = ERROR
+22 Mar 2018 3:29:38 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 24 ColNo = 5 Msg = 'This method must return a result of type java.lang.String'
+22 Mar 2018 3:29:46 GMT: diagnostics = javax.tools.DiagnosticCollector@14a9b9a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@169879f
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:29:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@84c641' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:29:46 GMT: Compiler call returned
+22 Mar 2018 3:29:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4e412b
+22 Mar 2018 3:29:46 GMT:  Kind = WARNING
+22 Mar 2018 3:29:46 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:29:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d7bd5b
+22 Mar 2018 3:29:46 GMT:  Kind = WARNING
+22 Mar 2018 3:29:46 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 20 ColNo = 37 Msg = 'Dead code'
+22 Mar 2018 3:31:10 GMT: diagnostics = javax.tools.DiagnosticCollector@58ed06
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1394f01
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:31:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@10a8f0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:31:10 GMT: Compiler call returned
+22 Mar 2018 3:31:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14c9921
+22 Mar 2018 3:31:10 GMT:  Kind = WARNING
+22 Mar 2018 3:31:10 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:31:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fb2fe3
+22 Mar 2018 3:31:10 GMT:  Kind = ERROR
+22 Mar 2018 3:31:10 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 17 ColNo = 15 Msg = 'The method Card() is undefined for the type Deck'
+22 Mar 2018 3:31:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@76bd25
+22 Mar 2018 3:31:10 GMT:  Kind = WARNING
+22 Mar 2018 3:31:10 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 24 ColNo = 37 Msg = 'Dead code'
+22 Mar 2018 3:31:51 GMT: diagnostics = javax.tools.DiagnosticCollector@13983e1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b2be98
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:31:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1dc2294' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:31:51 GMT: Compiler call returned
+22 Mar 2018 3:31:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f417a2
+22 Mar 2018 3:31:51 GMT:  Kind = WARNING
+22 Mar 2018 3:31:51 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:31:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@afc09e
+22 Mar 2018 3:31:51 GMT:  Kind = ERROR
+22 Mar 2018 3:31:51 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 17 ColNo = 21 Msg = 'The method Card() is undefined for the type Card'
+22 Mar 2018 3:31:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@dfee7f
+22 Mar 2018 3:31:51 GMT:  Kind = WARNING
+22 Mar 2018 3:31:51 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 24 ColNo = 37 Msg = 'Dead code'
+22 Mar 2018 3:31:56 GMT: diagnostics = javax.tools.DiagnosticCollector@d2be74
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b1191a
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:31:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1648433' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:31:56 GMT: Compiler call returned
+22 Mar 2018 3:31:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1085503
+22 Mar 2018 3:31:56 GMT:  Kind = WARNING
+22 Mar 2018 3:31:56 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:31:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e93ab8
+22 Mar 2018 3:31:56 GMT:  Kind = ERROR
+22 Mar 2018 3:31:56 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 17 ColNo = 21 Msg = 'The method Card() is undefined for the type Card'
+22 Mar 2018 3:31:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ffa5d3
+22 Mar 2018 3:31:56 GMT:  Kind = WARNING
+22 Mar 2018 3:31:56 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 24 ColNo = 37 Msg = 'Dead code'
+22 Mar 2018 3:33:02 GMT: diagnostics = javax.tools.DiagnosticCollector@87ad83
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a4b429
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:33:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@52fd0d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:33:02 GMT: Compiler call returned
+22 Mar 2018 3:33:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@266416
+22 Mar 2018 3:33:02 GMT:  Kind = WARNING
+22 Mar 2018 3:33:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:33:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@124c820
+22 Mar 2018 3:33:02 GMT:  Kind = WARNING
+22 Mar 2018 3:33:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 24 ColNo = 37 Msg = 'Dead code'
+22 Mar 2018 3:33:16 GMT: diagnostics = javax.tools.DiagnosticCollector@11a2523
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9cc5b1
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:33:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1925744' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:33:16 GMT: Compiler call returned
+22 Mar 2018 3:33:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fc11d8
+22 Mar 2018 3:33:16 GMT:  Kind = WARNING
+22 Mar 2018 3:33:16 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:33:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14ddee1
+22 Mar 2018 3:33:16 GMT:  Kind = ERROR
+22 Mar 2018 3:33:16 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 26 ColNo = 13 Msg = 'Type mismatch: cannot convert from Card to java.lang.String'
+22 Mar 2018 3:33:38 GMT: diagnostics = javax.tools.DiagnosticCollector@1cbda31
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1f36d20
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:33:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c6627' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:33:38 GMT: Compiler call returned
+22 Mar 2018 3:33:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@133321f
+22 Mar 2018 3:33:38 GMT:  Kind = WARNING
+22 Mar 2018 3:33:38 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:33:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f9ea13
+22 Mar 2018 3:33:38 GMT:  Kind = WARNING
+22 Mar 2018 3:33:38 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 24 ColNo = 37 Msg = 'Dead code'
+22 Mar 2018 3:34:53 GMT: diagnostics = javax.tools.DiagnosticCollector@b2c00c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@eb0d6c
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:34:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@17fed9c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:34:53 GMT: Compiler call returned
+22 Mar 2018 3:34:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b2cb8d
+22 Mar 2018 3:34:53 GMT:  Kind = WARNING
+22 Mar 2018 3:34:53 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:34:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@669db0
+22 Mar 2018 3:34:53 GMT:  Kind = ERROR
+22 Mar 2018 3:34:53 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 9 ColNo = 17 Msg = 'Type mismatch: cannot convert from java.util.ArrayList<Card> to Deck'
+22 Mar 2018 3:34:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1763576
+22 Mar 2018 3:34:53 GMT:  Kind = WARNING
+22 Mar 2018 3:34:53 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 24 ColNo = 37 Msg = 'Dead code'
+22 Mar 2018 3:34:55 GMT: diagnostics = javax.tools.DiagnosticCollector@b17b99
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7828d7
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:34:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6288b4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:34:55 GMT: Compiler call returned
+22 Mar 2018 3:34:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1130640
+22 Mar 2018 3:34:55 GMT:  Kind = WARNING
+22 Mar 2018 3:34:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:34:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fad1a6
+22 Mar 2018 3:34:55 GMT:  Kind = ERROR
+22 Mar 2018 3:34:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 9 ColNo = 17 Msg = 'Type mismatch: cannot convert from java.util.ArrayList<Card> to Deck'
+22 Mar 2018 3:34:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15fc8b
+22 Mar 2018 3:34:55 GMT:  Kind = WARNING
+22 Mar 2018 3:34:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 24 ColNo = 37 Msg = 'Dead code'
+22 Mar 2018 3:35:34 GMT: diagnostics = javax.tools.DiagnosticCollector@6d1aee
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1931d9f
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:35:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7c3167' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:35:35 GMT: Compiler call returned
+22 Mar 2018 3:35:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1880f1
+22 Mar 2018 3:35:35 GMT:  Kind = WARNING
+22 Mar 2018 3:35:35 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:35:55 GMT: diagnostics = javax.tools.DiagnosticCollector@1900a1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16e38af
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:35:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@178b21c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:35:55 GMT: Compiler call returned
+22 Mar 2018 3:35:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d1aa81
+22 Mar 2018 3:35:55 GMT:  Kind = WARNING
+22 Mar 2018 3:35:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:37:44 GMT: diagnostics = javax.tools.DiagnosticCollector@18615ab
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4607c1
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:37:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@82cc12' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:37:44 GMT: Compiler call returned
+22 Mar 2018 3:37:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d974f
+22 Mar 2018 3:37:44 GMT:  Kind = WARNING
+22 Mar 2018 3:37:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:37:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7b08a2
+22 Mar 2018 3:37:44 GMT:  Kind = ERROR
+22 Mar 2018 3:37:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 22 ColNo = 17 Msg = 'This method must return a result of type java.lang.String'
+22 Mar 2018 3:39:54 GMT: diagnostics = javax.tools.DiagnosticCollector@6e707d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@115039a
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:39:54 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4e2d6f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:39:54 GMT: Compiler call returned
+22 Mar 2018 3:39:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1af63f
+22 Mar 2018 3:39:54 GMT:  Kind = WARNING
+22 Mar 2018 3:39:54 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:39:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1df2a2b
+22 Mar 2018 3:39:54 GMT:  Kind = ERROR
+22 Mar 2018 3:39:54 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 22 ColNo = 17 Msg = 'This method must return a result of type java.lang.String'
+22 Mar 2018 3:40:02 GMT: diagnostics = javax.tools.DiagnosticCollector@1ed1b05
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@275fab
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:40:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@259b7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:40:02 GMT: Compiler call returned
+22 Mar 2018 3:40:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ae2f51
+22 Mar 2018 3:40:02 GMT:  Kind = WARNING
+22 Mar 2018 3:40:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:40:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@184720
+22 Mar 2018 3:40:02 GMT:  Kind = ERROR
+22 Mar 2018 3:40:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 22 ColNo = 10 Msg = 'The return type is incompatible with Card.toString()'
+22 Mar 2018 3:40:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11d1eff
+22 Mar 2018 3:40:02 GMT:  Kind = ERROR
+22 Mar 2018 3:40:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 31 ColNo = 16 Msg = 'The method println(boolean) in the type java.io.PrintStream is not applicable for the arguments (void)'
+22 Mar 2018 3:41:10 GMT: diagnostics = javax.tools.DiagnosticCollector@11121f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ac712b
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:41:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f11069' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:41:10 GMT: Compiler call returned
+22 Mar 2018 3:41:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@edc184
+22 Mar 2018 3:41:10 GMT:  Kind = WARNING
+22 Mar 2018 3:41:10 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:41:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1894d69
+22 Mar 2018 3:41:10 GMT:  Kind = ERROR
+22 Mar 2018 3:41:10 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 26 ColNo = 35 Msg = 'Syntax error on token ")", delete this token'
+22 Mar 2018 3:41:17 GMT: diagnostics = javax.tools.DiagnosticCollector@cd0508
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1baa3ca
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:41:17 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1693af' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:41:17 GMT: Compiler call returned
+22 Mar 2018 3:41:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@159f2e2
+22 Mar 2018 3:41:17 GMT:  Kind = WARNING
+22 Mar 2018 3:41:17 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:41:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17a2f40
+22 Mar 2018 3:41:17 GMT:  Kind = WARNING
+22 Mar 2018 3:41:17 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 24 ColNo = 37 Msg = 'Dead code'
+22 Mar 2018 3:41:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@488d42
+22 Mar 2018 3:41:17 GMT:  Kind = ERROR
+22 Mar 2018 3:41:17 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 22 ColNo = 17 Msg = 'This method must return a result of type java.lang.String'
+22 Mar 2018 3:41:29 GMT: diagnostics = javax.tools.DiagnosticCollector@16e136c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@105b9bc
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:41:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3aceba' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:41:29 GMT: Compiler call returned
+22 Mar 2018 3:41:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ad10e1
+22 Mar 2018 3:41:29 GMT:  Kind = WARNING
+22 Mar 2018 3:41:29 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:41:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@151a2c3
+22 Mar 2018 3:41:29 GMT:  Kind = WARNING
+22 Mar 2018 3:41:29 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 24 ColNo = 37 Msg = 'Dead code'
+22 Mar 2018 3:43:30 GMT: diagnostics = javax.tools.DiagnosticCollector@1c36193
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@301104
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:43:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@76cce1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:43:31 GMT: Compiler call returned
+22 Mar 2018 3:43:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9f6d39
+22 Mar 2018 3:43:31 GMT:  Kind = WARNING
+22 Mar 2018 3:43:31 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:43:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@de97f1
+22 Mar 2018 3:43:31 GMT:  Kind = ERROR
+22 Mar 2018 3:43:31 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 27 ColNo = 6 Msg = 'The local variable test may not have been initialized'
+22 Mar 2018 3:43:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f21064
+22 Mar 2018 3:43:31 GMT:  Kind = ERROR
+22 Mar 2018 3:43:31 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 29 ColNo = 12 Msg = 'The local variable test may not have been initialized'
+22 Mar 2018 3:43:41 GMT: diagnostics = javax.tools.DiagnosticCollector@16a9d1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1013bcd
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:43:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f4a9a4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:43:41 GMT: Compiler call returned
+22 Mar 2018 3:43:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@df1ddd
+22 Mar 2018 3:43:41 GMT:  Kind = WARNING
+22 Mar 2018 3:43:41 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:43:53 GMT: diagnostics = javax.tools.DiagnosticCollector@632783
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1bc888c
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:43:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6bb44f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:43:53 GMT: Compiler call returned
+22 Mar 2018 3:43:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f21af5
+22 Mar 2018 3:43:53 GMT:  Kind = WARNING
+22 Mar 2018 3:43:53 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:44:42 GMT: diagnostics = javax.tools.DiagnosticCollector@dd366a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1551923
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:44:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1068de9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:44:42 GMT: Compiler call returned
+22 Mar 2018 3:44:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fb0e8f
+22 Mar 2018 3:44:42 GMT:  Kind = WARNING
+22 Mar 2018 3:44:42 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:45:36 GMT: diagnostics = javax.tools.DiagnosticCollector@165a9fb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@fd883f
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:45:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f4b59' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:45:36 GMT: Compiler call returned
+22 Mar 2018 3:45:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ce7fd3
+22 Mar 2018 3:45:36 GMT:  Kind = WARNING
+22 Mar 2018 3:45:36 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 3:46:27 GMT: diagnostics = javax.tools.DiagnosticCollector@a5f0b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b13297
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 3:46:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@633927' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 3:46:27 GMT: Compiler call returned
+22 Mar 2018 3:46:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d4c353
+22 Mar 2018 3:46:27 GMT:  Kind = WARNING
+22 Mar 2018 3:46:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:02:04 GMT: diagnostics = javax.tools.DiagnosticCollector@391b76
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16ac163
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:02:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@13748f4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:02:04 GMT: Compiler call returned
+22 Mar 2018 4:02:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b6d42d
+22 Mar 2018 4:02:04 GMT:  Kind = WARNING
+22 Mar 2018 4:02:04 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:02:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5febae
+22 Mar 2018 4:02:04 GMT:  Kind = ERROR
+22 Mar 2018 4:02:04 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 29 ColNo = 32 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+22 Mar 2018 4:02:12 GMT: diagnostics = javax.tools.DiagnosticCollector@1ebd510
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@8a8f05
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:02:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@12b05e6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:02:12 GMT: Compiler call returned
+22 Mar 2018 4:02:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fc8b40
+22 Mar 2018 4:02:12 GMT:  Kind = WARNING
+22 Mar 2018 4:02:12 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:02:33 GMT: diagnostics = javax.tools.DiagnosticCollector@cae528
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ac0e6b
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:02:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15f1202' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:02:33 GMT: Compiler call returned
+22 Mar 2018 4:02:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@125aad
+22 Mar 2018 4:02:33 GMT:  Kind = WARNING
+22 Mar 2018 4:02:33 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:02:53 GMT: diagnostics = javax.tools.DiagnosticCollector@8e841
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@495e4
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:02:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@92c501' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:02:53 GMT: Compiler call returned
+22 Mar 2018 4:02:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bd716d
+22 Mar 2018 4:02:53 GMT:  Kind = WARNING
+22 Mar 2018 4:02:53 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:03:12 GMT: diagnostics = javax.tools.DiagnosticCollector@11621a4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d631f7
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:03:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14cda65' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:03:12 GMT: Compiler call returned
+22 Mar 2018 4:03:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e4e15a
+22 Mar 2018 4:03:12 GMT:  Kind = WARNING
+22 Mar 2018 4:03:12 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:04:03 GMT: diagnostics = javax.tools.DiagnosticCollector@1996407
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16cc4f1
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:04:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@16bd6c6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:04:03 GMT: Compiler call returned
+22 Mar 2018 4:04:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f3a21
+22 Mar 2018 4:04:03 GMT:  Kind = WARNING
+22 Mar 2018 4:04:03 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:05:27 GMT: diagnostics = javax.tools.DiagnosticCollector@152e7a7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ef2586
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:05:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@bfe67b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:05:27 GMT: Compiler call returned
+22 Mar 2018 4:05:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@422a07
+22 Mar 2018 4:05:27 GMT:  Kind = WARNING
+22 Mar 2018 4:05:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:10:57 GMT: diagnostics = javax.tools.DiagnosticCollector@74e710
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ae2a44
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:10:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a4e140' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:10:58 GMT: Compiler call returned
+22 Mar 2018 4:10:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3d40dc
+22 Mar 2018 4:10:58 GMT:  Kind = WARNING
+22 Mar 2018 4:10:58 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:10:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c49a97
+22 Mar 2018 4:10:58 GMT:  Kind = ERROR
+22 Mar 2018 4:10:58 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 31 ColNo = 7 Msg = 'decl cannot be resolved'
+22 Mar 2018 4:11:06 GMT: diagnostics = javax.tools.DiagnosticCollector@198da39
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@19d8b6b
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:11:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15f3a63' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:11:06 GMT: Compiler call returned
+22 Mar 2018 4:11:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cc9343
+22 Mar 2018 4:11:06 GMT:  Kind = WARNING
+22 Mar 2018 4:11:06 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:41:01 GMT: diagnostics = javax.tools.DiagnosticCollector@18423da
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ec4f20
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:41:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e8db7f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:41:01 GMT: Compiler call returned
+22 Mar 2018 4:41:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7b75d3
+22 Mar 2018 4:41:01 GMT:  Kind = WARNING
+22 Mar 2018 4:41:01 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:41:40 GMT: diagnostics = javax.tools.DiagnosticCollector@1c891e1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@27b717
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:41:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ecc6dc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:41:40 GMT: Compiler call returned
+22 Mar 2018 4:41:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a1fcb6
+22 Mar 2018 4:41:40 GMT:  Kind = WARNING
+22 Mar 2018 4:41:40 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:41:52 GMT: diagnostics = javax.tools.DiagnosticCollector@16f5572
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1f848b5
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:41:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@af6611' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:41:52 GMT: Compiler call returned
+22 Mar 2018 4:41:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fde7c5
+22 Mar 2018 4:41:52 GMT:  Kind = WARNING
+22 Mar 2018 4:41:52 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:42:01 GMT: diagnostics = javax.tools.DiagnosticCollector@bad75b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1739e93
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:42:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1981f68' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:42:02 GMT: Compiler call returned
+22 Mar 2018 4:42:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@419309
+22 Mar 2018 4:42:02 GMT:  Kind = WARNING
+22 Mar 2018 4:42:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:42:56 GMT: diagnostics = javax.tools.DiagnosticCollector@18926fa
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7e2530
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:42:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@53598b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:42:56 GMT: Compiler call returned
+22 Mar 2018 4:42:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@726b65
+22 Mar 2018 4:42:56 GMT:  Kind = WARNING
+22 Mar 2018 4:42:56 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:44:01 GMT: diagnostics = javax.tools.DiagnosticCollector@15912b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d916bc
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:44:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@124bc4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:44:01 GMT: Compiler call returned
+22 Mar 2018 4:44:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@362459
+22 Mar 2018 4:44:01 GMT:  Kind = WARNING
+22 Mar 2018 4:44:01 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:44:16 GMT: diagnostics = javax.tools.DiagnosticCollector@1d70f19
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b88428
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:44:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15d9b37' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:44:16 GMT: Compiler call returned
+22 Mar 2018 4:44:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@134db5c
+22 Mar 2018 4:44:16 GMT:  Kind = WARNING
+22 Mar 2018 4:44:16 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:44:51 GMT: diagnostics = javax.tools.DiagnosticCollector@1ae9ca6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@dbfccd
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:44:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@92e4c3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:44:51 GMT: Compiler call returned
+22 Mar 2018 4:44:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15bd7ce
+22 Mar 2018 4:44:51 GMT:  Kind = WARNING
+22 Mar 2018 4:44:51 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:47:50 GMT: diagnostics = javax.tools.DiagnosticCollector@60be06
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@19315a5
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:47:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b9a39a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:47:50 GMT: Compiler call returned
+22 Mar 2018 4:47:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@174de3f
+22 Mar 2018 4:47:50 GMT:  Kind = WARNING
+22 Mar 2018 4:47:50 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:48:51 GMT: diagnostics = javax.tools.DiagnosticCollector@d60322
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10c06ed
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:48:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d26086' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:48:51 GMT: Compiler call returned
+22 Mar 2018 4:48:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@de16c2
+22 Mar 2018 4:48:51 GMT:  Kind = WARNING
+22 Mar 2018 4:48:51 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:48:59 GMT: diagnostics = javax.tools.DiagnosticCollector@1eb0816
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18b7125
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:48:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d3a981' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:48:59 GMT: Compiler call returned
+22 Mar 2018 4:48:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@169f2f1
+22 Mar 2018 4:48:59 GMT:  Kind = WARNING
+22 Mar 2018 4:48:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:49:58 GMT: diagnostics = javax.tools.DiagnosticCollector@8c36a4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2bb6b
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:49:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1466b31' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:49:58 GMT: Compiler call returned
+22 Mar 2018 4:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1736a7e
+22 Mar 2018 4:49:58 GMT:  Kind = WARNING
+22 Mar 2018 4:49:58 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:50:14 GMT: diagnostics = javax.tools.DiagnosticCollector@fb5abe
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11aa1f6
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:50:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@cab976' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:50:14 GMT: Compiler call returned
+22 Mar 2018 4:50:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@271212
+22 Mar 2018 4:50:14 GMT:  Kind = WARNING
+22 Mar 2018 4:50:14 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:50:36 GMT: diagnostics = javax.tools.DiagnosticCollector@a0ec41
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1dcd3f6
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:50:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d58098' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:50:36 GMT: Compiler call returned
+22 Mar 2018 4:50:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b56dca
+22 Mar 2018 4:50:36 GMT:  Kind = WARNING
+22 Mar 2018 4:50:36 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:50:51 GMT: diagnostics = javax.tools.DiagnosticCollector@7a96d1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c9b8f6
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:50:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d0928f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:50:51 GMT: Compiler call returned
+22 Mar 2018 4:50:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1760199
+22 Mar 2018 4:50:51 GMT:  Kind = WARNING
+22 Mar 2018 4:50:51 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:51:02 GMT: diagnostics = javax.tools.DiagnosticCollector@cd4a5c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@38149b
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:51:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e5cd6f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:51:02 GMT: Compiler call returned
+22 Mar 2018 4:51:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cf3f48
+22 Mar 2018 4:51:02 GMT:  Kind = WARNING
+22 Mar 2018 4:51:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:52:47 GMT: diagnostics = javax.tools.DiagnosticCollector@71cc49
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@173825a
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:52:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@80d637' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:52:47 GMT: Compiler call returned
+22 Mar 2018 4:52:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e0699f
+22 Mar 2018 4:52:47 GMT:  Kind = WARNING
+22 Mar 2018 4:52:47 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:54:05 GMT: diagnostics = javax.tools.DiagnosticCollector@a42f4b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d71922
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:54:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b0faa9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:54:05 GMT: Compiler call returned
+22 Mar 2018 4:54:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3494cd
+22 Mar 2018 4:54:05 GMT:  Kind = WARNING
+22 Mar 2018 4:54:05 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 4:55:10 GMT: diagnostics = javax.tools.DiagnosticCollector@1a30f05
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1541567
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 4:55:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d8d67c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 4:55:10 GMT: Compiler call returned
+22 Mar 2018 4:55:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14d18d2
+22 Mar 2018 4:55:10 GMT:  Kind = WARNING
+22 Mar 2018 4:55:10 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:00:13 GMT: diagnostics = javax.tools.DiagnosticCollector@95bb09
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c9588c
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:00:13 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5b3673' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:00:13 GMT: Compiler call returned
+22 Mar 2018 5:00:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c4b56c
+22 Mar 2018 5:00:13 GMT:  Kind = WARNING
+22 Mar 2018 5:00:13 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:06:04 GMT: diagnostics = javax.tools.DiagnosticCollector@188e50e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11e82f9
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:06:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ad6f88' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:06:04 GMT: Compiler call returned
+22 Mar 2018 5:06:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@462e3a
+22 Mar 2018 5:06:04 GMT:  Kind = WARNING
+22 Mar 2018 5:06:04 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:06:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@748182
+22 Mar 2018 5:06:04 GMT:  Kind = ERROR
+22 Mar 2018 5:06:04 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 43 ColNo = 12 Msg = 'The left-hand side of an assignment must be a variable'
+22 Mar 2018 5:06:16 GMT: diagnostics = javax.tools.DiagnosticCollector@5f9f4e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11e28e6
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:06:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@12e0cd0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:06:16 GMT: Compiler call returned
+22 Mar 2018 5:06:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f669d
+22 Mar 2018 5:06:16 GMT:  Kind = WARNING
+22 Mar 2018 5:06:16 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:12:58 GMT: diagnostics = javax.tools.DiagnosticCollector@4e933
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b1713e
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:12:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@124ec1a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:12:58 GMT: Compiler call returned
+22 Mar 2018 5:12:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f2584b
+22 Mar 2018 5:12:58 GMT:  Kind = WARNING
+22 Mar 2018 5:12:58 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:16:18 GMT: diagnostics = javax.tools.DiagnosticCollector@1b1443
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f17364
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:16:18 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@eec9e7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:16:19 GMT: Compiler call returned
+22 Mar 2018 5:16:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fef380
+22 Mar 2018 5:16:19 GMT:  Kind = WARNING
+22 Mar 2018 5:16:19 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:18:53 GMT: diagnostics = javax.tools.DiagnosticCollector@1e539f6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@fc8580
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:18:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18a599e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:18:53 GMT: Compiler call returned
+22 Mar 2018 5:18:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@769209
+22 Mar 2018 5:18:53 GMT:  Kind = WARNING
+22 Mar 2018 5:18:53 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:32:02 GMT: diagnostics = javax.tools.DiagnosticCollector@307860
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e6b40e
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:32:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c58a8e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:32:02 GMT: Compiler call returned
+22 Mar 2018 5:32:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e27870
+22 Mar 2018 5:32:02 GMT:  Kind = WARNING
+22 Mar 2018 5:32:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:32:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@110d611
+22 Mar 2018 5:32:02 GMT:  Kind = ERROR
+22 Mar 2018 5:32:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 53 ColNo = 11 Msg = 'Syntax error on token "int", delete this token'
+22 Mar 2018 5:32:16 GMT: diagnostics = javax.tools.DiagnosticCollector@1b57e41
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18d6910
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:32:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b5da4f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:32:16 GMT: Compiler call returned
+22 Mar 2018 5:32:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11245c8
+22 Mar 2018 5:32:16 GMT:  Kind = WARNING
+22 Mar 2018 5:32:16 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:32:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d68919
+22 Mar 2018 5:32:16 GMT:  Kind = ERROR
+22 Mar 2018 5:32:16 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 51 ColNo = 5 Msg = 'Random cannot be resolved to a type'
+22 Mar 2018 5:32:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1788492
+22 Mar 2018 5:32:16 GMT:  Kind = ERROR
+22 Mar 2018 5:32:16 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 51 ColNo = 23 Msg = 'Random cannot be resolved to a type'
+22 Mar 2018 5:32:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17c9560
+22 Mar 2018 5:32:16 GMT:  Kind = ERROR
+22 Mar 2018 5:32:16 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 53 ColNo = 11 Msg = 'z cannot be resolved to a variable'
+22 Mar 2018 5:32:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c9ad42
+22 Mar 2018 5:32:16 GMT:  Kind = ERROR
+22 Mar 2018 5:32:16 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 55 ColNo = 28 Msg = 'The method getSize() is undefined for the type java.util.ArrayList<Card>'
+22 Mar 2018 5:32:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4362c3
+22 Mar 2018 5:32:16 GMT:  Kind = ERROR
+22 Mar 2018 5:32:16 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 57 ColNo = 24 Msg = 'The method getSize() is undefined for the type java.util.ArrayList<Card>'
+22 Mar 2018 5:32:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fe380d
+22 Mar 2018 5:32:16 GMT:  Kind = ERROR
+22 Mar 2018 5:32:16 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 63 ColNo = 4 Msg = 'z cannot be resolved to a variable'
+22 Mar 2018 5:32:33 GMT: diagnostics = javax.tools.DiagnosticCollector@112d13e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@42ced
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:32:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d8aa8d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:32:33 GMT: Compiler call returned
+22 Mar 2018 5:32:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1950853
+22 Mar 2018 5:32:33 GMT:  Kind = WARNING
+22 Mar 2018 5:32:33 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:32:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bce9d1
+22 Mar 2018 5:32:33 GMT:  Kind = ERROR
+22 Mar 2018 5:32:33 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 54 ColNo = 11 Msg = 'z cannot be resolved to a variable'
+22 Mar 2018 5:32:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a91a14
+22 Mar 2018 5:32:33 GMT:  Kind = ERROR
+22 Mar 2018 5:32:33 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 56 ColNo = 28 Msg = 'The method getSize() is undefined for the type java.util.ArrayList<Card>'
+22 Mar 2018 5:32:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@793aa4
+22 Mar 2018 5:32:33 GMT:  Kind = ERROR
+22 Mar 2018 5:32:33 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 58 ColNo = 24 Msg = 'The method getSize() is undefined for the type java.util.ArrayList<Card>'
+22 Mar 2018 5:32:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ed6668
+22 Mar 2018 5:32:33 GMT:  Kind = ERROR
+22 Mar 2018 5:32:33 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 64 ColNo = 4 Msg = 'z cannot be resolved to a variable'
+22 Mar 2018 5:33:02 GMT: diagnostics = javax.tools.DiagnosticCollector@1a1f039
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@cd8a68
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:33:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a5f100' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:33:02 GMT: Compiler call returned
+22 Mar 2018 5:33:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bf41ef
+22 Mar 2018 5:33:02 GMT:  Kind = WARNING
+22 Mar 2018 5:33:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:33:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c62232
+22 Mar 2018 5:33:02 GMT:  Kind = ERROR
+22 Mar 2018 5:33:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 56 ColNo = 28 Msg = 'The method getSize() is undefined for the type java.util.ArrayList<Card>'
+22 Mar 2018 5:33:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ac4155
+22 Mar 2018 5:33:02 GMT:  Kind = ERROR
+22 Mar 2018 5:33:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 58 ColNo = 24 Msg = 'The method getSize() is undefined for the type java.util.ArrayList<Card>'
+22 Mar 2018 5:33:26 GMT: diagnostics = javax.tools.DiagnosticCollector@1abaf4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@157de47
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:33:26 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@159d06' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:33:26 GMT: Compiler call returned
+22 Mar 2018 5:33:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1391767
+22 Mar 2018 5:33:26 GMT:  Kind = WARNING
+22 Mar 2018 5:33:26 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:33:51 GMT: diagnostics = javax.tools.DiagnosticCollector@11dfe1f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2b7bfd
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:33:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2befb7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:33:51 GMT: Compiler call returned
+22 Mar 2018 5:33:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bd7be6
+22 Mar 2018 5:33:51 GMT:  Kind = WARNING
+22 Mar 2018 5:33:51 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:34:23 GMT: diagnostics = javax.tools.DiagnosticCollector@188106a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1310f6b
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:34:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5da391' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:34:23 GMT: Compiler call returned
+22 Mar 2018 5:34:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@af09e4
+22 Mar 2018 5:34:23 GMT:  Kind = WARNING
+22 Mar 2018 5:34:23 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:39:00 GMT: diagnostics = javax.tools.DiagnosticCollector@1dd0bfb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17252d8
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:39:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f9c221' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:39:00 GMT: Compiler call returned
+22 Mar 2018 5:39:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3886cd
+22 Mar 2018 5:39:00 GMT:  Kind = WARNING
+22 Mar 2018 5:39:00 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:39:24 GMT: diagnostics = javax.tools.DiagnosticCollector@52ddd4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@83bf1a
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:39:24 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1392f1f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:39:24 GMT: Compiler call returned
+22 Mar 2018 5:39:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1607288
+22 Mar 2018 5:39:24 GMT:  Kind = WARNING
+22 Mar 2018 5:39:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:40:55 GMT: diagnostics = javax.tools.DiagnosticCollector@96138b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d5481d
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:40:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1dfa0b5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:40:55 GMT: Compiler call returned
+22 Mar 2018 5:40:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ffb1aa
+22 Mar 2018 5:40:55 GMT:  Kind = WARNING
+22 Mar 2018 5:40:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:42:30 GMT: diagnostics = javax.tools.DiagnosticCollector@1fb03a8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ba08ef
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:42:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@120617e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:42:30 GMT: Compiler call returned
+22 Mar 2018 5:42:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@132f89c
+22 Mar 2018 5:42:30 GMT:  Kind = WARNING
+22 Mar 2018 5:42:30 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:44:33 GMT: diagnostics = javax.tools.DiagnosticCollector@1faf7a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@160e3e2
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:44:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@cddce8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:44:33 GMT: Compiler call returned
+22 Mar 2018 5:44:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@114db9a
+22 Mar 2018 5:44:33 GMT:  Kind = WARNING
+22 Mar 2018 5:44:33 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:47:40 GMT: diagnostics = javax.tools.DiagnosticCollector@1d0da72
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11aa140
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:47:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2b1d2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:47:40 GMT: Compiler call returned
+22 Mar 2018 5:47:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11b656d
+22 Mar 2018 5:47:40 GMT:  Kind = WARNING
+22 Mar 2018 5:47:40 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:48:11 GMT: diagnostics = javax.tools.DiagnosticCollector@109db9a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@12c2dc6
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:48:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@602a5b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:48:11 GMT: Compiler call returned
+22 Mar 2018 5:48:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17bdc9c
+22 Mar 2018 5:48:11 GMT:  Kind = WARNING
+22 Mar 2018 5:48:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:48:30 GMT: diagnostics = javax.tools.DiagnosticCollector@bd19bd
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7e47b7
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:48:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@bdcb76' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:48:30 GMT: Compiler call returned
+22 Mar 2018 5:48:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17b1a39
+22 Mar 2018 5:48:30 GMT:  Kind = WARNING
+22 Mar 2018 5:48:30 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:56:11 GMT: diagnostics = javax.tools.DiagnosticCollector@1265414
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ad5cbf
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:56:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2b19f5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:56:11 GMT: Compiler call returned
+22 Mar 2018 5:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@aac813
+22 Mar 2018 5:56:11 GMT:  Kind = WARNING
+22 Mar 2018 5:56:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d5d95d
+22 Mar 2018 5:56:11 GMT:  Kind = ERROR
+22 Mar 2018 5:56:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 89 ColNo = 12 Msg = 'Syntax error, insert ";" to complete Statement'
+22 Mar 2018 5:56:15 GMT: diagnostics = javax.tools.DiagnosticCollector@e2067b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14b5a82
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:56:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@13e2844' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:56:15 GMT: Compiler call returned
+22 Mar 2018 5:56:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b4765a
+22 Mar 2018 5:56:15 GMT:  Kind = WARNING
+22 Mar 2018 5:56:15 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:56:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@46f3be
+22 Mar 2018 5:56:15 GMT:  Kind = ERROR
+22 Mar 2018 5:56:15 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 86 ColNo = 17 Msg = 'This method must return a result of type Card'
+22 Mar 2018 5:56:29 GMT: diagnostics = javax.tools.DiagnosticCollector@1bd6887
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ea5e1
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:56:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@ccf75f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:56:29 GMT: Compiler call returned
+22 Mar 2018 5:56:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10ffd45
+22 Mar 2018 5:56:29 GMT:  Kind = WARNING
+22 Mar 2018 5:56:29 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:59:43 GMT: diagnostics = javax.tools.DiagnosticCollector@3db6b3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b1226c
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 5:59:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@87a001' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 5:59:43 GMT: Compiler call returned
+22 Mar 2018 5:59:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7be274
+22 Mar 2018 5:59:43 GMT:  Kind = WARNING
+22 Mar 2018 5:59:43 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 5:59:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1296d66
+22 Mar 2018 5:59:43 GMT:  Kind = ERROR
+22 Mar 2018 5:59:43 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 99 ColNo = 6 Msg = 'Constructor call must be the first statement in a constructor'
+22 Mar 2018 6:04:09 GMT: diagnostics = javax.tools.DiagnosticCollector@16ed0cb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5456ed
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 6:04:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f2a87d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 6:04:09 GMT: Compiler call returned
+22 Mar 2018 6:04:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1962e15
+22 Mar 2018 6:04:09 GMT:  Kind = WARNING
+22 Mar 2018 6:04:09 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 6:04:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f9e1e
+22 Mar 2018 6:04:09 GMT:  Kind = ERROR
+22 Mar 2018 6:04:09 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 96 ColNo = 14 Msg = 'dealt cannot be resolved to a variable'
+22 Mar 2018 6:04:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1401765
+22 Mar 2018 6:04:09 GMT:  Kind = ERROR
+22 Mar 2018 6:04:09 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 101 ColNo = 6 Msg = 'Constructor call must be the first statement in a constructor'
+22 Mar 2018 6:04:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f621f0
+22 Mar 2018 6:04:09 GMT:  Kind = ERROR
+22 Mar 2018 6:04:09 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 102 ColNo = 6 Msg = 'dealt cannot be resolved to a variable'
+22 Mar 2018 6:04:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@110421d
+22 Mar 2018 6:04:09 GMT:  Kind = WARNING
+22 Mar 2018 6:04:09 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 8 ColNo = 15 Msg = 'The value of the field Deck.CARDS_DEALT is not used'
+22 Mar 2018 6:04:20 GMT: diagnostics = javax.tools.DiagnosticCollector@94914f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17c271c
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 6:04:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@10921a3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 6:04:20 GMT: Compiler call returned
+22 Mar 2018 6:04:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11f3d8a
+22 Mar 2018 6:04:20 GMT:  Kind = WARNING
+22 Mar 2018 6:04:20 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 6:04:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c3425
+22 Mar 2018 6:04:20 GMT:  Kind = ERROR
+22 Mar 2018 6:04:20 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 101 ColNo = 6 Msg = 'Constructor call must be the first statement in a constructor'
+22 Mar 2018 6:04:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13bab26
+22 Mar 2018 6:04:20 GMT:  Kind = ERROR
+22 Mar 2018 6:04:20 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 102 ColNo = 6 Msg = 'dealt cannot be resolved to a variable'
+22 Mar 2018 6:04:58 GMT: diagnostics = javax.tools.DiagnosticCollector@14e637d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a48997
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 6:04:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@17aa20c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 6:04:58 GMT: Compiler call returned
+22 Mar 2018 6:04:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f00aa9
+22 Mar 2018 6:04:58 GMT:  Kind = WARNING
+22 Mar 2018 6:04:58 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 6:04:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d9d95f
+22 Mar 2018 6:04:58 GMT:  Kind = ERROR
+22 Mar 2018 6:04:58 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 101 ColNo = 6 Msg = 'The method Deck() is undefined for the type Deck'
+22 Mar 2018 6:06:08 GMT: diagnostics = javax.tools.DiagnosticCollector@19a1fe4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1518134
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 6:06:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@187391c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 6:06:08 GMT: Compiler call returned
+22 Mar 2018 6:06:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@230121
+22 Mar 2018 6:06:08 GMT:  Kind = WARNING
+22 Mar 2018 6:06:08 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 6:06:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7cd6b1
+22 Mar 2018 6:06:08 GMT:  Kind = ERROR
+22 Mar 2018 6:06:08 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 101 ColNo = 6 Msg = 'Constructor call must be the first statement in a constructor'
+22 Mar 2018 6:09:52 GMT: diagnostics = javax.tools.DiagnosticCollector@1df205b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@965b89
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 6:09:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d35caa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 6:09:52 GMT: Compiler call returned
+22 Mar 2018 6:09:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18b9a19
+22 Mar 2018 6:09:52 GMT:  Kind = WARNING
+22 Mar 2018 6:09:52 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 6:12:56 GMT: diagnostics = javax.tools.DiagnosticCollector@4d8dea
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b15e7a
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 6:12:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a1dc36' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 6:12:56 GMT: Compiler call returned
+22 Mar 2018 6:12:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15078f2
+22 Mar 2018 6:12:56 GMT:  Kind = WARNING
+22 Mar 2018 6:12:56 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 6:12:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@befa3a
+22 Mar 2018 6:12:56 GMT:  Kind = ERROR
+22 Mar 2018 6:12:56 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 109 ColNo = 12 Msg = 'The method creatDeck() is undefined for the type Deck'
+22 Mar 2018 6:12:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1940b03
+22 Mar 2018 6:12:56 GMT:  Kind = ERROR
+22 Mar 2018 6:12:56 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 146 ColNo = 10 Msg = 'The method resetDeck() is undefined for the type Deck'
+22 Mar 2018 6:13:31 GMT: diagnostics = javax.tools.DiagnosticCollector@5050f4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@198bf0e
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 6:13:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@53764b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 6:13:31 GMT: Compiler call returned
+22 Mar 2018 6:13:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d0966a
+22 Mar 2018 6:13:31 GMT:  Kind = WARNING
+22 Mar 2018 6:13:31 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 6:13:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17e6454
+22 Mar 2018 6:13:31 GMT:  Kind = ERROR
+22 Mar 2018 6:13:31 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java LineNo = 109 ColNo = 5 Msg = 'The method creatDeck() is undefined for the type Deck'
+22 Mar 2018 6:13:51 GMT: diagnostics = javax.tools.DiagnosticCollector@1056051
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@127dfa0
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 6:13:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14fd0de' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 6:13:51 GMT: Compiler call returned
+22 Mar 2018 6:13:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16a2a3e
+22 Mar 2018 6:13:51 GMT:  Kind = WARNING
+22 Mar 2018 6:13:51 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+22 Mar 2018 6:14:38 GMT: diagnostics = javax.tools.DiagnosticCollector@1fa92a4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@32020b
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 7\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 7\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 7\Deck.java]
+22 Mar 2018 6:14:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b0adb0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+22 Mar 2018 6:14:38 GMT: Compiler call returned
+22 Mar 2018 6:14:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b5eee2
+22 Mar 2018 6:14:38 GMT:  Kind = WARNING
+22 Mar 2018 6:14:38 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 7\InvalidCardException.java LineNo = 9 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'

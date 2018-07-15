@@ -1,0 +1,1 @@
+17 Feb 2018 3:53:12 GMT: Log 'EclipseCompiler.txt' opened: 17 Feb 2018 3:53:12 GMT with name C:\Users\willi\Desktop\CSE271\Lab 4\EclipseCompiler.txt

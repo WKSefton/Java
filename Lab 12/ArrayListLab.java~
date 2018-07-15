@@ -1,0 +1,56 @@
+/* ?Consider the following loop for collecting all elements that match a condition;
+ * 
+ *  in this case, that the element is larger than 100.
+ */
+import java.util.ArrayList;
+import java.util.Scanner;
+public class ArrayListLab{public static void main(String args)
+  {
+  ArrayList<Double> matches = new ArrayList<Double>();
+  double element = 0;
+  int elementInt = 0;
+  for (int i = 0; i < 20; i++)
+  {
+    /**  Add code here to generate a random number named element between 50 and 150
+      * 
+      */
+    element = (Math.random() * 150) + 50;
+    if (element > 100){matches.add(element);
+    }
+  }
+  /**  Add code here to display the ArrayList matches, its size, and then add the number 99
+    * 
+    *  to the end of matches.
+    *
+    *  Then display the last item in matches
+    */
+  for(number:matches)
+  {
+    System.out.println(number); 
+  }
+  matches.add(99);
+  System.out.println(matches.get(matches.length()));
+  
+  ArrayList<Integer> matchesInt = new ArrayList<Integer>();
+  for (int i = 0; i < 20; i++)
+  {
+    /**  Add code here to generate a random number named elementInt between 1 and 150
+      * 
+      */
+    elementInt = (Math.random() * 150) + 50;
+    if (elementInt > 75){matchesInt.add(elementInt);
+    }
+  }
+  /**  Add code here to display the ArrayList matchesInt, its size, and then add the number 200
+    * 
+    *  to the end of matchesInt
+    *
+    *  Then display the last item in matches.
+    */
+  for(number:matchesInt)
+  {
+    System.out.println(number); 
+  }
+  matchesInt.add(200);
+  System.out.println(matches.get(matchesInt.length()));
+}

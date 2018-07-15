@@ -1,0 +1,31 @@
+public class Box extends Rectangle
+{
+  private double length;
+  
+  public Box(double w, double h, double l)
+  {
+    super(w,h);
+    setLength(l);
+  }
+  
+  public double calcAreaBox()
+  {
+    return 2*super.calcArea() + 2*super.getWidth()*this.length + 2*super.getHeight()*this.length;
+  }
+  
+  public void calcVolumeBox()
+  {
+    return super.getHeight()*super.getWidth()*this.length;
+  }
+  
+  public void setLength(double l)
+  {
+    if(l < 0)
+    {
+      this.length = l
+    }else{
+        System.out.println("Length cannot be negative! New length not set.");
+      }
+  }
+  
+}

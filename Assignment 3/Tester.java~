@@ -1,0 +1,11 @@
+public class Tester
+{
+  public static void main(String[] args)
+  {
+    Circle testCircle = new Circle();
+    Cylinder testCylinder = new Cylinder(5,5);
+    
+    
+  }
+  
+}

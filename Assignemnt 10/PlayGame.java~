@@ -1,0 +1,372 @@
+package PlayGame;
+
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.util.LinkedList;
+import java.util.ArrayList;
+import java.util.Collections;
+
+public class PlayGame {
+
+    private LinkedList<Hand> playerHands = new LinkedList<Hand>(); // for a linked list of Hand objects
+    private int numPlayers = 0; // this determines how many playerHands there are
+    private ArrayList<Integer> playerScores = new ArrayList<Integer>(); // this could be an array or an array list or a linked list.
+
+    private String[] playerOptions = {"Player: 1", "Player: 2", "Player: 3", "Player: 4"};
+    private int HAND_SIZE = 5;
+    private DeckList deck = new DeckList();
+    private int playerTurn = 0;
+    private boolean correctGuess = false;
+    private int booksTotal = 0;
+
+    //java swing components
+    private JPanel gamePanel;
+    private JTextArea eventsText;
+    private JButton guessCardButton;
+    private JComboBox rankCombo;
+    private JLabel eventsLabel;
+    private JLabel rankLabel;
+    private JTextArea playerCards;
+    private JComboBox playerSelectedCombo;
+    private JLabel playerSelectedLabel;
+    private JLabel playerCardsLabel;
+    private JLabel cardsLeft;
+    private JTextArea scoreArea;
+    private JTextPane scorePane;
+    private JFrame frame;
+
+    public PlayGame() throws InvalidCardReference {
+        //Jframe created
+        frame = new JFrame("Go Fish");
+        frame.setSize(800, 800);
+        frame.setContentPane(gamePanel);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setVisible(true);
+
+        getPlayers();
+        dealCards();
+        setTextAreas();
+        setComboBoxes();
+        setLabels();
+
+        /**
+         * Action Listener for the guess card button
+         *
+         */
+        guessCardButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                if (playerSelectedCombo.getSelectedIndex() != playerTurn) {
+                    guessCard();
+
+                    setTextAreas();
+                    setLabels();
+                    setComboBoxes();
+
+                    try {
+                        hasFourOfaKind();
+                    } catch (Exception ex) {
+                        System.out.println(ex.getMessage());
+                    }
+
+                } else {
+                    eventsText.append("Cannot guess from your own hand!\n");
+
+                    setTextAreas();
+                    setLabels();
+
+                }
+                if (booksTotal == 13) {
+                    determineWinner();
+                }
+            }
+        });
+    }
+
+    /**
+     * draws a card from the deck, announces if the card was
+     * the card that the player had guessed incorrectly
+     */
+    public void drawCard() {
+        if (deck.getCardsLeft() > 0) {
+            Card card = deck.getCard();
+            if (card.getRank() == (Integer) rankCombo.getSelectedItem()) {
+                eventsText.append(playerOptions[playerTurn] + " Draws the card: " +
+                        card.toString() + "\n");
+                playerHands.get(playerTurn).addCard(card);
+            } else {
+                eventsText.append(playerOptions[playerTurn] + " Draws a card\n");
+                playerHands.get(playerTurn).addCard(card);
+            }
+
+        } else {
+            eventsText.append("All cards have been drawn from the deck\n");
+            //determineWinner();
+        }
+    }
+
+    /**
+     * this method is used in the action listener for the guess card
+     * jbutton, it takes information from the combo boxes and checks to see
+     * if the cards are in the players hand, draws a card if not
+     */
+    public void guessCard() {
+
+        LinkedList<Card> tempList = new LinkedList<Card>();
+        for (Card card : playerHands.get(playerSelectedCombo.getSelectedIndex()).getHand()) {
+
+            if ((Integer) rankCombo.getSelectedItem() == card.getRank()) {
+                tempList.add(card);
+                correctGuess = true;
+            }
+        }
+
+        if (correctGuess) {
+            eventsText.append("Guess Correct!\n");
+            for (Card card : tempList) {
+                playerHands.get(playerTurn).getHand().add(card);
+                playerHands.get(playerSelectedCombo.getSelectedIndex()).getHand().remove(card);
+                eventsText.append(card.toString() + " Moved from " + playerSelectedCombo.getSelectedItem()
+                        + " to " + playerOptions[playerTurn] + "\n");
+            }
+            tempList.clear();
+            correctGuess = false;
+
+        } else {
+            eventsText.append("Guess incorrect! Go Fish!\n");
+            drawCard();
+            setTurn();
+        }
+    }
+
+    /**
+     * creates an input box to select the amount
+     * of players then populates a combo box and
+     * creates all initial scores as 0
+     */
+    public void getPlayers() {
+        String[] numbers = {"2", "3", "4"};
+        String number = (String) JOptionPane.showInputDialog(null, "Select Number of Players", "Player Selection",
+                JOptionPane.QUESTION_MESSAGE, null, numbers, "2");
+        numPlayers = Integer.parseInt(number);
+        for (int i = 0; i < numPlayers; i++) {
+            playerScores.add(0);
+        }
+
+        for (int i = 0; i < numPlayers; i++) {
+            playerSelectedCombo.addItem(playerOptions[i]);
+        }
+    }
+
+    /**
+     * sets the turn for the player
+     */
+    public void setTurn() {
+
+        if (playerTurn < numPlayers - 1) {
+            playerTurn++;
+        } else {
+            playerTurn = 0;
+        }
+    }
+
+    /**
+     * updates the label showing cards remaining
+     * in the deck
+     */
+    public void setLabels() {
+        cardsLeft.setText("Cards left in deck: " + deck.getCardsLeft());
+        playerCardsLabel.setText("Cards in hand: " + playerHands.get(playerTurn).getHand().size());
+    }
+
+    /**
+     * shuffles the deck of cards and
+     * gives each player a starting hand
+     */
+    public void dealCards() {
+        deck.shuffle();
+        for (int i = 0; i < numPlayers; i++) {
+            playerHands.add(new Hand(HAND_SIZE + 25));
+            for (int j = 0; j < HAND_SIZE; j++) {
+                playerHands.get(i).addCard(deck.getCard());
+            }
+        }
+    }
+
+    /**
+     * updates the text area information for each
+     * turn and action
+     */
+    public void setTextAreas() {
+        playerHands.get(playerTurn).sortHandByRank();
+        playerCards.setText(playerOptions[playerTurn] + "\n" + playerHands.get(playerTurn).toString()
+                + "Player Score: " + playerScores.get(playerTurn));
+        scoreArea.setText(null);
+        for (int i = 0; i < playerScores.size(); i++) {
+            scoreArea.append(playerOptions[i] + " score: " + playerScores.get(i) + "\n");
+        }
+        scoreArea.append("Number of books collected: " + booksTotal);
+
+    }
+
+    /**
+     * sets the combo box information for the
+     * correct player and hand
+     */
+    public void setComboBoxes() {
+
+        if (playerSelectedCombo.getSelectedItem() == playerOptions[playerTurn]) {
+            if (playerSelectedCombo.getSelectedIndex() < numPlayers - 1) {
+                playerSelectedCombo.setSelectedIndex(playerSelectedCombo.getSelectedIndex() + 1);
+            } else {
+                playerSelectedCombo.setSelectedIndex(0);
+            }
+        }
+        rankCombo.removeAllItems();
+        ArrayList<Integer> ranks = new ArrayList<Integer>();
+        for (Card card : playerHands.get(playerTurn).getHand()) {
+            if (!ranks.contains(card.getRank())) {
+                ranks.add(card.getRank());
+                rankCombo.addItem(card.getRank());
+            }
+        }
+    }
+
+    /**
+     * determines if there are four cards of a kind in
+     * a players hand
+     */
+    public void hasFourOfaKind() throws InvalidCardReference {
+        int temp = 1;
+        for (int i = 0; i < numPlayers; i++) {
+            for (int j = 2; j < 15; j++) {
+                for (Card card : playerHands.get(i).getHand()) {
+                    if (j == card.getRank()) {
+                        temp++;
+                        if (temp == 4) {
+                            makeBook(i, card.getRank());
+                            temp = 1;
+                        }
+                    }
+
+                }
+                temp = 1;
+            }
+        }
+
+    }
+
+    /**
+     * makes of book of cards and updates player score
+     */
+    public void makeBook(int player, int rank) throws InvalidCardReference {
+
+        for (Card card : playerHands.get(player).getHand()) {
+            if (card.getRank() == rank) {
+                playerHands.get(player).getHand().remove(card);
+            }
+        }
+        playerScores.set(player, playerScores.get(player) + 4);
+
+        eventsText.append(playerOptions[player] + " has made a book of rank: " + rank + "and gained 4 points!\n");
+        booksTotal++;
+    }
+
+    /**
+     * Determines the winner of the game
+     */
+    public void determineWinner() {
+        Collections.sort(playerScores);
+        eventsText.append("Scores\n");
+        for (int i = 0; i < numPlayers - 1; i++) {
+            eventsText.append(playerOptions[i] + ": " + playerScores.get(i) + "\n");
+        }
+
+        eventsText.append("The winner is\n" + playerScores.get(playerScores.size()));
+        guessCardButton.setVisible(false);
+    }
+
+    public static void main(String[] args) throws InvalidCardReference {
+        PlayGame run = new PlayGame();
+
+    }
+
+    {
+// GUI initializer generated by IntelliJ IDEA GUI Designer
+// >>> IMPORTANT!! <<<
+// DO NOT EDIT OR ADD ANY CODE HERE!
+        $$$setupUI$$$();
+    }
+
+    /**
+     * Method generated by IntelliJ IDEA GUI Designer
+     * >>> IMPORTANT!! <<<
+     * DO NOT edit this method OR call it in your code!
+     *
+     * @noinspection ALL
+     */
+    private void $$$setupUI$$$() {
+        gamePanel = new JPanel();
+        gamePanel.setLayout(new com.intellij.uiDesigner.core.GridLayoutManager(16, 2, new Insets(0, 0, 0, 0), -1, -1));
+        gamePanel.setMinimumSize(new Dimension(800, 800));
+        gamePanel.setPreferredSize(new Dimension(800, 800));
+        playerSelectedCombo = new JComboBox();
+        gamePanel.add(playerSelectedCombo, new com.intellij.uiDesigner.core.GridConstraints(1, 0, 1, 1, com.intellij.uiDesigner.core.GridConstraints.ANCHOR_WEST, com.intellij.uiDesigner.core.GridConstraints.FILL_HORIZONTAL, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_CAN_GROW, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_FIXED, null, null, null, 0, false));
+        playerSelectedLabel = new JLabel();
+        playerSelectedLabel.setText("Player to select");
+        gamePanel.add(playerSelectedLabel, new com.intellij.uiDesigner.core.GridConstraints(0, 0, 1, 1, com.intellij.uiDesigner.core.GridConstraints.ANCHOR_WEST, com.intellij.uiDesigner.core.GridConstraints.FILL_NONE, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_FIXED, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_FIXED, null, null, null, 0, false));
+        eventsLabel = new JLabel();
+        eventsLabel.setText("Events");
+        gamePanel.add(eventsLabel, new com.intellij.uiDesigner.core.GridConstraints(0, 1, 1, 1, com.intellij.uiDesigner.core.GridConstraints.ANCHOR_WEST, com.intellij.uiDesigner.core.GridConstraints.FILL_NONE, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_FIXED, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_FIXED, null, null, null, 0, false));
+        final com.intellij.uiDesigner.core.Spacer spacer1 = new com.intellij.uiDesigner.core.Spacer();
+        gamePanel.add(spacer1, new com.intellij.uiDesigner.core.GridConstraints(13, 0, 1, 1, com.intellij.uiDesigner.core.GridConstraints.ANCHOR_CENTER, com.intellij.uiDesigner.core.GridConstraints.FILL_HORIZONTAL, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_WANT_GROW, 1, null, null, null, 0, false));
+        playerCardsLabel = new JLabel();
+        playerCardsLabel.setText("Cards in hand");
+        gamePanel.add(playerCardsLabel, new com.intellij.uiDesigner.core.GridConstraints(6, 1, 1, 1, com.intellij.uiDesigner.core.GridConstraints.ANCHOR_WEST, com.intellij.uiDesigner.core.GridConstraints.FILL_NONE, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_FIXED, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_FIXED, null, null, null, 0, false));
+        cardsLeft = new JLabel();
+        cardsLeft.setText("Cards left in deck:");
+        gamePanel.add(cardsLeft, new com.intellij.uiDesigner.core.GridConstraints(8, 0, 1, 1, com.intellij.uiDesigner.core.GridConstraints.ANCHOR_WEST, com.intellij.uiDesigner.core.GridConstraints.FILL_NONE, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_CAN_GROW, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_CAN_GROW, null, null, null, 0, false));
+        rankLabel = new JLabel();
+        rankLabel.setText("Rank to guess");
+        gamePanel.add(rankLabel, new com.intellij.uiDesigner.core.GridConstraints(2, 0, 1, 1, com.intellij.uiDesigner.core.GridConstraints.ANCHOR_WEST, com.intellij.uiDesigner.core.GridConstraints.FILL_NONE, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_FIXED, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_FIXED, null, null, null, 0, false));
+        rankCombo = new JComboBox();
+        gamePanel.add(rankCombo, new com.intellij.uiDesigner.core.GridConstraints(3, 0, 1, 1, com.intellij.uiDesigner.core.GridConstraints.ANCHOR_WEST, com.intellij.uiDesigner.core.GridConstraints.FILL_HORIZONTAL, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_CAN_GROW, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_FIXED, null, null, null, 0, false));
+        final JScrollPane scrollPane1 = new JScrollPane();
+        gamePanel.add(scrollPane1, new com.intellij.uiDesigner.core.GridConstraints(7, 1, 9, 1, com.intellij.uiDesigner.core.GridConstraints.ANCHOR_CENTER, com.intellij.uiDesigner.core.GridConstraints.FILL_BOTH, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_CAN_SHRINK | com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_WANT_GROW, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_CAN_SHRINK | com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_WANT_GROW, null, null, null, 0, false));
+        playerCards = new JTextArea();
+        playerCards.setAutoscrolls(false);
+        playerCards.setEditable(false);
+        playerCards.setLineWrap(true);
+        playerCards.setMaximumSize(new Dimension(800, 800));
+        playerCards.setMinimumSize(new Dimension(200, 200));
+        playerCards.setRows(15);
+        playerCards.setWrapStyleWord(true);
+        scrollPane1.setViewportView(playerCards);
+        final JScrollPane scrollPane2 = new JScrollPane();
+        gamePanel.add(scrollPane2, new com.intellij.uiDesigner.core.GridConstraints(1, 1, 5, 1, com.intellij.uiDesigner.core.GridConstraints.ANCHOR_CENTER, com.intellij.uiDesigner.core.GridConstraints.FILL_BOTH, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_CAN_SHRINK | com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_WANT_GROW, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_CAN_SHRINK | com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_WANT_GROW, null, null, null, 0, false));
+        eventsText = new JTextArea();
+        eventsText.setColumns(50);
+        eventsText.setEditable(false);
+        eventsText.setLineWrap(true);
+        eventsText.setMaximumSize(new Dimension(200, 200));
+        eventsText.setMinimumSize(new Dimension(200, 200));
+        eventsText.setRows(0);
+        eventsText.setText("");
+        eventsText.setWrapStyleWord(false);
+        scrollPane2.setViewportView(eventsText);
+        guessCardButton = new JButton();
+        guessCardButton.setText("Guess Card");
+        gamePanel.add(guessCardButton, new com.intellij.uiDesigner.core.GridConstraints(7, 0, 1, 1, com.intellij.uiDesigner.core.GridConstraints.ANCHOR_CENTER, com.intellij.uiDesigner.core.GridConstraints.FILL_HORIZONTAL, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_CAN_SHRINK | com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_CAN_GROW, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_FIXED, null, null, null, 0, false));
+        scoreArea = new JTextArea();
+        gamePanel.add(scoreArea, new com.intellij.uiDesigner.core.GridConstraints(9, 0, 1, 1, com.intellij.uiDesigner.core.GridConstraints.ANCHOR_CENTER, com.intellij.uiDesigner.core.GridConstraints.FILL_BOTH, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_WANT_GROW, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_WANT_GROW, null, new Dimension(150, 50), null, 0, false));
+    }
+
+    /**
+     * @noinspection ALL
+     */
+    public JComponent $$$getRootComponent$$$() {
+        return gamePanel;
+    }
+}

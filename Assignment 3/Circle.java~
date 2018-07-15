@@ -1,0 +1,82 @@
+public class Circle
+{
+  private double radius;
+  private double circumference;
+  private double area;
+  
+  /**
+   * Default constructor for Circle class
+   * 
+   */
+  public Circle()
+  {
+    this.radius = 0;
+  }
+  
+  /**
+   * Overloaded Constructor for Circle class
+   * 
+   * @param double Radius of the circle
+   */
+  public Circle(double radius)
+  {
+    this.radius = radius; 
+  }
+  
+  /**
+   * Method to calculate and return the circumference of the Circle
+   * 
+   * @return double Circumference of the cirlce
+   */
+  public double calcCircumference()
+  {
+    this.circumference = 2*Math.PI*this.radius;
+    return this.circumference;
+  }
+  
+  /**
+   * Method to calculate and return the area of the Circle
+   * 
+   * @return double Area of the circle
+   */
+  public double calcAreaCircle()
+  {
+    this.area = Math.PI*this.radius*this.radius;
+    return this.area;
+  }
+  
+  /**
+   * Mutator method to change the radius of the circle
+   * 
+   * @param double New radius of the Circle
+   */
+  public void setRadius(double r)
+  {
+    if(r < 0)
+    throw new NegativeArgumentException("The radius cannot be negative! Radius not changed.\n");
+    
+    this.radius = r;
+  }
+  /**
+   * Assor method to return the radius of the circle
+   * 
+   * @return double Radius of the Circle
+   */
+  public double getRadius()
+  {
+    return this.radius;
+  }
+  
+  /**
+   * Overrides toString
+   * 
+   * @override
+   * @return String Returns the Instance data
+   */
+  public String toString()
+  {
+    calcCircumference();
+    calcAreaCircle();
+    return "Circle Radius\t=\t" + this.radius + "\nCircle Circumference\t=\t" + this.circumference + "\nCricle Area\t=\t" + this.area;
+  }
+}

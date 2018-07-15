@@ -1,0 +1,1625 @@
+13 May 2018 3:46:33 GMT: Log 'EclipseCompiler.txt' opened: 13 May 2018 3:46:33 GMT with name C:\Users\willi\Desktop\CSE271\Assignemnt 10\EclipseCompiler.txt
+13 May 2018 3:46:55 GMT: diagnostics = javax.tools.DiagnosticCollector@62227030
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@19609ee7
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java]
+13 May 2018 3:46:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3c549ab2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignemnt 10;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+13 May 2018 3:46:55 GMT: Compiler call returned
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@56650616
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 264 ColNo = 55 Msg = 'InvalidCardReference cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@52ddc6d3
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 291 ColNo = 51 Msg = 'InvalidCardReference cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2cf62f28
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java LineNo = 6 ColNo = 31 Msg = 'Card cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@572105ab
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 19 ColNo = 13 Msg = 'DeckList cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@778e6dad
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 17 ColNo = 27 Msg = 'Card cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4bd9d6d1
+13 May 2018 3:46:55 GMT:  Kind = WARNING
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 17 ColNo = 43 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@56cb2fed
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 13 ColNo = 24 Msg = 'Hand cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@91874c2
+13 May 2018 3:46:55 GMT:  Kind = WARNING
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 32 ColNo = 13 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@dff8349
+13 May 2018 3:46:55 GMT:  Kind = WARNING
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 28 ColNo = 13 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@895a379
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 40 ColNo = 30 Msg = 'InvalidCardReference cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@72e41c1
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 241 ColNo = 41 Msg = 'InvalidCardReference cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4dda8b82
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 13 ColNo = 59 Msg = 'Hand cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3c4ebcbb
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 19 ColNo = 33 Msg = 'DeckList cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19e54e20
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 69 ColNo = 25 Msg = 'The method hasFourOfaKind() from the type PlayGame refers to the missing type InvalidCardReference'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6c303494
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 93 ColNo = 13 Msg = 'DeckList cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@75af240b
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 20 ColNo = 30 Msg = 'CardInterface cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3ccde561
+13 May 2018 3:46:55 GMT:  Kind = WARNING
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 20 ColNo = 45 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fea2896
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 94 ColNo = 13 Msg = 'Card cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6293296b
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 94 ColNo = 25 Msg = 'DeckList cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6e10c64e
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 98 ColNo = 17 Msg = 'Hand cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3d25d000
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 101 ColNo = 17 Msg = 'Hand cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@63d5e1aa
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 117 ColNo = 20 Msg = 'Card cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@187644ca
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 117 ColNo = 52 Msg = 'Card cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@703cd33c
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 118 ColNo = 14 Msg = 'Card cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@638aa8eb
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 118 ColNo = 26 Msg = 'Hand cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2f9ecd81
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 128 ColNo = 18 Msg = 'Card cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5649cac
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 129 ColNo = 17 Msg = 'Hand cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13570a0f
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 130 ColNo = 17 Msg = 'Hand cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@25ac257e
+13 May 2018 3:46:55 GMT:  Kind = WARNING
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 159 ColNo = 13 Msg = 'Type safety: The method addItem(java.lang.Object) belongs to the raw type javax.swing.JComboBox. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7c07068f
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 180 ColNo = 52 Msg = 'DeckList cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5da7645f
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 181 ColNo = 54 Msg = 'Hand cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@768b0a96
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 189 ColNo = 9 Msg = 'DeckList cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@32c846ec
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 191 ColNo = 13 Msg = 'Hand cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@763f0d44
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 191 ColNo = 33 Msg = 'Hand cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@105c0a40
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 193 ColNo = 17 Msg = 'Hand cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3e2d6d67
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 193 ColNo = 44 Msg = 'DeckList cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4ea2a368
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 203 ColNo = 9 Msg = 'Hand cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@40f9c2d5
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 204 ColNo = 64 Msg = 'Hand cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3007de80
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 229 ColNo = 14 Msg = 'Card cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6594cbb2
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 229 ColNo = 26 Msg = 'Hand cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3ef68d8b
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 245 ColNo = 22 Msg = 'Card cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@30170fea
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 245 ColNo = 34 Msg = 'Hand cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3eea24b6
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 266 ColNo = 14 Msg = 'Card cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7d60b182
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 266 ColNo = 26 Msg = 'Hand cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7770f170
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 268 ColNo = 17 Msg = 'Hand cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7f90d82b
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 292 ColNo = 24 Msg = 'The constructor PlayGame() refers to the missing type InvalidCardReference'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10308cfb
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 312 ColNo = 33 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@68a4c3de
+13 May 2018 3:46:55 GMT:  Kind = WARNING
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 315 ColNo = 35 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@182f44cb
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 48 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@61879665
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 105 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@754489fa
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 163 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3bb00ebf
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 225 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@59db1c1e
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 291 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4329dfe
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 48 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5568dfdb
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 105 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6e16f63f
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 163 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6fac2c0f
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 219 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7f618169
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 282 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6c640f59
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 40 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@351aabe4
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 97 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3b58251c
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 155 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@48c181d7
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 211 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4934151
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 274 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@64b69fac
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 323 ColNo = 15 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e3c36e3
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 323 ColNo = 65 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5a37c3ca
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 324 ColNo = 36 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@44b08814
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 324 ColNo = 94 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14ab24d1
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 324 ColNo = 154 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6bdf9389
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 324 ColNo = 216 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f9224ab
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 45 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4f22fd65
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 102 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@262d5fc
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 160 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15b65de2
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 216 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b9f9483
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 279 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@530e9940
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 38 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@47577be8
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 95 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60a967ad
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 153 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17e5ccb7
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 209 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@30868392
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 275 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4cf23651
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 38 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@67cdb46d
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 95 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5ef44c57
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 153 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5a6ade08
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 209 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7773baa
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 272 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d1399f5
+13 May 2018 3:46:55 GMT:  Kind = WARNING
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 334 ColNo = 25 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@71f9eaf4
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 38 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7deff05d
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 95 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@437b3e21
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 153 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@52b6db8a
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 215 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6c263562
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 281 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6e494da3
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 40 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7459fc7d
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 97 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10d703f7
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 157 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4d07a9aa
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 213 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6907d1fc
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 282 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@528672b5
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 349 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7ae60ba9
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 418 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@adca7a6
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 40 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d030f30
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 97 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3c71ddff
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 157 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7600329b
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 213 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@198e4a6a
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 282 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5c31bce4
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 349 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6e9d1cb8
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 418 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@197e7f1a
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 44 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@72c8ab45
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 101 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@234fff64
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 161 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@25314f69
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 223 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4fdd727a
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 292 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@78f87a47
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 358 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@24901ee3
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 38 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bf5471f
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 95 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2f9fbab9
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 155 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@140ec74f
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 211 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@304da42b
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 278 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11a1d082
+13 May 2018 3:46:55 GMT:  Kind = WARNING
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\InvalidCardReference.java LineNo = 11 ColNo = 14 Msg = 'The serializable class InvalidCardReference does not declare a static final serialVersionUID field of type long'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@43b9ea7d
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java LineNo = 21 ColNo = 24 Msg = 'SPADES cannot be resolved or is not a field'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@21ef69fa
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java LineNo = 21 ColNo = 45 Msg = 'DIAMONDS cannot be resolved or is not a field'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7cdefd10
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java LineNo = 22 ColNo = 25 Msg = 'TWO cannot be resolved or is not a field'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@63e417c9
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java LineNo = 22 ColNo = 43 Msg = 'ACE cannot be resolved or is not a field'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f82f3ca
+13 May 2018 3:46:55 GMT:  Kind = WARNING
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java LineNo = 43 ColNo = 15 Msg = 'The static field PlayGame.DeckList.DECKSIZE should be accessed in a static way'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3578f779
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java LineNo = 134 ColNo = 16 Msg = 'The method toString() of type PlayGame.DeckList must override or implement a supertype method'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3ec5aabb
+13 May 2018 3:46:55 GMT:  Kind = WARNING
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 198 ColNo = 32 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7ddca8f5
+13 May 2018 3:46:55 GMT:  Kind = WARNING
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 211 ColNo = 27 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5381827
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 17 ColNo = 14 Msg = 'The type PlayGame.Hand must implement the inherited abstract method java.lang.Comparable.compareTo(java.lang.Object)'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7789f4c6
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 177 ColNo = 20 Msg = 'SPADES cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@640a08fe
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 177 ColNo = 36 Msg = 'DIAMONDS cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7c098f8a
+13 May 2018 3:46:55 GMT:  Kind = WARNING
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 205 ColNo = 9 Msg = 'Type safety: The method compareTo(java.lang.Object) belongs to the raw type java.lang.Comparable. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@39b5590c
+13 May 2018 3:46:55 GMT:  Kind = WARNING
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 212 ColNo = 3 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@122b538
+13 May 2018 3:46:55 GMT:  Kind = WARNING
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 259 ColNo = 3 Msg = 'Type safety: Unchecked invocation sort(java.util.LinkedList<PlayGame.Card>) of the generic method sort(java.util.List<T>) of type java.util.Collections'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@35db101a
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 88 ColNo = 15 Msg = 'TWO cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@59ebcf4
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 88 ColNo = 30 Msg = 'ACE cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1670f872
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 91 ColNo = 14 Msg = 'InvalidCardException cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@26f14f1
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 99 ColNo = 15 Msg = 'SPADES cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6fd98f66
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 99 ColNo = 33 Msg = 'DIAMONDS cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f50f775
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 102 ColNo = 14 Msg = 'InvalidCardException cannot be resolved to a type'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ef22f85
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 147 ColNo = 8 Msg = 'TWO cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@74407a36
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 149 ColNo = 8 Msg = 'THREE cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@57c16967
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 151 ColNo = 8 Msg = 'FOUR cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4fb2d7b5
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 153 ColNo = 8 Msg = 'FIVE cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@50a347c1
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 155 ColNo = 8 Msg = 'SIX cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@27451629
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 157 ColNo = 8 Msg = 'SEVEN cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7b93c9f7
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 159 ColNo = 8 Msg = 'EIGHT cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@22c5b64f
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 161 ColNo = 8 Msg = 'NINE cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@68126099
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 163 ColNo = 8 Msg = 'TEN cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@67e9c7ec
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 165 ColNo = 8 Msg = 'ACE cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2d06697
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 167 ColNo = 8 Msg = 'KING cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@da8cf4c
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 169 ColNo = 8 Msg = 'QUEEN cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@764560c8
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 171 ColNo = 8 Msg = 'JACK cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5fba1f4b
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 186 ColNo = 8 Msg = 'CLUBS cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5e5f2ef5
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 188 ColNo = 8 Msg = 'DIAMONDS cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@154658dd
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 190 ColNo = 8 Msg = 'HEARTS cannot be resolved to a variable'
+13 May 2018 3:46:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4858299d
+13 May 2018 3:46:55 GMT:  Kind = ERROR
+13 May 2018 3:46:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 210 ColNo = 13 Msg = 'The method compareTo(PlayGame.Card) of type PlayGame.Card must override or implement a supertype method'
+13 May 2018 3:47:11 GMT: diagnostics = javax.tools.DiagnosticCollector@4e41b8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c20b53b
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\InvalidCardReference.java]
+13 May 2018 3:47:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1135811d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignemnt 10;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+13 May 2018 3:47:11 GMT: Compiler call returned
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@914a482
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 20 ColNo = 30 Msg = 'CardInterface cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7b607b15
+13 May 2018 3:47:11 GMT:  Kind = WARNING
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 20 ColNo = 45 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@531b00b
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java LineNo = 6 ColNo = 14 Msg = 'The hierarchy of the type DeckList is inconsistent'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@72812621
+13 May 2018 3:47:11 GMT:  Kind = WARNING
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 17 ColNo = 43 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5e1dbc47
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 17 ColNo = 14 Msg = 'The hierarchy of the type Hand is inconsistent'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@26dddc42
+13 May 2018 3:47:11 GMT:  Kind = WARNING
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 198 ColNo = 32 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2e64817a
+13 May 2018 3:47:11 GMT:  Kind = WARNING
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 211 ColNo = 27 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@552f1ab9
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\CardInterface.java LineNo = 75 ColNo = 26 Msg = 'Card cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@66637bdf
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\CardInterface.java LineNo = 86 ColNo = 23 Msg = 'Card cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2e94849d
+13 May 2018 3:47:11 GMT:  Kind = WARNING
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 32 ColNo = 13 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@24f1af64
+13 May 2018 3:47:11 GMT:  Kind = WARNING
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 28 ColNo = 13 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9a69391
+13 May 2018 3:47:11 GMT:  Kind = WARNING
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 159 ColNo = 13 Msg = 'Type safety: The method addItem(java.lang.Object) belongs to the raw type javax.swing.JComboBox. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7466acf9
+13 May 2018 3:47:11 GMT:  Kind = WARNING
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 232 ColNo = 17 Msg = 'Type safety: The method addItem(java.lang.Object) belongs to the raw type javax.swing.JComboBox. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7edc7e84
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 312 ColNo = 33 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@577f74b4
+13 May 2018 3:47:11 GMT:  Kind = WARNING
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 315 ColNo = 35 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6a785fd1
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 48 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2b383703
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 105 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@368d44be
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 163 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1afb5c0f
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 225 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@32d50e56
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 291 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@58bfb720
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 48 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4cba03d
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 105 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@44108f8f
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 163 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5ead9ee5
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 219 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7b0e24a7
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 282 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@221db9b3
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 40 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@62b12688
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 97 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@50d9d68d
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 155 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5a78fb2d
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 211 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@156701f0
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 274 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7e89f0b2
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 323 ColNo = 15 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60fa3c50
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 323 ColNo = 65 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7dc612f1
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 324 ColNo = 36 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5003f438
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 324 ColNo = 94 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@61be82ea
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 324 ColNo = 154 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@50972a31
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 324 ColNo = 216 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d8beb48
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 45 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@52e67ef5
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 102 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@47da1f91
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 160 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2ef573f9
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 216 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6c661cc4
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 279 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d96c66b
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 38 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a2776df
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 95 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f48b4d9
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 153 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@43141bc8
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 209 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@780a285f
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 275 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@593a280f
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 38 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@30eb18d
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 95 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6027307f
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 153 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@49c6a4f4
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 209 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@41349793
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 272 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3740c4e1
+13 May 2018 3:47:11 GMT:  Kind = WARNING
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 334 ColNo = 25 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6ebdbebe
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 38 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12a04699
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 95 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@77cdc351
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 153 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@461b7685
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 215 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@455078b6
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 281 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@55d46a0b
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 40 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4c9afcab
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 97 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@51a814e3
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 157 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17fb43a8
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 213 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6189e76e
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 282 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7aed3050
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 349 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6bf33ce2
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 418 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2658d437
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 40 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8c4f505
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 97 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bb82bfd
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 157 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@695e1044
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 213 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9479834
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 282 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@260428c4
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 349 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7c39083a
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 418 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@65fcfbc9
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 44 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@504f597a
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 101 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@570a09bf
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 161 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6346b3bc
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 223 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@61663eae
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 292 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4b482f71
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 358 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4c889056
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 38 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a850128
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 95 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4ac6df98
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 155 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@40ff5216
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 211 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@487d607f
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 278 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7ac3a419
+13 May 2018 3:47:11 GMT:  Kind = WARNING
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 37 ColNo = 23 Msg = 'The value of the field PlayGame.scorePane is not used'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6058ec6
+13 May 2018 3:47:11 GMT:  Kind = WARNING
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 292 ColNo = 18 Msg = 'The value of the local variable run is not used'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3c5013f2
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 88 ColNo = 15 Msg = 'TWO cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f8de29f
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 88 ColNo = 30 Msg = 'ACE cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@78096e1b
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 91 ColNo = 14 Msg = 'InvalidCardException cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@52d0ac62
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 99 ColNo = 15 Msg = 'SPADES cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6e23fa49
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 99 ColNo = 33 Msg = 'DIAMONDS cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1eca6408
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 102 ColNo = 14 Msg = 'InvalidCardException cannot be resolved to a type'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2d80b87c
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 147 ColNo = 8 Msg = 'TWO cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7a64a212
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 149 ColNo = 8 Msg = 'THREE cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b64fea5
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 151 ColNo = 8 Msg = 'FOUR cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@464331e5
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 153 ColNo = 8 Msg = 'FIVE cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6ea83209
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 155 ColNo = 8 Msg = 'SIX cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@310379fc
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 157 ColNo = 8 Msg = 'SEVEN cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1dbe28af
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 159 ColNo = 8 Msg = 'EIGHT cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@42adeee4
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 161 ColNo = 8 Msg = 'NINE cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6dbaa4c2
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 163 ColNo = 8 Msg = 'TEN cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@47dcfc10
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 165 ColNo = 8 Msg = 'ACE cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2b4b4f14
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 167 ColNo = 8 Msg = 'KING cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6bc4e57
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 169 ColNo = 8 Msg = 'QUEEN cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3e9876f6
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 171 ColNo = 8 Msg = 'JACK cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e843149
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 186 ColNo = 8 Msg = 'CLUBS cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f46ee62
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 188 ColNo = 8 Msg = 'DIAMONDS cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@beccb2b
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 190 ColNo = 8 Msg = 'HEARTS cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@763e3366
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 210 ColNo = 13 Msg = 'The method compareTo(Card) of type Card must override or implement a supertype method'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@490f4a91
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java LineNo = 21 ColNo = 24 Msg = 'SPADES cannot be resolved or is not a field'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11e2882c
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java LineNo = 21 ColNo = 45 Msg = 'DIAMONDS cannot be resolved or is not a field'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7cbabca8
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java LineNo = 22 ColNo = 25 Msg = 'TWO cannot be resolved or is not a field'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7b98155a
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java LineNo = 22 ColNo = 43 Msg = 'ACE cannot be resolved or is not a field'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@48f0937a
+13 May 2018 3:47:11 GMT:  Kind = WARNING
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java LineNo = 43 ColNo = 15 Msg = 'The static field DeckList.DECKSIZE should be accessed in a static way'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4dd6c1a0
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 177 ColNo = 20 Msg = 'SPADES cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@64206b4e
+13 May 2018 3:47:11 GMT:  Kind = ERROR
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 177 ColNo = 36 Msg = 'DIAMONDS cannot be resolved to a variable'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5f298055
+13 May 2018 3:47:11 GMT:  Kind = WARNING
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 205 ColNo = 9 Msg = 'Type safety: The method compareTo(java.lang.Object) belongs to the raw type java.lang.Comparable. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@130eb389
+13 May 2018 3:47:11 GMT:  Kind = WARNING
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 212 ColNo = 3 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@682ebb89
+13 May 2018 3:47:11 GMT:  Kind = WARNING
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 259 ColNo = 3 Msg = 'Type safety: Unchecked invocation sort(java.util.LinkedList<Card>) of the generic method sort(java.util.List<T>) of type java.util.Collections'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fb3d7d9
+13 May 2018 3:47:11 GMT:  Kind = WARNING
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\InvalidCardReference.java LineNo = 11 ColNo = 14 Msg = 'The serializable class InvalidCardReference does not declare a static final serialVersionUID field of type long'
+13 May 2018 3:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c0bc552
+13 May 2018 3:47:11 GMT:  Kind = WARNING
+13 May 2018 3:47:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\InvalidCardException.java LineNo = 11 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+13 May 2018 3:47:23 GMT: diagnostics = javax.tools.DiagnosticCollector@21dfebc7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7cb8ed58
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\InvalidCardReference.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\InvalidCardException.java]
+13 May 2018 3:47:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3fdc36de' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignemnt 10;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+13 May 2018 3:47:24 GMT: Compiler call returned
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5a051c5
+13 May 2018 3:47:24 GMT:  Kind = WARNING
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 20 ColNo = 45 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6c99d8e9
+13 May 2018 3:47:24 GMT:  Kind = WARNING
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 17 ColNo = 43 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4afe8f70
+13 May 2018 3:47:24 GMT:  Kind = WARNING
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 198 ColNo = 32 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@534b856b
+13 May 2018 3:47:24 GMT:  Kind = WARNING
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 211 ColNo = 27 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@54e2d8be
+13 May 2018 3:47:24 GMT:  Kind = WARNING
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 32 ColNo = 13 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@769e0c5b
+13 May 2018 3:47:24 GMT:  Kind = WARNING
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 28 ColNo = 13 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@482598f7
+13 May 2018 3:47:24 GMT:  Kind = WARNING
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 159 ColNo = 13 Msg = 'Type safety: The method addItem(java.lang.Object) belongs to the raw type javax.swing.JComboBox. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@474a3c45
+13 May 2018 3:47:24 GMT:  Kind = WARNING
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 232 ColNo = 17 Msg = 'Type safety: The method addItem(java.lang.Object) belongs to the raw type javax.swing.JComboBox. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5af2b3a
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 312 ColNo = 33 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3550300
+13 May 2018 3:47:24 GMT:  Kind = WARNING
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 315 ColNo = 35 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6753c1bd
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 48 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@716d6106
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 105 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@de762ea
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 163 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@26012d55
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 225 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5f264e01
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 291 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@455961b2
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 48 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@739fbbc1
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 105 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5c5b4b62
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 163 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@31e050ae
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 219 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3fbae3d1
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 282 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@31f50654
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 40 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@37734b53
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 97 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4a50833
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 155 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6c69d71d
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 211 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@75b7ab62
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 274 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@58334f54
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 323 ColNo = 15 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@747b30f1
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 323 ColNo = 65 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5608c05c
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 324 ColNo = 36 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1eac9d44
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 324 ColNo = 94 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5c27382a
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 324 ColNo = 154 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@71f667e7
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 324 ColNo = 216 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@61ec53a5
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 45 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bd0b461
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 102 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7ed32959
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 160 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3c58b03b
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 216 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3faabd6e
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 279 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@21c76546
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 38 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@46b909c6
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 95 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3f99b042
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 153 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@55322b12
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 209 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4f4599a7
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 275 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@413c4eb0
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 38 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3355fd75
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 95 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@77fb2ab6
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 153 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14901d4f
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 209 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@377a98a3
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 272 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2b58656c
+13 May 2018 3:47:24 GMT:  Kind = WARNING
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 334 ColNo = 25 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d8542b
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 38 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11364bba
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 95 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@72ea66bf
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 153 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a710e8b
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 215 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5dcf78e2
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 281 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7e87937a
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 40 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5ff9cd8b
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 97 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4d6e95a9
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 157 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6bc0ec8e
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 213 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@291ebecf
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 282 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@381aabf2
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 349 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@160b285
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 418 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6da89abb
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 40 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@311ca907
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 97 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5cb4c1ed
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 157 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@58c4a464
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 213 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@71108085
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 282 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@25104b31
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 349 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5f515dd7
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 418 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@224b25dd
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 44 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@57aa9db9
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 101 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@70440dbe
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 161 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@25ae5984
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 223 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5eb0f521
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 292 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d74ec1b
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 358 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d0d23f6
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 38 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5a3829aa
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 95 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3f8d631
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 155 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7996f661
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 211 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d607836
+13 May 2018 3:47:24 GMT:  Kind = ERROR
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 278 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60e6749
+13 May 2018 3:47:24 GMT:  Kind = WARNING
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 37 ColNo = 23 Msg = 'The value of the field PlayGame.scorePane is not used'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@438260e7
+13 May 2018 3:47:24 GMT:  Kind = WARNING
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 292 ColNo = 18 Msg = 'The value of the local variable run is not used'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d69b308
+13 May 2018 3:47:24 GMT:  Kind = WARNING
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java LineNo = 43 ColNo = 15 Msg = 'The static field DeckList.DECKSIZE should be accessed in a static way'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1356cb5b
+13 May 2018 3:47:24 GMT:  Kind = WARNING
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java LineNo = 33 ColNo = 20 Msg = 'Unnecessary @SuppressWarnings("unused")'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6697d257
+13 May 2018 3:47:24 GMT:  Kind = WARNING
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 205 ColNo = 9 Msg = 'Type safety: The method compareTo(java.lang.Object) belongs to the raw type java.lang.Comparable. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3642133a
+13 May 2018 3:47:24 GMT:  Kind = WARNING
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 212 ColNo = 3 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@76730709
+13 May 2018 3:47:24 GMT:  Kind = WARNING
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 259 ColNo = 3 Msg = 'Type safety: Unchecked invocation sort(java.util.LinkedList<Card>) of the generic method sort(java.util.List<T>) of type java.util.Collections'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@53da168f
+13 May 2018 3:47:24 GMT:  Kind = WARNING
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 3 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b8763c9
+13 May 2018 3:47:24 GMT:  Kind = WARNING
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\InvalidCardReference.java LineNo = 11 ColNo = 14 Msg = 'The serializable class InvalidCardReference does not declare a static final serialVersionUID field of type long'
+13 May 2018 3:47:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2dfa6a40
+13 May 2018 3:47:24 GMT:  Kind = WARNING
+13 May 2018 3:47:24 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\InvalidCardException.java LineNo = 11 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+13 May 2018 3:47:57 GMT: diagnostics = javax.tools.DiagnosticCollector@6a2a4e71
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1bfac093
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\InvalidCardReference.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\InvalidCardException.java]
+13 May 2018 3:47:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@766227b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignemnt 10;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+13 May 2018 3:47:57 GMT: Compiler call returned
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5fd65fcb
+13 May 2018 3:47:57 GMT:  Kind = WARNING
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 20 ColNo = 45 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d89c0a
+13 May 2018 3:47:57 GMT:  Kind = WARNING
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 17 ColNo = 43 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@596d36d4
+13 May 2018 3:47:57 GMT:  Kind = WARNING
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 198 ColNo = 32 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2b6cec39
+13 May 2018 3:47:57 GMT:  Kind = WARNING
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 211 ColNo = 27 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4629d698
+13 May 2018 3:47:57 GMT:  Kind = WARNING
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 32 ColNo = 13 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3543a9b
+13 May 2018 3:47:57 GMT:  Kind = WARNING
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 28 ColNo = 13 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@333f67b3
+13 May 2018 3:47:57 GMT:  Kind = WARNING
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 159 ColNo = 13 Msg = 'Type safety: The method addItem(java.lang.Object) belongs to the raw type javax.swing.JComboBox. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7ffe48c9
+13 May 2018 3:47:57 GMT:  Kind = WARNING
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 232 ColNo = 17 Msg = 'Type safety: The method addItem(java.lang.Object) belongs to the raw type javax.swing.JComboBox. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@77ebdcb8
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 312 ColNo = 33 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5549b03c
+13 May 2018 3:47:57 GMT:  Kind = WARNING
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 315 ColNo = 35 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d8347d9
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 48 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1036eca0
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 105 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3911ec02
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 163 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@21c1634c
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 225 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@26fb4522
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 291 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18ffeb1
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 48 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@37c8737e
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 105 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1db9adc8
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 163 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@61973908
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 219 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f9339fd
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 282 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6bb4eaf2
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 40 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3b33dda1
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 97 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@63b4fcb6
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 155 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@656e6dec
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 211 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2941f8c9
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 274 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c3ae695
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 323 ColNo = 15 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@482ffae8
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 323 ColNo = 65 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5e38ff0c
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 324 ColNo = 36 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7819c3b2
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 324 ColNo = 94 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@23cc9c6a
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 324 ColNo = 154 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1403da41
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 324 ColNo = 216 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d5a8752
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 45 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3b68c118
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 102 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7c0035d3
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 160 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@76db29c0
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 216 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2fe2405e
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 279 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@527f34bb
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 38 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2f2c3d8a
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 95 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@969486
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 153 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3dcbd47a
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 209 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16bae594
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 275 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@58b45aa4
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 38 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6cb2c790
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 95 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fb9a678
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 153 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4e6e745e
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 209 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@34f5664d
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 272 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4e81b904
+13 May 2018 3:47:57 GMT:  Kind = WARNING
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 334 ColNo = 25 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cc95cca
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 38 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@31380589
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 95 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2ee0daed
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 153 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6dea1fac
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 215 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2b0321d7
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 281 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5a667d73
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 40 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@72f9f360
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 97 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4f5385ec
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 157 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7d6c1848
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 213 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14887f73
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 282 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@29d7ec71
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 349 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7a787042
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 418 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@67cb991d
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 40 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@30ef1170
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 97 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@26cdd778
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 157 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f0e4983
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 213 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@24b6380e
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 282 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6c1ad979
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 349 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2424b595
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 418 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@490ba2c3
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 44 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5c6895a4
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 101 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@66035e41
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 161 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@678ad709
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 223 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@73836c81
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 292 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6b5e02e0
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 358 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1753b89c
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 38 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@26d017e0
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 95 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4edf80df
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 155 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@558dc2e6
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 211 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5f900793
+13 May 2018 3:47:57 GMT:  Kind = ERROR
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 278 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@79d96496
+13 May 2018 3:47:57 GMT:  Kind = WARNING
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 37 ColNo = 23 Msg = 'The value of the field PlayGame.scorePane is not used'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4bb2da0a
+13 May 2018 3:47:57 GMT:  Kind = WARNING
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 292 ColNo = 18 Msg = 'The value of the local variable run is not used'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7013bb68
+13 May 2018 3:47:57 GMT:  Kind = WARNING
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java LineNo = 43 ColNo = 15 Msg = 'The static field DeckList.DECKSIZE should be accessed in a static way'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2fe08666
+13 May 2018 3:47:57 GMT:  Kind = WARNING
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java LineNo = 33 ColNo = 20 Msg = 'Unnecessary @SuppressWarnings("unused")'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d2faad8
+13 May 2018 3:47:57 GMT:  Kind = WARNING
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 205 ColNo = 9 Msg = 'Type safety: The method compareTo(java.lang.Object) belongs to the raw type java.lang.Comparable. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@409041fd
+13 May 2018 3:47:57 GMT:  Kind = WARNING
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 212 ColNo = 3 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2db56a7c
+13 May 2018 3:47:57 GMT:  Kind = WARNING
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 259 ColNo = 3 Msg = 'Type safety: Unchecked invocation sort(java.util.LinkedList<Card>) of the generic method sort(java.util.List<T>) of type java.util.Collections'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@64d0a1a
+13 May 2018 3:47:57 GMT:  Kind = WARNING
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 3 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@66541961
+13 May 2018 3:47:57 GMT:  Kind = WARNING
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\InvalidCardReference.java LineNo = 11 ColNo = 14 Msg = 'The serializable class InvalidCardReference does not declare a static final serialVersionUID field of type long'
+13 May 2018 3:47:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@248923ff
+13 May 2018 3:47:57 GMT:  Kind = WARNING
+13 May 2018 3:47:57 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\InvalidCardException.java LineNo = 11 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'
+13 May 2018 3:47:59 GMT: diagnostics = javax.tools.DiagnosticCollector@38f6c42d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@69de457f
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\InvalidCardReference.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignemnt 10\InvalidCardException.java]
+13 May 2018 3:47:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@527590a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignemnt 10;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+13 May 2018 3:47:59 GMT: Compiler call returned
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@73a0eea9
+13 May 2018 3:47:59 GMT:  Kind = WARNING
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Card.java LineNo = 20 ColNo = 45 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18ec1dc0
+13 May 2018 3:47:59 GMT:  Kind = WARNING
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 17 ColNo = 43 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7beceedf
+13 May 2018 3:47:59 GMT:  Kind = WARNING
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 198 ColNo = 32 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4f6877fd
+13 May 2018 3:47:59 GMT:  Kind = WARNING
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 211 ColNo = 27 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3bc91d1f
+13 May 2018 3:47:59 GMT:  Kind = WARNING
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 32 ColNo = 13 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@43b315bb
+13 May 2018 3:47:59 GMT:  Kind = WARNING
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 28 ColNo = 13 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5f358104
+13 May 2018 3:47:59 GMT:  Kind = WARNING
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 159 ColNo = 13 Msg = 'Type safety: The method addItem(java.lang.Object) belongs to the raw type javax.swing.JComboBox. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@536ed280
+13 May 2018 3:47:59 GMT:  Kind = WARNING
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 232 ColNo = 17 Msg = 'Type safety: The method addItem(java.lang.Object) belongs to the raw type javax.swing.JComboBox. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@20bc1c17
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 312 ColNo = 33 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7bf9db76
+13 May 2018 3:47:59 GMT:  Kind = WARNING
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 315 ColNo = 35 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8b758ac
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 48 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2d6861e8
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 105 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6d748cf6
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 163 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5863d845
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 225 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6a2389dd
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 316 ColNo = 291 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4aad250
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 48 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4df0fd0f
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 105 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b97a504
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 163 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7d0cb8ca
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 219 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2f66dd69
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 319 ColNo = 282 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@65b4450f
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 40 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@533d6338
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 97 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4bef5b7d
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 155 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@527b5afc
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 211 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15a0e181
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 322 ColNo = 274 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2dbc74ae
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 323 ColNo = 15 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c39e6d7
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 323 ColNo = 65 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@149df316
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 324 ColNo = 36 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6a3b4ed
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 324 ColNo = 94 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@48f4b993
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 324 ColNo = 154 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b28f104
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 324 ColNo = 216 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60d6b434
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 45 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7b49701f
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 102 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@161c66c4
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 160 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4ae015d2
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 216 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fc27fae
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 327 ColNo = 279 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2f3b3dc1
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 38 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5ae454a4
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 95 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10e084af
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 153 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cd3a612
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 209 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6af0557c
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 330 ColNo = 275 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12496df2
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 38 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@61846e8
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 95 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7fa930f
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 153 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f497d39
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 209 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@36b6bbdf
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 333 ColNo = 272 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@725d94e7
+13 May 2018 3:47:59 GMT:  Kind = WARNING
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 334 ColNo = 25 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@21ec0348
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 38 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5e812f9
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 95 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60329d8
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 153 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18e77f53
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 215 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5950c944
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 335 ColNo = 281 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cea674d
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 40 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3b8d0e1
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 97 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@20863a22
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 157 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7f43dd9f
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 213 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@305c0d35
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 282 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7526fc07
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 349 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@64e09fab
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 337 ColNo = 418 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@52e198d
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 40 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@554b89b8
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 97 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@174f81d2
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 157 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@77324957
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 213 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2a5c44d
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 282 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@baa9be8
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 349 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6000da5e
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 348 ColNo = 418 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@51d5ff8
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 44 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@293674ba
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 101 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@769ccfaf
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 161 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10283908
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 223 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7f25466a
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 292 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@65ac6e90
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 361 ColNo = 358 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@75dd243d
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 38 Msg = 'com.intellij cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@246cb3f7
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 95 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@71afb706
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 155 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@77f19f4d
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 211 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6b91a142
+13 May 2018 3:47:59 GMT:  Kind = ERROR
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 363 ColNo = 278 Msg = 'com.intellij.uiDesigner.core.GridConstraints cannot be resolved to a type'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2a2344cc
+13 May 2018 3:47:59 GMT:  Kind = WARNING
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 37 ColNo = 23 Msg = 'The value of the field PlayGame.scorePane is not used'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@26b8c109
+13 May 2018 3:47:59 GMT:  Kind = WARNING
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\PlayGame.java LineNo = 292 ColNo = 18 Msg = 'The value of the local variable run is not used'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d483964
+13 May 2018 3:47:59 GMT:  Kind = WARNING
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java LineNo = 43 ColNo = 15 Msg = 'The static field DeckList.DECKSIZE should be accessed in a static way'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3bb5083e
+13 May 2018 3:47:59 GMT:  Kind = WARNING
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\DeckList.java LineNo = 33 ColNo = 20 Msg = 'Unnecessary @SuppressWarnings("unused")'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b003ea0
+13 May 2018 3:47:59 GMT:  Kind = WARNING
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 205 ColNo = 9 Msg = 'Type safety: The method compareTo(java.lang.Object) belongs to the raw type java.lang.Comparable. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6b500640
+13 May 2018 3:47:59 GMT:  Kind = WARNING
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 212 ColNo = 3 Msg = 'java.lang.Comparable is a raw type. References to generic type java.lang.Comparable<T> should be parameterized'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@774f8157
+13 May 2018 3:47:59 GMT:  Kind = WARNING
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 259 ColNo = 3 Msg = 'Type safety: Unchecked invocation sort(java.util.LinkedList<Card>) of the generic method sort(java.util.List<T>) of type java.util.Collections'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@64a88378
+13 May 2018 3:47:59 GMT:  Kind = WARNING
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\Hand.java LineNo = 3 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6e574473
+13 May 2018 3:47:59 GMT:  Kind = WARNING
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\InvalidCardReference.java LineNo = 11 ColNo = 14 Msg = 'The serializable class InvalidCardReference does not declare a static final serialVersionUID field of type long'
+13 May 2018 3:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@55e2dff
+13 May 2018 3:47:59 GMT:  Kind = WARNING
+13 May 2018 3:47:59 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignemnt 10\InvalidCardException.java LineNo = 11 ColNo = 14 Msg = 'The serializable class InvalidCardException does not declare a static final serialVersionUID field of type long'

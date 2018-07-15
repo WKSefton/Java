@@ -1,0 +1,154 @@
+
+/**
+ * PartOfSpeech is a class that represent a set of words for a single part of
+ * speech (i.e., noun, ver, etc). The set of words is read from a text file, named
+ * for the part of speech it contains (i.e., noun.txt, verb.txt, etc.)
+ * 
+ * @author William K. Sefton
+ * James Fleisher
+ * CSE 271 HA
+ * Professor Werner
+ * @version 1.0
+ * */
+
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.Random;
+import java.util.Scanner;
+
+public class PartOfSpeech {
+
+ private String filename; // variables defined within class are called
+        // instance variables, they our outside methods
+ private String[] words; // private means only visible within scope of the
+       // class
+
+ private Random random = new Random();
+
+ /**
+  * PartOfSpeech constructor
+  * 
+  * @param filename
+  *            the name of the file contains the set of words to be
+  *            maintained
+  */
+
+ public PartOfSpeech(String filename) // constructor no explicit return type
+           // and name is same as class
+           // acces specifier public means that
+           // objects can be contstructed in
+           // class
+           // methods not defined as static are
+           // called instance methods
+ {
+  this.filename = filename; // 'this' keyword designates using instance
+         // variables
+  int count = getCount();
+
+  // System.out.println("Count of items in the " + this.filename +
+  // " file is " + count);
+
+  this.words = new String[count];
+
+  readWordsIntoArray();
+ }
+
+ /**
+  * Opens the file designated by the instance variable filname and counts the
+  * number of lines it contains. (Each words is on a seperate line of the
+  * file.) the number of words in the file is returned.
+  * 
+  * @return the number of words in the file
+  */
+ private int getCount() {
+  int count = 0;
+  Scanner fileIn = null;
+
+  try {
+   fileIn = new Scanner(new FileInputStream(this.filename));
+  } catch (IOException e) {
+   System.out.println(e.getMessage());
+   return 0;
+  }
+
+  while (fileIn.hasNextLine()) {
+   count++;
+   fileIn.nextLine();
+  }
+
+  fileIn.close();
+  return count;
+ }
+
+ /**
+  * Opens the file designated by the instance variable filename and readds
+  * into the instance array words. The instance array must be created before
+  * this method is called.
+  */
+ private void readWordsIntoArray() {
+  int i = 0;
+  Scanner fileIn = null;
+
+  try {
+   fileIn = new Scanner(new FileInputStream(this.filename));
+  }
+
+  catch (IOException e) {
+   System.out.println(e.getMessage());
+   System.exit(0);
+  }
+
+  while (fileIn.hasNextLine()) {
+   this.words[i++] = fileIn.nextLine();
+  }
+
+  fileIn.close();
+ }
+
+ /**
+  * Debugging method to output the contents of the instance array words to
+  * the console.
+  */
+ public void show() {
+  for (int i = 0; i < words.length; i++)
+   System.out.println(words[i]);
+ }
+
+ /**
+  * returns a random word from the words array.
+  * 
+  * @return random word of the current part of speech
+  */
+ public String getRandomWord() {
+  int index = this.random.nextInt(this.words.length);
+  return this.words[index];
+ }
+
+ /**
+  * main method with test code for the class.
+  * 
+  */
+ public static void main(String[] args) {
+
+  PartOfSpeech nouns = new PartOfSpeech("nouns.txt");
+  // nouns.show();
+  for (int i = 0; i < 10; i++) {
+   System.out.println("Random noun is " + nouns.getRandomWord());
+  }
+
+  PartOfSpeech verbs = new PartOfSpeech("verbs.txt");
+  // verbs.show();
+
+  for (int i = 0; i < 10; i++) {
+   System.out.println("Random verb is " + verbs.getRandomWord());
+  }
+
+  PartOfSpeech adjectives = new PartOfSpeech("adjectives.txt");
+  // adjectives.show();
+
+  for (int i = 0; i < 10; i++) {
+   System.out.println("Random adjective is " + adjectives.getRandomWord());
+  }
+
+ }
+}

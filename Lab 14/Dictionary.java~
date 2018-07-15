@@ -1,0 +1,28 @@
+
+import java.util.LinkedList;
+
+public class Dictionary extends LinkedList<String>
+{
+  public void addWordPair(WordPair words)
+  {
+   this.add(words);    
+  }
+  
+  public void removeWordPair(WordPair words)
+  {
+   this.remove(words); 
+  }
+  
+  public boolean isEmpty()
+  {
+   return this.isEmpty(); 
+  }
+  
+  public void show()
+  {
+    for(words:this)
+    {
+     System.out.println(words); 
+    }
+  } 
+}

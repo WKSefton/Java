@@ -1,0 +1,51 @@
+21 Feb 2018 1:47:17 GMT: Log 'EclipseCompiler.txt' opened: 21 Feb 2018 1:47:17 GMT with name C:\Users\willi\Desktop\CSE271\Lab 6\EclipseCompiler.txt
+21 Feb 2018 1:59:00 GMT: diagnostics = javax.tools.DiagnosticCollector@3b99f4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d21eab
+fileObjects = [C:\Users\willi\Desktop\CSE271\Lab 6\RedRobot.java, C:\Users\willi\Desktop\CSE271\Lab 6\PartOfSpeech.java, C:\Users\willi\Desktop\CSE271\Lab 6\Robot.java, C:\Users\willi\Desktop\CSE271\Lab 6\Vocabulary.java, C:\Users\willi\Desktop\CSE271\Lab 6\YellowRobot.java, C:\Users\willi\Desktop\CSE271\Lab 6\PoetryGenerator1.java, C:\Users\willi\Desktop\CSE271\Lab 6\RobotTesting.java]
+21 Feb 2018 1:59:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@10beb0e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Lab 6;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+21 Feb 2018 1:59:01 GMT: Compiler call returned
+21 Feb 2018 1:59:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@50211c
+21 Feb 2018 1:59:01 GMT:  Kind = WARNING
+21 Feb 2018 1:59:01 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 6\RedRobot.java LineNo = 21 ColNo = 17 Msg = 'The static field Robot.number should be accessed in a static way'
+21 Feb 2018 1:59:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f91162
+21 Feb 2018 1:59:01 GMT:  Kind = WARNING
+21 Feb 2018 1:59:01 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 6\YellowRobot.java LineNo = 24 ColNo = 26 Msg = 'The static field Robot.number should be accessed in a static way'
+21 Feb 2018 1:59:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@148180
+21 Feb 2018 1:59:01 GMT:  Kind = WARNING
+21 Feb 2018 1:59:01 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 6\YellowRobot.java LineNo = 43 ColNo = 22 Msg = 'The static field Robot.number should be accessed in a static way'
+21 Feb 2018 1:59:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@afdee5
+21 Feb 2018 1:59:01 GMT:  Kind = ERROR
+21 Feb 2018 1:59:01 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 6\PoetryGenerator1.java LineNo = 21 ColNo = 10 Msg = 'BlueRobot cannot be resolved to a type'
+21 Feb 2018 1:59:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4381d9
+21 Feb 2018 1:59:01 GMT:  Kind = ERROR
+21 Feb 2018 1:59:01 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 6\PoetryGenerator1.java LineNo = 24 ColNo = 10 Msg = 'GreenRobot cannot be resolved to a type'
+21 Feb 2018 1:59:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b0fdf2
+21 Feb 2018 1:59:01 GMT:  Kind = ERROR
+21 Feb 2018 1:59:01 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 6\PoetryGenerator1.java LineNo = 25 ColNo = 10 Msg = 'PurpleRobot cannot be resolved to a type'
+21 Feb 2018 1:59:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f07b85
+21 Feb 2018 1:59:01 GMT:  Kind = ERROR
+21 Feb 2018 1:59:01 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 6\PoetryGenerator1.java LineNo = 32 ColNo = 3 Msg = 'BlueRobot cannot be resolved to a type'
+21 Feb 2018 1:59:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f2c1e8
+21 Feb 2018 1:59:01 GMT:  Kind = ERROR
+21 Feb 2018 1:59:01 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 6\PoetryGenerator1.java LineNo = 32 ColNo = 19 Msg = 'BlueRobot cannot be resolved to a type'
+21 Feb 2018 1:59:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d9da46
+21 Feb 2018 1:59:01 GMT:  Kind = ERROR
+21 Feb 2018 1:59:01 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 6\PoetryGenerator1.java LineNo = 35 ColNo = 3 Msg = 'GreenRobot cannot be resolved to a type'
+21 Feb 2018 1:59:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fafb22
+21 Feb 2018 1:59:01 GMT:  Kind = ERROR
+21 Feb 2018 1:59:01 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 6\PoetryGenerator1.java LineNo = 35 ColNo = 20 Msg = 'GreenRobot cannot be resolved to a type'
+21 Feb 2018 1:59:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f6988b
+21 Feb 2018 1:59:01 GMT:  Kind = ERROR
+21 Feb 2018 1:59:01 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 6\PoetryGenerator1.java LineNo = 36 ColNo = 3 Msg = 'PurpleRobot cannot be resolved to a type'
+21 Feb 2018 1:59:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@64fc9c
+21 Feb 2018 1:59:01 GMT:  Kind = ERROR
+21 Feb 2018 1:59:01 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 6\PoetryGenerator1.java LineNo = 36 ColNo = 21 Msg = 'PurpleRobot cannot be resolved to a type'
+21 Feb 2018 1:59:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13e08bc
+21 Feb 2018 1:59:01 GMT:  Kind = ERROR
+21 Feb 2018 1:59:01 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 6\PoetryGenerator1.java LineNo = 53 ColNo = 23 Msg = 'BlueRobot cannot be resolved to a type'
+21 Feb 2018 1:59:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@129dfd2
+21 Feb 2018 1:59:01 GMT:  Kind = ERROR
+21 Feb 2018 1:59:01 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 6\PoetryGenerator1.java LineNo = 53 ColNo = 34 Msg = 'GreenRobot cannot be resolved to a type'
+21 Feb 2018 1:59:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6c34bc
+21 Feb 2018 1:59:01 GMT:  Kind = ERROR
+21 Feb 2018 1:59:01 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 6\PoetryGenerator1.java LineNo = 53 ColNo = 41 Msg = 'PurpleRobot cannot be resolved to a type'

@@ -1,0 +1,93 @@
+import java.util.Scanner;
+import java.io.*;
+
+/**
+ * TemperatureConversion provides static methods that allow temperatures to be
+ * converted between 4 scales: celsius, fahrenheit, kelvin, rankine.
+ * 
+ * @author Jill Courte
+ * @modified Laurie Werner
+ * @version 1.1
+ */
+public class TemperatureConversion
+{
+    public final static char FAHRENHEIT = 'F';
+    public final static char CELSIUS = 'C';
+    public final static char KELVIN = 'K';  
+    public final static char RANKINE = 'R';
+    
+
+
+    /**
+     * Given a double value in fahrenheit and a scale, converts the value to that scale.
+     * @param value - the fahrenheit value to be converted
+     * @param scale - the target scale - one of 'F', 'C', 'K', 'R'
+    */
+    public double fahrenheitToOther (double value, char scale)
+    {
+        return 0.0; 
+    }
+ 
+
+    /**
+     * Given a double value in celsius and a scale, converts the value to that scale.
+     * @param value - the celsius value to be converted
+     * @param scale - the target scale - one of 'F', 'C', 'K', 'R'
+    */    
+    public double celsiusToOther (double value, char scale)
+    {
+        return 0.0; 
+    }
+
+
+    /**
+     * Given a double value in kelvin and a scale, converts the value to that scale.
+     * @param value - the kelvin value to be converted
+     * @param scale - the target scale - one of 'F', 'C', 'K', 'R'
+    */      
+    public double kelvinToOther (double value, char scale)
+    {
+        return 0.0; 
+    }
+
+
+    /**
+     * Given a double value in rankine and a scale, converts the value to that scale.
+     * @param value - the rankine value to be converted
+     * @param scale - the target scale - one of 'F', 'C', 'K', 'R'
+    */     
+    public double rankineToOther (double value, char scale)
+    {
+        return 0.0; 
+    }
+
+    /**
+     * Given a double value and its associated scale, and a new scale, 
+     * converts the given value from the original scale to the new scale.
+     * Each scale shoud be one of 'F', 'C', 'K', 'R' (fahranheit, celsius, kelvin, rankine)
+     * @param originalValue - the  value to be converted
+     * @param originalScale - the scale of the original value
+     * @param newScale - the target scale
+    */ 
+    public double doConversion (double originalValue, char originalScale, char newScale)
+    {
+        double newValue = 0.0;
+        
+        if (originalScale == CELSIUS)
+            newValue = celsiusToOther(originalValue, newScale);
+          
+         return newValue;
+    }
+    
+
+    
+    
+    public static void main (String [] args)
+    {
+        //sample use add much more testing
+        TemperatureConversion temps = new TemperatureConversion();
+        
+        double result = temps.doConversion(32.0, CELSIUS, FAHRENHEIT);
+        System.out.printf("32 C is %.2f F\n", result);
+    }
+}

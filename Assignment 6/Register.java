@@ -1,0 +1,275 @@
+/** 
+ *  Name: William Sefton
+ *  Instructor: Laurie Werner 
+ *  Partner: None 
+ *  CSE 271 HA 
+ *  Register creates a GUI for the employees of a resturaunt
+ * to use in calculating a bill, with tax information and
+ * a suggested tip
+ */
+
+//import java swing, event, layout and color
+import javax.swing.*;
+import java.awt.event.*;
+import java.awt.FlowLayout;
+import java.awt.Color;
+
+public class Register extends JFrame
+{
+  
+  //two arrays String array for the button items and another for their prices
+  private String[] item = {"Fish & Chips", "Chicken Tenders", "Chef Salad", "Potato Skins", "Texas Chili",
+    "Liver & Onions", "Sirloin Steak", "Mushroom Swiss", "Pepsi", "Beer"};
+  private double[] price = {10.99, 9.99, 9.99, 8.99, 5.99, 8.99, 16.99, 10.99, 1.99, 2.50};
+  
+  //an array of functions, total and clear, leaves room for more in the future
+  private String[] function = {"Total", "Clear"};
+  
+  //all variables and objects that are used in the sub classes
+  private JPanel panel;
+  private JTextArea output;
+  private JTextField customField;
+  private JButton customButton;
+  private int customItemNumber = 1;
+  private double balance;
+  //fixed tax rate and tip
+  private double taxRate = .15;
+  private double tipPercent = .20;
+  
+  /**
+   * Constructor for the Register class
+   * extends a JFrame, adds a panel, buttons
+   * and text areas
+   */
+  public Register()
+  {
+    //create the panel
+    createPanel();
+    
+    //add buttons and functionality
+    createButtons();
+    createTextArea();
+    createCustom();
+    createFunctions();
+    
+    //set frame properties, title, size, exit operation
+    setSize(800,800);
+    //set to non resizable because of flowlayout
+    setResizable(false);
+    setTitle(" |  Register Number:  " + "  |  Resturaunt Employee:  " + "  |");
+    setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    setVisible(true);
+  }
+  
+  /**
+   * overloaded constructor
+   * 
+   * @param int registerNumber
+   * @param String employeeName
+   */
+  public Register(int registerNumber, String employeeName)
+  {
+    this();
+    setTitle(" |  Register Number:  " + registerNumber + "  |  Resturaunt Employee:  " + employeeName + "  |");
+  }
+  
+  /**
+   * Action listener for the buttons, passes an index param
+   * updates the balance as it is clicked
+   * 
+   * @param int i for index of the item/price array
+   */
+  class PriceListener implements ActionListener
+  {
+    private String item;
+    private double price;
+    public PriceListener(int i)
+    {
+      this.price = getPrice(i); 
+      this.item = getItem(i);
+    }
+    public void actionPerformed(ActionEvent event)
+    {
+      //item buttons
+        output.append(String.format("\t\t%-60s $%.2f \n", item, price)); 
+        balance += price;
+    }
+  }
+  
+  /**
+   * Action listener for the funcions, passes an index param
+   * 
+   * @param int i for index of the functions array
+   */
+  class FunctionListener implements ActionListener
+  {
+    private String function;
+    public FunctionListener(int i)
+    {
+      this.function = getFunction(i);
+    }
+    //this method does perform two actions in one, I wanted to 
+    //avoid using a magic number or creating another 
+    //ActionListener for the Clear button
+    public void actionPerformed(ActionEvent event)
+    {
+      //total button
+      if(function == "Total")
+      {
+        output.append("\t\t------------------------------------------------------------");
+        output.append(String.format("\n\t\tTax:\t\t$%.2f \n\t\tTotal:\t\t$%.2f \n\t\tSuggested Tip:\t\t$%.2f\n",
+                                    balance*taxRate, (balance*taxRate+balance),balance*tipPercent));
+         output.append("\t\t------------------------------------------------------------\n");
+      }
+      //clear button
+      if(function == "Clear")
+      {
+        output.setText(null);
+        customButton.setText("Custom Item # 1");
+        customField.setText(null);
+        customItemNumber = 1;
+        balance = 0;
+      }
+    }
+  }
+  
+  /**
+   * Action listener for the custom buttons
+   * updates button for the next custom item
+   * updates balance and resets the JTextField
+   * handles errors for the JTextField
+   */
+  class CustomListener implements ActionListener
+  {
+    double price = 0;
+    public void actionPerformed(ActionEvent event)
+    {
+      //makes sure only numbers are entered, stops if not
+      //negative numbers are okay and can be used for discounts
+      //cupons or other.
+      try{
+        price = Integer.parseInt(customField.getText());
+      }catch(Exception e)
+      {
+        output.append("Please enter a price!\n");
+        return;
+      }
+      output.append(String.format("\t\t%-60s \t$%.2f\n", "Custom Item #" + customItemNumber, price));
+      customItemNumber++;
+      customButton.setText("Custom Item # " + customItemNumber);
+      balance += price;
+      customField.setText(null);
+    }
+  }
+  
+  /**
+   * accessor method for function array
+   * 
+   * @param int i Index of array
+   */
+  public String getFunction(int i)
+  {
+    return this.function[i]; 
+  }
+  
+  /**
+   * accessor method for price array
+   * 
+   * @param int i Index of array
+   */
+  public double getPrice(int i)
+  {
+    return this.price[i] ;
+  }
+  
+  /**
+   * accessor method for item array
+   * 
+   * @param int i Index of array
+   */
+  public String getItem(int i)
+  {
+    return this.item[i]; 
+  }
+  
+  /**
+   * method to create buttons / action listeners
+   * using the price and item arrays
+   */
+  private void createButtons()
+  {
+    //create the item buttons and listeners
+    for(int i = 0; i < item.length; i++)
+    {
+      JButton button = new JButton(this.item[i] + " - $" + this.price[i]);
+      button.addActionListener(new PriceListener(i));
+      panel.add(button);
+    }
+  }
+  
+  /**
+   * method to create custom buttons
+   * and action listener
+   */
+  private void createCustom()
+  {
+    customButton = new JButton("Custom Item # 1");
+    customField = new JTextField(15);
+    customButton.addActionListener(new CustomListener());
+    
+    //add button and field to the panel
+    panel.add(customButton);
+    panel.add(customField);      
+  }
+  
+  /**
+   * method to create function buttons
+   * using the function array
+   */
+  private void createFunctions()
+  {
+    //create the function buttons and listeners
+    for(int i = 0; i < function.length; i++)
+    {
+      JButton button = new JButton(this.function[i]);
+      button.addActionListener(new FunctionListener(i));
+      panel.add(button);
+    }
+  }
+  
+  /**
+   * method to create the panel, set the layout
+   * and add the panel to the frame
+   */
+  private void createPanel()
+  {
+    panel = new JPanel();
+    //blue background for easy seeing at night
+    panel.setBackground(Color.BLUE);
+    //flow layout with horizontal and vertical spacing
+    panel.setLayout(new FlowLayout(1,30,30));
+    
+    //add panel to the frame
+    add(panel);
+  }
+  
+  /**
+   * method to create the text area
+   * and add it to the panel
+   */
+  private void createTextArea()
+  {
+    output = new JTextArea(30,60);
+    output.setEditable(false);
+    panel.add(output);
+  }
+  
+  /**
+   * main method creating an object of the Register
+   * class using its constructor
+   */
+  public static void main(String[] args)
+  {
+    Register run = new Register(20, "William Sefton");    
+  }
+}

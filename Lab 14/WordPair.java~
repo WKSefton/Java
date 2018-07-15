@@ -1,0 +1,107 @@
+/*
+/*
+ * This class represents one pair of words. 
+ * The relationship between the words is that they have
+ *  the same meaning in either in the same language or in a 
+ *  different language. The WordPair is intended for use
+ *  in a Dictionary.  We will use it to build a linked list.
+ * Each element of the LinkedList in a given dictionary
+ * is one WordPair object that contains two separate
+ * String objects. Thus each pair is a word and its 
+ * translation or a synonym. 
+ * There are several files to use in testing this class.
+ */
+
+public class WordPair {
+
+ /**
+  * @param args
+  */
+ private String wordA;
+ private String wordB;
+
+ /**
+  * Constructor to take a String in word1 = word2 
+  * format and separate it into
+  * 2 strings
+  * 
+  * @param arg0
+  */
+ public WordPair(String arg0) {
+  arg0.trim();
+  int equalsIndex = arg0.indexOf("=");
+  if (equalsIndex != -1) {
+   this.wordA = arg0.substring(0, equalsIndex).trim();
+   this.wordB = arg0.substring(equalsIndex + 1).trim();
+  }
+ }
+
+ /**
+  * Constructor to make a new word pair from 
+  * the two string parameters
+  * 
+  * @param wordA
+  * @param wordB
+  */
+ public WordPair(String wordA, String wordB) {
+  this.wordA = wordA;
+  this.wordB = wordB;
+ }
+
+ /**
+  * @return first word in the pair
+  */
+ public String getWordA() {
+  return wordA;
+ }
+
+ /**
+  * @return second word in the pair
+  */
+ public String getWordB() {
+  return wordB;
+ }
+
+ /**
+  * @param wordA new word to replace first in the pair
+  */
+ public void setWordA(String wordA) {
+  this.wordA = wordA;
+ }
+
+ /**
+  * @param wordB new word to replace the second wod in the pair
+  */
+ public void setWordB(String wordB) {
+  this.wordB = wordB;
+ }
+
+ /* (non-Javadoc)
+  * @see java.lang.Object#toString()
+  * overrides toString
+  */
+ public String toString() {
+  return wordA + "=" + wordB;
+ }
+
+ // a quick testing method
+ public static void main(String[] args) {
+   
+   //make test string
+   String test = "Testing=This";
+   
+   //test constructor
+   WordPair words = new WordPair(test);
+   
+   //testing getWord methods
+   System.out.println("Word A: " + words.getWordA()
+                        + "\nWord B: " + words.getWordB());
+   
+   //test setWord methods
+   words.setWordA("Change");
+   words.setWordB("Words");
+   
+   //test toString
+   System.out.println("\nWords changed\nTesting toString\n" + words.toString());
+ }
+}

@@ -1,0 +1,47 @@
+public class BingoCaller
+{
+  public BingoCaller()
+  {
+  }
+  
+  public BingoBall drawBall()
+  {
+    ch letter = '';
+    int number = 0;
+    
+    Random rand = new Random();
+    
+    int number = rand.nextInt(75);
+    
+    switch(number)
+    {
+      case number < 16:
+        letter = 'B';
+        break;
+      case number < 31:
+        letter = 'I';
+        break;
+      case number < 46:
+        letter = 'N';
+        break;
+      case number < 61:
+        letter = 'G';
+        break;
+      case number < 76:
+        letter = 'O';
+        break;
+    }
+    
+   BingoBall bingoBall = new BingoBall(letter,number);
+    
+    return bingoBall;
+  }
+ 
+  public static void main(String[] args)
+  {
+    BingoCaller test = new BingoCaller();
+    
+    test.drawBall().toString();
+    
+  }
+}

@@ -1,0 +1,101 @@
+
+import java.util.ArrayList;
+import java.util.Random;
+
+public class Deck extends Card
+{
+  private ArrayList<Card> deck;
+  private int CARDS_DEALT = 0;
+  private int SIZE_OF_DECK = 52;
+  
+  public Deck()
+  {
+    deck = createDeck();
+  }
+  
+  private ArrayList<Card> createDeck()
+  {
+    ArrayList d = new ArrayList<Card>(SIZE_OF_DECK);
+    for(int i = 1; i <= 4; i++)
+    {
+      for(int k = 2; k <= 14; k++)
+      {
+        d.add(new Card(i,k)); 
+      }
+    }
+    return d;
+  }
+    
+  private void swapCards(int i, int k)
+  {
+    if(i != k)
+    {
+      Card tempi = deck.get(i);
+      deck.set(i, deck.get(k));
+      deck.set(k, tempi);
+    }
+  }
+  
+  public void shuffleCards()
+  {
+    Random rand = new Random();
+    int value = rand.nextInt(1000) + 500;
+    while(value > 0)
+    {
+          swapCards(rand.nextInt(51) , rand.nextInt(51));
+      value--;
+    }
+  }
+  
+  public boolean deckFull()
+  {
+    return this.deck.size() == SIZE_OF_DECK;
+  }
+  
+  public boolean deckEmpty()
+  {
+    return this.deck.isEmpty();
+  }
+  
+  public void getCard()
+  {
+    deck.remove(0);
+    CARDS_DEALT++;
+  }
+  
+  public int getCountDealt()
+  {
+    return CARDS_DEALT;
+  }
+  
+  public void resetDeck()
+  {
+    deck = createDeck(); 
+    CARDS_DEALT = 0;
+  }
+  
+  public String toString()
+  {
+    String string = "";
+    for(int i = 0; i < deck.size(); i++)
+    {
+      string += "Card "+ (i+1) + ":\t" + deck.get(i).toString() + "\n";
+    }
+    return "\tTop of deck\n" + string + "\tBottom of deck\n";
+  }
+  
+  public static void main(String[] args)
+  {
+    //create random 52 card deck
+    Deck test = new Deck();
+    
+    //print out sorted deck
+    System.out.println(test.toString());
+    
+    //shuffle cards
+    test.shuffleCards();
+    
+    //print out shuffled deck
+    System.out.println(test.toString());
+  } 
+}

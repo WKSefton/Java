@@ -1,0 +1,1021 @@
+1 Mar 2018 0:04:31 GMT: Log 'EclipseCompiler.txt' opened: 1 Mar 2018 0:04:31 GMT with name C:\Users\willi\Desktop\CSE271\Assignment 4\EclipseCompiler.txt
+1 Mar 2018 0:13:27 GMT: diagnostics = javax.tools.DiagnosticCollector@5dcb9e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10c688d
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 0:13:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2d0c66' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:13:27 GMT: Compiler call returned
+1 Mar 2018 0:13:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12877ae
+1 Mar 2018 0:13:27 GMT:  Kind = ERROR
+1 Mar 2018 0:13:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 1 ColNo = 27 Msg = 'The type CardInterface cannot be the superclass of Card; a superclass must be a class'
+1 Mar 2018 0:13:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@404094
+1 Mar 2018 0:13:27 GMT:  Kind = ERROR
+1 Mar 2018 0:13:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 33 ColNo = 13 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:13:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3dcef5
+1 Mar 2018 0:13:27 GMT:  Kind = ERROR
+1 Mar 2018 0:13:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 44 ColNo = 14 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:13:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c609a7
+1 Mar 2018 0:13:27 GMT:  Kind = ERROR
+1 Mar 2018 0:13:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 53 ColNo = 14 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:13:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16e3391
+1 Mar 2018 0:13:27 GMT:  Kind = ERROR
+1 Mar 2018 0:13:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 62 ColNo = 17 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:13:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ce8a48
+1 Mar 2018 0:13:27 GMT:  Kind = ERROR
+1 Mar 2018 0:13:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 72 ColNo = 13 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:13:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@164a7e2
+1 Mar 2018 0:13:27 GMT:  Kind = ERROR
+1 Mar 2018 0:13:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 80 ColNo = 16 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:13:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@520058
+1 Mar 2018 0:13:27 GMT:  Kind = ERROR
+1 Mar 2018 0:13:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 88 ColNo = 16 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:13:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3c43f8
+1 Mar 2018 0:13:27 GMT:  Kind = ERROR
+1 Mar 2018 0:13:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 94 ColNo = 16 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:13:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1dd0c7d
+1 Mar 2018 0:13:27 GMT:  Kind = WARNING
+1 Mar 2018 0:13:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 5 ColNo = 8 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 0:13:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14af693
+1 Mar 2018 0:13:27 GMT:  Kind = WARNING
+1 Mar 2018 0:13:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 6 ColNo = 8 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 0:13:49 GMT: diagnostics = javax.tools.DiagnosticCollector@8141a0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b23ebf
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java]
+1 Mar 2018 0:13:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e9aff3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:13:49 GMT: Compiler call returned
+1 Mar 2018 0:13:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19d1826
+1 Mar 2018 0:13:49 GMT:  Kind = WARNING
+1 Mar 2018 0:13:49 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 5 ColNo = 8 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 0:13:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1287ab7
+1 Mar 2018 0:13:49 GMT:  Kind = WARNING
+1 Mar 2018 0:13:49 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 6 ColNo = 8 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 0:13:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ac5b85
+1 Mar 2018 0:13:49 GMT:  Kind = ERROR
+1 Mar 2018 0:13:49 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 33 ColNo = 13 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:13:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e20fff
+1 Mar 2018 0:13:49 GMT:  Kind = ERROR
+1 Mar 2018 0:13:49 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 44 ColNo = 14 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:13:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f658d
+1 Mar 2018 0:13:49 GMT:  Kind = ERROR
+1 Mar 2018 0:13:49 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 53 ColNo = 14 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:13:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a50bb
+1 Mar 2018 0:13:49 GMT:  Kind = ERROR
+1 Mar 2018 0:13:49 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 62 ColNo = 17 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:13:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@125460e
+1 Mar 2018 0:13:49 GMT:  Kind = ERROR
+1 Mar 2018 0:13:49 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 72 ColNo = 13 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:13:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5b30a2
+1 Mar 2018 0:13:49 GMT:  Kind = ERROR
+1 Mar 2018 0:13:49 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 80 ColNo = 16 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:13:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c10ee9
+1 Mar 2018 0:13:49 GMT:  Kind = ERROR
+1 Mar 2018 0:13:49 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 88 ColNo = 16 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:13:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1260c22
+1 Mar 2018 0:13:49 GMT:  Kind = ERROR
+1 Mar 2018 0:13:49 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 94 ColNo = 16 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:13:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fc35fe
+1 Mar 2018 0:13:49 GMT:  Kind = WARNING
+1 Mar 2018 0:13:49 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 4 ColNo = 15 Msg = 'The value of the field Card.suite is not used'
+1 Mar 2018 0:13:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fdc863
+1 Mar 2018 0:13:49 GMT:  Kind = WARNING
+1 Mar 2018 0:13:49 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 5 ColNo = 15 Msg = 'The value of the field Card.rank is not used'
+1 Mar 2018 0:13:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ec2033
+1 Mar 2018 0:13:49 GMT:  Kind = ERROR
+1 Mar 2018 0:13:49 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 21 ColNo = 13 Msg = 'This method must return a result of type int'
+1 Mar 2018 0:18:06 GMT: diagnostics = javax.tools.DiagnosticCollector@1993406
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17e0a2a
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java]
+1 Mar 2018 0:18:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@dced66' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:18:06 GMT: Compiler call returned
+1 Mar 2018 0:18:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1556302
+1 Mar 2018 0:18:06 GMT:  Kind = WARNING
+1 Mar 2018 0:18:06 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 5 ColNo = 8 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 0:18:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cf2c29
+1 Mar 2018 0:18:06 GMT:  Kind = WARNING
+1 Mar 2018 0:18:06 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 6 ColNo = 8 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 0:18:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@168677a
+1 Mar 2018 0:18:06 GMT:  Kind = ERROR
+1 Mar 2018 0:18:06 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 50 ColNo = 13 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:18:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@32338
+1 Mar 2018 0:18:06 GMT:  Kind = ERROR
+1 Mar 2018 0:18:06 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 61 ColNo = 14 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:18:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fc0789
+1 Mar 2018 0:18:06 GMT:  Kind = ERROR
+1 Mar 2018 0:18:06 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 70 ColNo = 14 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:18:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@165c15b
+1 Mar 2018 0:18:06 GMT:  Kind = ERROR
+1 Mar 2018 0:18:06 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 79 ColNo = 17 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:18:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1462ffa
+1 Mar 2018 0:18:06 GMT:  Kind = ERROR
+1 Mar 2018 0:18:06 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 89 ColNo = 13 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:18:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@93d249
+1 Mar 2018 0:18:06 GMT:  Kind = ERROR
+1 Mar 2018 0:18:06 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 97 ColNo = 16 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:18:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d7401d
+1 Mar 2018 0:18:06 GMT:  Kind = ERROR
+1 Mar 2018 0:18:06 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 105 ColNo = 16 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:18:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c53b45
+1 Mar 2018 0:18:06 GMT:  Kind = ERROR
+1 Mar 2018 0:18:06 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 111 ColNo = 16 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:18:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1eefff8
+1 Mar 2018 0:18:06 GMT:  Kind = WARNING
+1 Mar 2018 0:18:06 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 4 ColNo = 15 Msg = 'The value of the field Card.suite is not used'
+1 Mar 2018 0:28:44 GMT: diagnostics = javax.tools.DiagnosticCollector@88aa53
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18cb3
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java]
+1 Mar 2018 0:28:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a03a0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:28:44 GMT: Compiler call returned
+1 Mar 2018 0:28:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@163d111
+1 Mar 2018 0:28:44 GMT:  Kind = WARNING
+1 Mar 2018 0:28:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 5 ColNo = 8 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 0:28:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f6bdf6
+1 Mar 2018 0:28:44 GMT:  Kind = WARNING
+1 Mar 2018 0:28:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 6 ColNo = 8 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 0:28:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d829a1
+1 Mar 2018 0:28:44 GMT:  Kind = ERROR
+1 Mar 2018 0:28:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 9 ColNo = 10 Msg = 'suit cannot be resolved or is not a field'
+1 Mar 2018 0:28:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ffb795
+1 Mar 2018 0:28:44 GMT:  Kind = ERROR
+1 Mar 2018 0:28:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 38 ColNo = 17 Msg = 'suit cannot be resolved or is not a field'
+1 Mar 2018 0:28:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c71022
+1 Mar 2018 0:28:44 GMT:  Kind = ERROR
+1 Mar 2018 0:28:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 72 ColNo = 12 Msg = 'suit cannot be resolved or is not a field'
+1 Mar 2018 0:28:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b50b41
+1 Mar 2018 0:28:44 GMT:  Kind = ERROR
+1 Mar 2018 0:28:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 75 ColNo = 12 Msg = 'suit cannot be resolved or is not a field'
+1 Mar 2018 0:28:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f4bd37
+1 Mar 2018 0:28:44 GMT:  Kind = ERROR
+1 Mar 2018 0:28:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 88 ColNo = 14 Msg = 'suit cannot be resolved or is not a field'
+1 Mar 2018 0:28:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e5f9c3
+1 Mar 2018 0:28:44 GMT:  Kind = ERROR
+1 Mar 2018 0:28:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 88 ColNo = 27 Msg = 'suit cannot be resolved or is not a field'
+1 Mar 2018 0:28:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e7addd
+1 Mar 2018 0:28:44 GMT:  Kind = ERROR
+1 Mar 2018 0:28:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 103 ColNo = 21 Msg = 'Type mismatch: cannot convert from null to int'
+1 Mar 2018 0:28:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b75b23
+1 Mar 2018 0:28:44 GMT:  Kind = ERROR
+1 Mar 2018 0:28:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 103 ColNo = 8 Msg = 'Type mismatch: cannot convert from int to boolean'
+1 Mar 2018 0:28:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cc4e47
+1 Mar 2018 0:28:44 GMT:  Kind = ERROR
+1 Mar 2018 0:28:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 115 ColNo = 17 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:28:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5985fc
+1 Mar 2018 0:28:44 GMT:  Kind = ERROR
+1 Mar 2018 0:28:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 123 ColNo = 17 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:28:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@385f2f
+1 Mar 2018 0:28:44 GMT:  Kind = ERROR
+1 Mar 2018 0:28:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 129 ColNo = 19 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:28:54 GMT: diagnostics = javax.tools.DiagnosticCollector@99c157
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@882178
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java]
+1 Mar 2018 0:28:54 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a791ad' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:28:54 GMT: Compiler call returned
+1 Mar 2018 0:28:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cf7050
+1 Mar 2018 0:28:54 GMT:  Kind = WARNING
+1 Mar 2018 0:28:54 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 5 ColNo = 8 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 0:28:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b1f752
+1 Mar 2018 0:28:54 GMT:  Kind = WARNING
+1 Mar 2018 0:28:54 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 6 ColNo = 8 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 0:28:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@145afe4
+1 Mar 2018 0:28:54 GMT:  Kind = ERROR
+1 Mar 2018 0:28:54 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 70 ColNo = 12 Msg = 'suite cannot be resolved to a variable'
+1 Mar 2018 0:28:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1472551
+1 Mar 2018 0:28:54 GMT:  Kind = ERROR
+1 Mar 2018 0:28:54 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 72 ColNo = 19 Msg = 'suite cannot be resolved to a variable'
+1 Mar 2018 0:28:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18e9c59
+1 Mar 2018 0:28:54 GMT:  Kind = ERROR
+1 Mar 2018 0:28:54 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 103 ColNo = 21 Msg = 'Type mismatch: cannot convert from null to int'
+1 Mar 2018 0:28:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b6e45d
+1 Mar 2018 0:28:54 GMT:  Kind = ERROR
+1 Mar 2018 0:28:54 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 103 ColNo = 8 Msg = 'Type mismatch: cannot convert from int to boolean'
+1 Mar 2018 0:28:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fa4360
+1 Mar 2018 0:28:54 GMT:  Kind = ERROR
+1 Mar 2018 0:28:54 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 115 ColNo = 17 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:28:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8b9f03
+1 Mar 2018 0:28:54 GMT:  Kind = ERROR
+1 Mar 2018 0:28:54 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 123 ColNo = 17 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:28:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@132b81f
+1 Mar 2018 0:28:54 GMT:  Kind = ERROR
+1 Mar 2018 0:28:54 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 129 ColNo = 19 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:29:00 GMT: diagnostics = javax.tools.DiagnosticCollector@1b3bf3e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5dc990
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java]
+1 Mar 2018 0:29:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c60c9d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:29:00 GMT: Compiler call returned
+1 Mar 2018 0:29:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a103e0
+1 Mar 2018 0:29:00 GMT:  Kind = WARNING
+1 Mar 2018 0:29:00 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 5 ColNo = 8 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 0:29:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d2a153
+1 Mar 2018 0:29:00 GMT:  Kind = WARNING
+1 Mar 2018 0:29:00 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 6 ColNo = 8 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 0:29:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cd7cf2
+1 Mar 2018 0:29:00 GMT:  Kind = ERROR
+1 Mar 2018 0:29:00 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 72 ColNo = 19 Msg = 'suite cannot be resolved to a variable'
+1 Mar 2018 0:29:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@db6b9d
+1 Mar 2018 0:29:00 GMT:  Kind = ERROR
+1 Mar 2018 0:29:00 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 103 ColNo = 21 Msg = 'Type mismatch: cannot convert from null to int'
+1 Mar 2018 0:29:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13c8e5
+1 Mar 2018 0:29:00 GMT:  Kind = ERROR
+1 Mar 2018 0:29:00 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 103 ColNo = 8 Msg = 'Type mismatch: cannot convert from int to boolean'
+1 Mar 2018 0:29:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10a39cd
+1 Mar 2018 0:29:00 GMT:  Kind = ERROR
+1 Mar 2018 0:29:00 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 115 ColNo = 17 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:29:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@154f7b2
+1 Mar 2018 0:29:00 GMT:  Kind = ERROR
+1 Mar 2018 0:29:00 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 123 ColNo = 17 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:29:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fcf546
+1 Mar 2018 0:29:00 GMT:  Kind = ERROR
+1 Mar 2018 0:29:00 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 129 ColNo = 19 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:29:04 GMT: diagnostics = javax.tools.DiagnosticCollector@1a9b684
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@caba50
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java]
+1 Mar 2018 0:29:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@112d456' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:29:04 GMT: Compiler call returned
+1 Mar 2018 0:29:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a7b67f
+1 Mar 2018 0:29:04 GMT:  Kind = WARNING
+1 Mar 2018 0:29:04 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 5 ColNo = 8 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 0:29:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c5a2bb
+1 Mar 2018 0:29:04 GMT:  Kind = WARNING
+1 Mar 2018 0:29:04 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 6 ColNo = 8 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 0:29:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ed8929
+1 Mar 2018 0:29:04 GMT:  Kind = ERROR
+1 Mar 2018 0:29:04 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 103 ColNo = 21 Msg = 'Type mismatch: cannot convert from null to int'
+1 Mar 2018 0:29:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15e34e4
+1 Mar 2018 0:29:04 GMT:  Kind = ERROR
+1 Mar 2018 0:29:04 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 103 ColNo = 8 Msg = 'Type mismatch: cannot convert from int to boolean'
+1 Mar 2018 0:29:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6d6afe
+1 Mar 2018 0:29:04 GMT:  Kind = ERROR
+1 Mar 2018 0:29:04 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 115 ColNo = 17 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:29:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@87c0f2
+1 Mar 2018 0:29:04 GMT:  Kind = ERROR
+1 Mar 2018 0:29:04 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 123 ColNo = 17 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:29:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3fa28a
+1 Mar 2018 0:29:04 GMT:  Kind = ERROR
+1 Mar 2018 0:29:04 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 129 ColNo = 19 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:29:23 GMT: diagnostics = javax.tools.DiagnosticCollector@1f614ac
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6014c0
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java]
+1 Mar 2018 0:29:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3344a3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:29:23 GMT: Compiler call returned
+1 Mar 2018 0:29:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c4b402
+1 Mar 2018 0:29:23 GMT:  Kind = WARNING
+1 Mar 2018 0:29:23 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 5 ColNo = 8 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 0:29:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d797c1
+1 Mar 2018 0:29:23 GMT:  Kind = WARNING
+1 Mar 2018 0:29:23 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 6 ColNo = 8 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 0:29:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7d0e05
+1 Mar 2018 0:29:23 GMT:  Kind = ERROR
+1 Mar 2018 0:29:23 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 103 ColNo = 8 Msg = 'The operator == is undefined for the argument type(s) int, null'
+1 Mar 2018 0:29:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4b175b
+1 Mar 2018 0:29:23 GMT:  Kind = ERROR
+1 Mar 2018 0:29:23 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 115 ColNo = 17 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:29:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12ac934
+1 Mar 2018 0:29:23 GMT:  Kind = ERROR
+1 Mar 2018 0:29:23 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 123 ColNo = 17 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:29:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@72210f
+1 Mar 2018 0:29:23 GMT:  Kind = ERROR
+1 Mar 2018 0:29:23 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 129 ColNo = 19 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:30:04 GMT: diagnostics = javax.tools.DiagnosticCollector@dec80f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17b240b
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java]
+1 Mar 2018 0:30:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f0db5c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:30:04 GMT: Compiler call returned
+1 Mar 2018 0:30:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@950047
+1 Mar 2018 0:30:04 GMT:  Kind = WARNING
+1 Mar 2018 0:30:04 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 5 ColNo = 8 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 0:30:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e2a766
+1 Mar 2018 0:30:04 GMT:  Kind = WARNING
+1 Mar 2018 0:30:04 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 6 ColNo = 8 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 0:30:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1aa1884
+1 Mar 2018 0:30:04 GMT:  Kind = ERROR
+1 Mar 2018 0:30:04 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 112 ColNo = 17 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:30:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@afafc8
+1 Mar 2018 0:30:04 GMT:  Kind = ERROR
+1 Mar 2018 0:30:04 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 120 ColNo = 17 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:30:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@540de2
+1 Mar 2018 0:30:04 GMT:  Kind = ERROR
+1 Mar 2018 0:30:04 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 126 ColNo = 19 Msg = 'This method requires a body instead of a semicolon'
+1 Mar 2018 0:37:00 GMT: diagnostics = javax.tools.DiagnosticCollector@10200ef
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c63a59
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java]
+1 Mar 2018 0:37:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c2927' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:37:00 GMT: Compiler call returned
+1 Mar 2018 0:37:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@188e5fe
+1 Mar 2018 0:37:00 GMT:  Kind = WARNING
+1 Mar 2018 0:37:00 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 5 ColNo = 8 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 0:37:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1031ca2
+1 Mar 2018 0:37:00 GMT:  Kind = WARNING
+1 Mar 2018 0:37:00 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 6 ColNo = 8 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 0:37:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@87a6e
+1 Mar 2018 0:37:00 GMT:  Kind = ERROR
+1 Mar 2018 0:37:00 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 156 ColNo = 28 Msg = 'suite cannot be resolved or is not a field'
+1 Mar 2018 0:37:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@153b672
+1 Mar 2018 0:37:00 GMT:  Kind = ERROR
+1 Mar 2018 0:37:00 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 112 ColNo = 17 Msg = 'This method must return a result of type java.lang.String'
+1 Mar 2018 0:37:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1741973
+1 Mar 2018 0:37:00 GMT:  Kind = ERROR
+1 Mar 2018 0:37:00 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 138 ColNo = 17 Msg = 'This method must return a result of type java.lang.String'
+1 Mar 2018 0:37:27 GMT: diagnostics = javax.tools.DiagnosticCollector@1f26911
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18df9b2
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java]
+1 Mar 2018 0:37:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b4d9d3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:37:27 GMT: Compiler call returned
+1 Mar 2018 0:37:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@723cbf
+1 Mar 2018 0:37:27 GMT:  Kind = WARNING
+1 Mar 2018 0:37:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 5 ColNo = 8 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 0:37:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1eea422
+1 Mar 2018 0:37:27 GMT:  Kind = WARNING
+1 Mar 2018 0:37:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 6 ColNo = 8 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 0:37:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cc1009
+1 Mar 2018 0:37:27 GMT:  Kind = ERROR
+1 Mar 2018 0:37:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 130 ColNo = 5 Msg = 'This method must return a result of type java.lang.String'
+1 Mar 2018 0:37:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1713c27
+1 Mar 2018 0:37:27 GMT:  Kind = ERROR
+1 Mar 2018 0:37:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 157 ColNo = 28 Msg = 'suite cannot be resolved or is not a field'
+1 Mar 2018 0:37:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@516fb2
+1 Mar 2018 0:37:27 GMT:  Kind = ERROR
+1 Mar 2018 0:37:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 139 ColNo = 17 Msg = 'This method must return a result of type java.lang.String'
+1 Mar 2018 0:37:36 GMT: diagnostics = javax.tools.DiagnosticCollector@19685b5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1963381
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java]
+1 Mar 2018 0:37:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@16c5efa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:37:36 GMT: Compiler call returned
+1 Mar 2018 0:37:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17a918b
+1 Mar 2018 0:37:36 GMT:  Kind = WARNING
+1 Mar 2018 0:37:36 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 5 ColNo = 8 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 0:37:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12c122e
+1 Mar 2018 0:37:36 GMT:  Kind = WARNING
+1 Mar 2018 0:37:36 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 6 ColNo = 8 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 0:37:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1450402
+1 Mar 2018 0:37:36 GMT:  Kind = ERROR
+1 Mar 2018 0:37:36 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 157 ColNo = 28 Msg = 'suite cannot be resolved or is not a field'
+1 Mar 2018 0:37:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@123eb58
+1 Mar 2018 0:37:36 GMT:  Kind = ERROR
+1 Mar 2018 0:37:36 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 139 ColNo = 17 Msg = 'This method must return a result of type java.lang.String'
+1 Mar 2018 0:38:16 GMT: diagnostics = javax.tools.DiagnosticCollector@12892c4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@12e8cfa
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java]
+1 Mar 2018 0:38:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@744743' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:38:16 GMT: Compiler call returned
+1 Mar 2018 0:38:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d59fca
+1 Mar 2018 0:38:16 GMT:  Kind = WARNING
+1 Mar 2018 0:38:16 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 5 ColNo = 8 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 0:38:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f77cb7
+1 Mar 2018 0:38:16 GMT:  Kind = WARNING
+1 Mar 2018 0:38:16 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 6 ColNo = 8 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 0:38:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d708cb
+1 Mar 2018 0:38:16 GMT:  Kind = ERROR
+1 Mar 2018 0:38:16 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 158 ColNo = 28 Msg = 'suite cannot be resolved or is not a field'
+1 Mar 2018 0:38:27 GMT: diagnostics = javax.tools.DiagnosticCollector@191afdc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@13b0861
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java]
+1 Mar 2018 0:38:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@10de12' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:38:27 GMT: Compiler call returned
+1 Mar 2018 0:38:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@660524
+1 Mar 2018 0:38:27 GMT:  Kind = WARNING
+1 Mar 2018 0:38:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 5 ColNo = 8 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 0:38:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ccfeef
+1 Mar 2018 0:38:27 GMT:  Kind = WARNING
+1 Mar 2018 0:38:27 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 6 ColNo = 8 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 0:42:31 GMT: diagnostics = javax.tools.DiagnosticCollector@7bf66a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1f8a141
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 0:42:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1811cb7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:42:32 GMT: Compiler call returned
+1 Mar 2018 0:42:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@121ea37
+1 Mar 2018 0:42:32 GMT:  Kind = ERROR
+1 Mar 2018 0:42:32 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 16 ColNo = 22 Msg = 'test1 cannot be resolved'
+1 Mar 2018 0:42:48 GMT: diagnostics = javax.tools.DiagnosticCollector@10cf1ad
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d823a7
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 0:42:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1370499' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:42:48 GMT: Compiler call returned
+1 Mar 2018 0:44:34 GMT: diagnostics = javax.tools.DiagnosticCollector@f63ec3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@157b41d
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 0:44:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a3a8d1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:44:34 GMT: Compiler call returned
+1 Mar 2018 0:47:53 GMT: diagnostics = javax.tools.DiagnosticCollector@cc2bc9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1523c8b
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 0:47:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f148bf' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:47:53 GMT: Compiler call returned
+1 Mar 2018 0:48:48 GMT: diagnostics = javax.tools.DiagnosticCollector@35de37
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@fb4a33
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java]
+1 Mar 2018 0:48:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@11f8e2b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:48:48 GMT: Compiler call returned
+1 Mar 2018 0:48:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@962ec2
+1 Mar 2018 0:48:48 GMT:  Kind = ERROR
+1 Mar 2018 0:48:48 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java LineNo = 159 ColNo = 6 Msg = 'Syntax error on token ""Suit: "", delete this token'
+1 Mar 2018 0:49:01 GMT: diagnostics = javax.tools.DiagnosticCollector@f58ec5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1bec0c4
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java]
+1 Mar 2018 0:49:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@10c76e5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:49:01 GMT: Compiler call returned
+1 Mar 2018 0:49:14 GMT: diagnostics = javax.tools.DiagnosticCollector@cdfaf3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e10ecd
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java]
+1 Mar 2018 0:49:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@86630f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:49:14 GMT: Compiler call returned
+1 Mar 2018 0:53:26 GMT: diagnostics = javax.tools.DiagnosticCollector@18b9dbb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b8a447
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java]
+1 Mar 2018 0:53:26 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1947a3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 0:53:26 GMT: Compiler call returned
+1 Mar 2018 1:27:58 GMT: diagnostics = javax.tools.DiagnosticCollector@1493fc1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@77eb60
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:27:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f5e788' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:27:58 GMT: Compiler call returned
+1 Mar 2018 1:27:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@713b1d
+1 Mar 2018 1:27:58 GMT:  Kind = ERROR
+1 Mar 2018 1:27:58 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 37 ColNo = 5 Msg = 'ArrayList cannot be resolved to a type'
+1 Mar 2018 1:27:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c68979
+1 Mar 2018 1:27:58 GMT:  Kind = ERROR
+1 Mar 2018 1:27:58 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 37 ColNo = 42 Msg = 'ArrayList cannot be resolved to a type'
+1 Mar 2018 1:27:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a26dc3
+1 Mar 2018 1:27:58 GMT:  Kind = ERROR
+1 Mar 2018 1:27:58 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 40 ColNo = 24 Msg = 'The method Random() is undefined for the type java.lang.Math'
+1 Mar 2018 1:27:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fd2f81
+1 Mar 2018 1:27:58 GMT:  Kind = ERROR
+1 Mar 2018 1:27:58 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 41 ColNo = 24 Msg = 'The method Random() is undefined for the type java.lang.Math'
+1 Mar 2018 1:27:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16550d0
+1 Mar 2018 1:27:58 GMT:  Kind = ERROR
+1 Mar 2018 1:27:58 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 43 ColNo = 17 Msg = 'The method Card(int, int) is undefined for the type CardTester'
+1 Mar 2018 1:28:15 GMT: diagnostics = javax.tools.DiagnosticCollector@1a0fc20
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1403242
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:28:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1821077' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:28:15 GMT: Compiler call returned
+1 Mar 2018 1:28:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@edfdab
+1 Mar 2018 1:28:15 GMT:  Kind = ERROR
+1 Mar 2018 1:28:15 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 37 ColNo = 5 Msg = 'ArrayList cannot be resolved to a type'
+1 Mar 2018 1:28:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1dec4fb
+1 Mar 2018 1:28:15 GMT:  Kind = ERROR
+1 Mar 2018 1:28:15 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 37 ColNo = 33 Msg = 'ArrayList cannot be resolved to a type'
+1 Mar 2018 1:28:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b5734c
+1 Mar 2018 1:28:15 GMT:  Kind = ERROR
+1 Mar 2018 1:28:15 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 40 ColNo = 24 Msg = 'The method Random() is undefined for the type java.lang.Math'
+1 Mar 2018 1:28:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3a1fd3
+1 Mar 2018 1:28:15 GMT:  Kind = ERROR
+1 Mar 2018 1:28:15 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 41 ColNo = 24 Msg = 'The method Random() is undefined for the type java.lang.Math'
+1 Mar 2018 1:28:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fba01a
+1 Mar 2018 1:28:15 GMT:  Kind = ERROR
+1 Mar 2018 1:28:15 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 43 ColNo = 17 Msg = 'The method Card(int, int) is undefined for the type CardTester'
+1 Mar 2018 1:29:55 GMT: diagnostics = javax.tools.DiagnosticCollector@1cc8add
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a0d4a9
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:29:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@19588ef' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:29:55 GMT: Compiler call returned
+1 Mar 2018 1:29:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b4921e
+1 Mar 2018 1:29:55 GMT:  Kind = ERROR
+1 Mar 2018 1:29:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 41 ColNo = 24 Msg = 'The method Random() is undefined for the type java.lang.Math'
+1 Mar 2018 1:29:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11d9ce8
+1 Mar 2018 1:29:55 GMT:  Kind = ERROR
+1 Mar 2018 1:29:55 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 42 ColNo = 24 Msg = 'The method Random() is undefined for the type java.lang.Math'
+1 Mar 2018 1:30:06 GMT: diagnostics = javax.tools.DiagnosticCollector@17d2581
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ebbbe3
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:30:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3357f4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:30:06 GMT: Compiler call returned
+1 Mar 2018 1:30:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1af7f38
+1 Mar 2018 1:30:06 GMT:  Kind = ERROR
+1 Mar 2018 1:30:06 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 41 ColNo = 18 Msg = 'Type mismatch: cannot convert from double to int'
+1 Mar 2018 1:30:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e66d98
+1 Mar 2018 1:30:06 GMT:  Kind = ERROR
+1 Mar 2018 1:30:06 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 42 ColNo = 18 Msg = 'Type mismatch: cannot convert from double to int'
+1 Mar 2018 1:33:30 GMT: diagnostics = javax.tools.DiagnosticCollector@16ce878
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@fc82d9
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:33:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e25e83' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:33:31 GMT: Compiler call returned
+1 Mar 2018 1:33:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@176e17f
+1 Mar 2018 1:33:31 GMT:  Kind = ERROR
+1 Mar 2018 1:33:31 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 42 ColNo = 41 Msg = 'Syntax error, insert ")" to complete Expression'
+1 Mar 2018 1:33:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f129e4
+1 Mar 2018 1:33:31 GMT:  Kind = ERROR
+1 Mar 2018 1:33:31 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 43 ColNo = 42 Msg = 'Syntax error, insert ")" to complete Expression'
+1 Mar 2018 1:33:58 GMT: diagnostics = javax.tools.DiagnosticCollector@b96be3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2b098f
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:33:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@c550cc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:33:58 GMT: Compiler call returned
+1 Mar 2018 1:33:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3bd46c
+1 Mar 2018 1:33:58 GMT:  Kind = ERROR
+1 Mar 2018 1:33:58 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 42 ColNo = 18 Msg = 'The local variable rand may not have been initialized'
+1 Mar 2018 1:33:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@175e258
+1 Mar 2018 1:33:58 GMT:  Kind = ERROR
+1 Mar 2018 1:33:58 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 43 ColNo = 18 Msg = 'The local variable rand may not have been initialized'
+1 Mar 2018 1:34:10 GMT: diagnostics = javax.tools.DiagnosticCollector@1e55f2e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1614c03
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:34:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@191e385' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:34:11 GMT: Compiler call returned
+1 Mar 2018 1:34:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c7adf3
+1 Mar 2018 1:34:11 GMT:  Kind = ERROR
+1 Mar 2018 1:34:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 43 ColNo = 18 Msg = 'The local variable rand may not have been initialized'
+1 Mar 2018 1:34:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c85137
+1 Mar 2018 1:34:11 GMT:  Kind = ERROR
+1 Mar 2018 1:34:11 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 44 ColNo = 18 Msg = 'The local variable rand may not have been initialized'
+1 Mar 2018 1:34:29 GMT: diagnostics = javax.tools.DiagnosticCollector@7a1dc4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1f83dc0
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:34:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d09abc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:34:29 GMT: Compiler call returned
+1 Mar 2018 1:35:44 GMT: diagnostics = javax.tools.DiagnosticCollector@23e52e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@12b5349
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:35:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14afe27' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:35:44 GMT: Compiler call returned
+1 Mar 2018 1:37:15 GMT: diagnostics = javax.tools.DiagnosticCollector@2c87db
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a49e9e
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:37:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1572b5c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:37:15 GMT: Compiler call returned
+1 Mar 2018 1:37:33 GMT: diagnostics = javax.tools.DiagnosticCollector@1805c8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10b4df0
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:37:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b62109' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:37:33 GMT: Compiler call returned
+1 Mar 2018 1:37:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15c130c
+1 Mar 2018 1:37:33 GMT:  Kind = ERROR
+1 Mar 2018 1:37:33 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 52 ColNo = 37 Msg = 'Syntax error on token(s), misplaced construct(s)'
+1 Mar 2018 1:37:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@172908b
+1 Mar 2018 1:37:33 GMT:  Kind = ERROR
+1 Mar 2018 1:37:33 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 52 ColNo = 40 Msg = 'Syntax error on token ")", delete this token'
+1 Mar 2018 1:37:47 GMT: diagnostics = javax.tools.DiagnosticCollector@fc9694
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10d1871
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:37:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@99f6dc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:37:47 GMT: Compiler call returned
+1 Mar 2018 1:39:07 GMT: diagnostics = javax.tools.DiagnosticCollector@1eb264d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@36509b
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:39:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1486972' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:39:07 GMT: Compiler call returned
+1 Mar 2018 1:41:13 GMT: diagnostics = javax.tools.DiagnosticCollector@cb8983
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@12d26ff
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:41:13 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@44bafe' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:41:13 GMT: Compiler call returned
+1 Mar 2018 1:41:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@44f6a7
+1 Mar 2018 1:41:13 GMT:  Kind = WARNING
+1 Mar 2018 1:41:13 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 7 ColNo = 10 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 1:41:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@102600a
+1 Mar 2018 1:41:13 GMT:  Kind = WARNING
+1 Mar 2018 1:41:13 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 9 ColNo = 10 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 1:41:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@92bf92
+1 Mar 2018 1:41:13 GMT:  Kind = WARNING
+1 Mar 2018 1:41:13 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 10 ColNo = 10 Msg = 'The value of the local variable test3 is not used'
+1 Mar 2018 1:41:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3d77c9
+1 Mar 2018 1:41:13 GMT:  Kind = WARNING
+1 Mar 2018 1:41:13 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 12 ColNo = 10 Msg = 'The value of the local variable test4 is not used'
+1 Mar 2018 1:41:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f143e7
+1 Mar 2018 1:41:13 GMT:  Kind = WARNING
+1 Mar 2018 1:41:13 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 13 ColNo = 10 Msg = 'The value of the local variable test5 is not used'
+1 Mar 2018 1:42:09 GMT: diagnostics = javax.tools.DiagnosticCollector@5e5e41
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@61cc8f
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:42:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f30519' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:42:09 GMT: Compiler call returned
+1 Mar 2018 1:42:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1250a8d
+1 Mar 2018 1:42:09 GMT:  Kind = WARNING
+1 Mar 2018 1:42:09 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 7 ColNo = 10 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 1:42:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18bef43
+1 Mar 2018 1:42:09 GMT:  Kind = WARNING
+1 Mar 2018 1:42:09 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 9 ColNo = 10 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 1:42:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b4129c
+1 Mar 2018 1:42:09 GMT:  Kind = WARNING
+1 Mar 2018 1:42:09 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 10 ColNo = 10 Msg = 'The value of the local variable test3 is not used'
+1 Mar 2018 1:42:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cf530e
+1 Mar 2018 1:42:09 GMT:  Kind = WARNING
+1 Mar 2018 1:42:09 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 12 ColNo = 10 Msg = 'The value of the local variable test4 is not used'
+1 Mar 2018 1:42:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15750f8
+1 Mar 2018 1:42:09 GMT:  Kind = WARNING
+1 Mar 2018 1:42:09 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 13 ColNo = 10 Msg = 'The value of the local variable test5 is not used'
+1 Mar 2018 1:42:39 GMT: diagnostics = javax.tools.DiagnosticCollector@11e3d7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a9a8e8
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:42:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@bf175c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:42:39 GMT: Compiler call returned
+1 Mar 2018 1:42:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a788c
+1 Mar 2018 1:42:39 GMT:  Kind = WARNING
+1 Mar 2018 1:42:39 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 7 ColNo = 10 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 1:42:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@119125a
+1 Mar 2018 1:42:39 GMT:  Kind = WARNING
+1 Mar 2018 1:42:39 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 9 ColNo = 10 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 1:42:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a85559
+1 Mar 2018 1:42:39 GMT:  Kind = WARNING
+1 Mar 2018 1:42:39 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 10 ColNo = 10 Msg = 'The value of the local variable test3 is not used'
+1 Mar 2018 1:42:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c5a3ab
+1 Mar 2018 1:42:39 GMT:  Kind = WARNING
+1 Mar 2018 1:42:39 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 12 ColNo = 10 Msg = 'The value of the local variable test4 is not used'
+1 Mar 2018 1:42:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a07d07
+1 Mar 2018 1:42:39 GMT:  Kind = WARNING
+1 Mar 2018 1:42:39 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 13 ColNo = 10 Msg = 'The value of the local variable test5 is not used'
+1 Mar 2018 1:43:07 GMT: diagnostics = javax.tools.DiagnosticCollector@802592
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e6a64f
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:43:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b8d381' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:43:07 GMT: Compiler call returned
+1 Mar 2018 1:43:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1813bc7
+1 Mar 2018 1:43:07 GMT:  Kind = WARNING
+1 Mar 2018 1:43:07 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 7 ColNo = 10 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 1:43:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19151ce
+1 Mar 2018 1:43:07 GMT:  Kind = WARNING
+1 Mar 2018 1:43:07 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 9 ColNo = 10 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 1:43:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3d4033
+1 Mar 2018 1:43:07 GMT:  Kind = WARNING
+1 Mar 2018 1:43:07 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 10 ColNo = 10 Msg = 'The value of the local variable test3 is not used'
+1 Mar 2018 1:43:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1446831
+1 Mar 2018 1:43:07 GMT:  Kind = WARNING
+1 Mar 2018 1:43:07 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 12 ColNo = 10 Msg = 'The value of the local variable test4 is not used'
+1 Mar 2018 1:43:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d729dd
+1 Mar 2018 1:43:07 GMT:  Kind = WARNING
+1 Mar 2018 1:43:07 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 13 ColNo = 10 Msg = 'The value of the local variable test5 is not used'
+1 Mar 2018 1:44:02 GMT: diagnostics = javax.tools.DiagnosticCollector@1d63975
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@149d0bf
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:44:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@13c32d7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:44:02 GMT: Compiler call returned
+1 Mar 2018 1:44:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5db497
+1 Mar 2018 1:44:02 GMT:  Kind = WARNING
+1 Mar 2018 1:44:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 7 ColNo = 10 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 1:44:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a77f71
+1 Mar 2018 1:44:02 GMT:  Kind = WARNING
+1 Mar 2018 1:44:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 9 ColNo = 10 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 1:44:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bfeacc
+1 Mar 2018 1:44:02 GMT:  Kind = WARNING
+1 Mar 2018 1:44:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 10 ColNo = 10 Msg = 'The value of the local variable test3 is not used'
+1 Mar 2018 1:44:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2e77cb
+1 Mar 2018 1:44:02 GMT:  Kind = WARNING
+1 Mar 2018 1:44:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 12 ColNo = 10 Msg = 'The value of the local variable test4 is not used'
+1 Mar 2018 1:44:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1068d95
+1 Mar 2018 1:44:02 GMT:  Kind = WARNING
+1 Mar 2018 1:44:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 13 ColNo = 10 Msg = 'The value of the local variable test5 is not used'
+1 Mar 2018 1:49:50 GMT: diagnostics = javax.tools.DiagnosticCollector@a22d1d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ab2f0a
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:49:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@75e246' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:49:50 GMT: Compiler call returned
+1 Mar 2018 1:49:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1de03fe
+1 Mar 2018 1:49:50 GMT:  Kind = WARNING
+1 Mar 2018 1:49:50 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 7 ColNo = 10 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 1:49:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@127efdd
+1 Mar 2018 1:49:50 GMT:  Kind = WARNING
+1 Mar 2018 1:49:50 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 9 ColNo = 10 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 1:49:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@333e47
+1 Mar 2018 1:49:50 GMT:  Kind = WARNING
+1 Mar 2018 1:49:50 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 10 ColNo = 10 Msg = 'The value of the local variable test3 is not used'
+1 Mar 2018 1:49:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10ac890
+1 Mar 2018 1:49:50 GMT:  Kind = WARNING
+1 Mar 2018 1:49:50 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 12 ColNo = 10 Msg = 'The value of the local variable test4 is not used'
+1 Mar 2018 1:49:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f0e4bc
+1 Mar 2018 1:49:50 GMT:  Kind = WARNING
+1 Mar 2018 1:49:50 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 13 ColNo = 10 Msg = 'The value of the local variable test5 is not used'
+1 Mar 2018 1:50:22 GMT: diagnostics = javax.tools.DiagnosticCollector@137c4d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@40d63b
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:50:22 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b14787' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:50:22 GMT: Compiler call returned
+1 Mar 2018 1:50:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12e100b
+1 Mar 2018 1:50:22 GMT:  Kind = WARNING
+1 Mar 2018 1:50:22 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 7 ColNo = 10 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 1:50:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1285d33
+1 Mar 2018 1:50:22 GMT:  Kind = WARNING
+1 Mar 2018 1:50:22 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 9 ColNo = 10 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 1:50:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19744b7
+1 Mar 2018 1:50:22 GMT:  Kind = WARNING
+1 Mar 2018 1:50:22 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 10 ColNo = 10 Msg = 'The value of the local variable test3 is not used'
+1 Mar 2018 1:50:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@151f4b3
+1 Mar 2018 1:50:22 GMT:  Kind = WARNING
+1 Mar 2018 1:50:22 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 12 ColNo = 10 Msg = 'The value of the local variable test4 is not used'
+1 Mar 2018 1:50:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e05da
+1 Mar 2018 1:50:22 GMT:  Kind = WARNING
+1 Mar 2018 1:50:22 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 13 ColNo = 10 Msg = 'The value of the local variable test5 is not used'
+1 Mar 2018 1:58:02 GMT: diagnostics = javax.tools.DiagnosticCollector@762347
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c0446
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:58:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1160967' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:58:02 GMT: Compiler call returned
+1 Mar 2018 1:58:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12e8dc6
+1 Mar 2018 1:58:02 GMT:  Kind = ERROR
+1 Mar 2018 1:58:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 43 ColNo = 8 Msg = 'Syntax error on token "int", ) expected'
+1 Mar 2018 1:58:49 GMT: diagnostics = javax.tools.DiagnosticCollector@171a554
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10e0b85
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:58:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@52cbc7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:58:49 GMT: Compiler call returned
+1 Mar 2018 1:58:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c843c8
+1 Mar 2018 1:58:49 GMT:  Kind = ERROR
+1 Mar 2018 1:58:49 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 42 ColNo = 46 Msg = 'Syntax error, insert ") Statement" to complete BlockStatements'
+1 Mar 2018 1:59:02 GMT: diagnostics = javax.tools.DiagnosticCollector@7c48a7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@523094
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 1:59:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d24866' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 1:59:02 GMT: Compiler call returned
+1 Mar 2018 1:59:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16649f6
+1 Mar 2018 1:59:02 GMT:  Kind = ERROR
+1 Mar 2018 1:59:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 42 ColNo = 25 Msg = 'The method sameSuit(Card) in the type CardInterface is not applicable for the arguments (CardInterface)'
+1 Mar 2018 2:00:33 GMT: diagnostics = javax.tools.DiagnosticCollector@819b4e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@13ef819
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:00:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4c4aa1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:00:33 GMT: Compiler call returned
+1 Mar 2018 2:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13f2a52
+1 Mar 2018 2:00:33 GMT:  Kind = ERROR
+1 Mar 2018 2:00:33 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 15 ColNo = 15 Msg = 'Carde cannot be resolved to a type'
+1 Mar 2018 2:00:40 GMT: diagnostics = javax.tools.DiagnosticCollector@1948217
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4c4c8d
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:00:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e6baa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:00:40 GMT: Compiler call returned
+1 Mar 2018 2:00:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2c703
+1 Mar 2018 2:00:40 GMT:  Kind = WARNING
+1 Mar 2018 2:00:40 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 7 ColNo = 10 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 2:00:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bad1bc
+1 Mar 2018 2:00:40 GMT:  Kind = WARNING
+1 Mar 2018 2:00:40 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 9 ColNo = 10 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 2:00:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2b97aa
+1 Mar 2018 2:00:40 GMT:  Kind = WARNING
+1 Mar 2018 2:00:40 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 10 ColNo = 10 Msg = 'The value of the local variable test3 is not used'
+1 Mar 2018 2:00:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e74ba5
+1 Mar 2018 2:00:40 GMT:  Kind = WARNING
+1 Mar 2018 2:00:40 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 12 ColNo = 10 Msg = 'The value of the local variable test4 is not used'
+1 Mar 2018 2:00:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13bb045
+1 Mar 2018 2:00:40 GMT:  Kind = WARNING
+1 Mar 2018 2:00:40 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 13 ColNo = 10 Msg = 'The value of the local variable test5 is not used'
+1 Mar 2018 2:03:35 GMT: diagnostics = javax.tools.DiagnosticCollector@167bfb7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10200ed
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:03:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@142f5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:03:35 GMT: Compiler call returned
+1 Mar 2018 2:03:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4286d8
+1 Mar 2018 2:03:35 GMT:  Kind = ERROR
+1 Mar 2018 2:03:35 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 42 ColNo = 42 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+1 Mar 2018 2:03:45 GMT: diagnostics = javax.tools.DiagnosticCollector@17d4b45
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f6500c
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:03:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2f0b09' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:03:45 GMT: Compiler call returned
+1 Mar 2018 2:03:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1daca5f
+1 Mar 2018 2:03:45 GMT:  Kind = ERROR
+1 Mar 2018 2:03:45 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 42 ColNo = 37 Msg = 'Syntax error on token(s), misplaced construct(s)'
+1 Mar 2018 2:03:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1717d2a
+1 Mar 2018 2:03:45 GMT:  Kind = ERROR
+1 Mar 2018 2:03:45 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 42 ColNo = 43 Msg = 'Syntax error on token ")", delete this token'
+1 Mar 2018 2:03:56 GMT: diagnostics = javax.tools.DiagnosticCollector@15e8da6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c96f1d
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:03:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@143d108' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:03:56 GMT: Compiler call returned
+1 Mar 2018 2:03:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e24d80
+1 Mar 2018 2:03:56 GMT:  Kind = ERROR
+1 Mar 2018 2:03:56 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 42 ColNo = 43 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+1 Mar 2018 2:04:00 GMT: diagnostics = javax.tools.DiagnosticCollector@db6bbc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@30cb5e
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:04:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@91bbe5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:04:00 GMT: Compiler call returned
+1 Mar 2018 2:04:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@122f4a4
+1 Mar 2018 2:04:00 GMT:  Kind = ERROR
+1 Mar 2018 2:04:00 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 42 ColNo = 37 Msg = 'Syntax error on token(s), misplaced construct(s)'
+1 Mar 2018 2:04:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15228d8
+1 Mar 2018 2:04:00 GMT:  Kind = ERROR
+1 Mar 2018 2:04:00 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 42 ColNo = 44 Msg = 'Syntax error on token ")", delete this token'
+1 Mar 2018 2:04:32 GMT: diagnostics = javax.tools.DiagnosticCollector@1888e6a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10490e7
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:04:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@45d39f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:04:32 GMT: Compiler call returned
+1 Mar 2018 2:04:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@92dc70
+1 Mar 2018 2:04:32 GMT:  Kind = ERROR
+1 Mar 2018 2:04:32 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 42 ColNo = 37 Msg = 'Syntax error on token(s), misplaced construct(s)'
+1 Mar 2018 2:04:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e60c02
+1 Mar 2018 2:04:32 GMT:  Kind = ERROR
+1 Mar 2018 2:04:32 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 42 ColNo = 44 Msg = 'Syntax error on token ")", delete this token'
+1 Mar 2018 2:05:02 GMT: diagnostics = javax.tools.DiagnosticCollector@1fd2b62
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f99e95
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:05:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c3e2c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:05:02 GMT: Compiler call returned
+1 Mar 2018 2:05:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@feffcb
+1 Mar 2018 2:05:02 GMT:  Kind = WARNING
+1 Mar 2018 2:05:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 7 ColNo = 10 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 2:05:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b91fe6
+1 Mar 2018 2:05:02 GMT:  Kind = WARNING
+1 Mar 2018 2:05:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 9 ColNo = 10 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 2:05:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@86be79
+1 Mar 2018 2:05:02 GMT:  Kind = WARNING
+1 Mar 2018 2:05:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 10 ColNo = 10 Msg = 'The value of the local variable test3 is not used'
+1 Mar 2018 2:05:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12e93be
+1 Mar 2018 2:05:02 GMT:  Kind = WARNING
+1 Mar 2018 2:05:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 12 ColNo = 10 Msg = 'The value of the local variable test4 is not used'
+1 Mar 2018 2:05:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@313cb7
+1 Mar 2018 2:05:02 GMT:  Kind = WARNING
+1 Mar 2018 2:05:02 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 13 ColNo = 10 Msg = 'The value of the local variable test5 is not used'
+1 Mar 2018 2:05:52 GMT: diagnostics = javax.tools.DiagnosticCollector@1be48c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1db4a37
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:05:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@169bf95' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:05:52 GMT: Compiler call returned
+1 Mar 2018 2:05:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@169e8f7
+1 Mar 2018 2:05:52 GMT:  Kind = WARNING
+1 Mar 2018 2:05:52 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 7 ColNo = 10 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 2:05:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11e42ba
+1 Mar 2018 2:05:52 GMT:  Kind = WARNING
+1 Mar 2018 2:05:52 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 9 ColNo = 10 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 2:05:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@df0024
+1 Mar 2018 2:05:52 GMT:  Kind = WARNING
+1 Mar 2018 2:05:52 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 10 ColNo = 10 Msg = 'The value of the local variable test3 is not used'
+1 Mar 2018 2:05:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a420be
+1 Mar 2018 2:05:52 GMT:  Kind = WARNING
+1 Mar 2018 2:05:52 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 12 ColNo = 10 Msg = 'The value of the local variable test4 is not used'
+1 Mar 2018 2:05:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@46540d
+1 Mar 2018 2:05:52 GMT:  Kind = WARNING
+1 Mar 2018 2:05:52 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 13 ColNo = 10 Msg = 'The value of the local variable test5 is not used'
+1 Mar 2018 2:08:49 GMT: diagnostics = javax.tools.DiagnosticCollector@fb1047
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@699bfd
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:08:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d2df6c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:08:49 GMT: Compiler call returned
+1 Mar 2018 2:08:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@88d432
+1 Mar 2018 2:08:49 GMT:  Kind = ERROR
+1 Mar 2018 2:08:49 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 49 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+1 Mar 2018 2:08:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1af6e29
+1 Mar 2018 2:08:49 GMT:  Kind = ERROR
+1 Mar 2018 2:08:49 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 44 ColNo = 10 Msg = 'Syntax error, insert ";" to complete Statement'
+1 Mar 2018 2:08:54 GMT: diagnostics = javax.tools.DiagnosticCollector@1306f18
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18b0364
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:08:54 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@644afd' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:08:54 GMT: Compiler call returned
+1 Mar 2018 2:08:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18a60a8
+1 Mar 2018 2:08:54 GMT:  Kind = ERROR
+1 Mar 2018 2:08:54 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 49 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+1 Mar 2018 2:08:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@766693
+1 Mar 2018 2:08:54 GMT:  Kind = ERROR
+1 Mar 2018 2:08:54 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 43 ColNo = 41 Msg = 'obj2 cannot be resolved to a variable'
+1 Mar 2018 2:09:05 GMT: diagnostics = javax.tools.DiagnosticCollector@17c0b55
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1fd4e52
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:09:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@8824a7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:09:05 GMT: Compiler call returned
+1 Mar 2018 2:09:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fcbb0a
+1 Mar 2018 2:09:05 GMT:  Kind = ERROR
+1 Mar 2018 2:09:05 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 49 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+1 Mar 2018 2:09:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@610d90
+1 Mar 2018 2:09:05 GMT:  Kind = ERROR
+1 Mar 2018 2:09:05 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 43 ColNo = 32 Msg = 'The method sameSuit(Card) in the type Card is not applicable for the arguments (int)'
+1 Mar 2018 2:09:29 GMT: diagnostics = javax.tools.DiagnosticCollector@3efd1a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c8b6b1
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:09:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@39bfdf' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:09:29 GMT: Compiler call returned
+1 Mar 2018 2:09:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@148588a
+1 Mar 2018 2:09:29 GMT:  Kind = ERROR
+1 Mar 2018 2:09:29 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 49 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+1 Mar 2018 2:09:38 GMT: diagnostics = javax.tools.DiagnosticCollector@6d2b54
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9980c5
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:09:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7571da' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:09:39 GMT: Compiler call returned
+1 Mar 2018 2:09:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@30c16c
+1 Mar 2018 2:09:39 GMT:  Kind = WARNING
+1 Mar 2018 2:09:39 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 7 ColNo = 10 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 2:09:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1608f28
+1 Mar 2018 2:09:39 GMT:  Kind = WARNING
+1 Mar 2018 2:09:39 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 9 ColNo = 10 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 2:09:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6495eb
+1 Mar 2018 2:09:39 GMT:  Kind = WARNING
+1 Mar 2018 2:09:39 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 10 ColNo = 10 Msg = 'The value of the local variable test3 is not used'
+1 Mar 2018 2:09:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@146d26f
+1 Mar 2018 2:09:39 GMT:  Kind = WARNING
+1 Mar 2018 2:09:39 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 12 ColNo = 10 Msg = 'The value of the local variable test4 is not used'
+1 Mar 2018 2:09:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@103528a
+1 Mar 2018 2:09:39 GMT:  Kind = WARNING
+1 Mar 2018 2:09:39 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 13 ColNo = 10 Msg = 'The value of the local variable test5 is not used'
+1 Mar 2018 2:10:52 GMT: diagnostics = javax.tools.DiagnosticCollector@1fc4d0f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18f0ef9
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:10:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@19320e0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:10:52 GMT: Compiler call returned
+1 Mar 2018 2:10:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d9c478
+1 Mar 2018 2:10:52 GMT:  Kind = WARNING
+1 Mar 2018 2:10:52 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 7 ColNo = 10 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 2:10:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b580de
+1 Mar 2018 2:10:52 GMT:  Kind = WARNING
+1 Mar 2018 2:10:52 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 9 ColNo = 10 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 2:10:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3ab0b3
+1 Mar 2018 2:10:52 GMT:  Kind = WARNING
+1 Mar 2018 2:10:52 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 10 ColNo = 10 Msg = 'The value of the local variable test3 is not used'
+1 Mar 2018 2:10:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@dc14dd
+1 Mar 2018 2:10:52 GMT:  Kind = WARNING
+1 Mar 2018 2:10:52 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 12 ColNo = 10 Msg = 'The value of the local variable test4 is not used'
+1 Mar 2018 2:10:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bde97a
+1 Mar 2018 2:10:52 GMT:  Kind = WARNING
+1 Mar 2018 2:10:52 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 13 ColNo = 10 Msg = 'The value of the local variable test5 is not used'
+1 Mar 2018 2:11:41 GMT: diagnostics = javax.tools.DiagnosticCollector@23c4b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7d09fc
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:11:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@116dcb2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:11:41 GMT: Compiler call returned
+1 Mar 2018 2:11:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@105028e
+1 Mar 2018 2:11:41 GMT:  Kind = WARNING
+1 Mar 2018 2:11:41 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 7 ColNo = 10 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 2:11:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1109339
+1 Mar 2018 2:11:41 GMT:  Kind = WARNING
+1 Mar 2018 2:11:41 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 9 ColNo = 10 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 2:11:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1987edf
+1 Mar 2018 2:11:41 GMT:  Kind = WARNING
+1 Mar 2018 2:11:41 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 10 ColNo = 10 Msg = 'The value of the local variable test3 is not used'
+1 Mar 2018 2:11:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@157c67e
+1 Mar 2018 2:11:41 GMT:  Kind = WARNING
+1 Mar 2018 2:11:41 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 12 ColNo = 10 Msg = 'The value of the local variable test4 is not used'
+1 Mar 2018 2:11:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5ba4e8
+1 Mar 2018 2:11:41 GMT:  Kind = WARNING
+1 Mar 2018 2:11:41 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 13 ColNo = 10 Msg = 'The value of the local variable test5 is not used'
+1 Mar 2018 2:12:17 GMT: diagnostics = javax.tools.DiagnosticCollector@1e59888
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@55dc8a
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:12:17 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@63da6e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:12:17 GMT: Compiler call returned
+1 Mar 2018 2:12:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b25d72
+1 Mar 2018 2:12:17 GMT:  Kind = WARNING
+1 Mar 2018 2:12:17 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 7 ColNo = 10 Msg = 'The value of the local variable test is not used'
+1 Mar 2018 2:12:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bee13a
+1 Mar 2018 2:12:17 GMT:  Kind = WARNING
+1 Mar 2018 2:12:17 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 9 ColNo = 10 Msg = 'The value of the local variable test2 is not used'
+1 Mar 2018 2:12:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@180c4fb
+1 Mar 2018 2:12:17 GMT:  Kind = WARNING
+1 Mar 2018 2:12:17 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 10 ColNo = 10 Msg = 'The value of the local variable test3 is not used'
+1 Mar 2018 2:12:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c72018
+1 Mar 2018 2:12:17 GMT:  Kind = WARNING
+1 Mar 2018 2:12:17 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 12 ColNo = 10 Msg = 'The value of the local variable test4 is not used'
+1 Mar 2018 2:12:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e8a8df
+1 Mar 2018 2:12:17 GMT:  Kind = WARNING
+1 Mar 2018 2:12:17 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 13 ColNo = 10 Msg = 'The value of the local variable test5 is not used'
+1 Mar 2018 2:15:19 GMT: diagnostics = javax.tools.DiagnosticCollector@179f18f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@24679d
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:15:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@668dc2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:15:19 GMT: Compiler call returned
+1 Mar 2018 2:17:49 GMT: diagnostics = javax.tools.DiagnosticCollector@3a41fa
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@df6c6f
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:17:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e544bb' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:17:49 GMT: Compiler call returned
+1 Mar 2018 2:17:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@110504b
+1 Mar 2018 2:17:49 GMT:  Kind = ERROR
+1 Mar 2018 2:17:49 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 32 ColNo = 27 Msg = 'Syntax error on token ":", ; expected'
+1 Mar 2018 2:18:04 GMT: diagnostics = javax.tools.DiagnosticCollector@807a55
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1698f08
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:18:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@591634' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:18:04 GMT: Compiler call returned
+1 Mar 2018 2:18:43 GMT: diagnostics = javax.tools.DiagnosticCollector@a61fa9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ab8af8
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:18:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15334b5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:18:43 GMT: Compiler call returned
+1 Mar 2018 2:23:06 GMT: diagnostics = javax.tools.DiagnosticCollector@72b1fb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c986b4
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:23:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@af6889' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:23:06 GMT: Compiler call returned
+1 Mar 2018 2:25:14 GMT: diagnostics = javax.tools.DiagnosticCollector@c79d50
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d7c23
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:25:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d5055d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:25:14 GMT: Compiler call returned
+1 Mar 2018 2:27:03 GMT: diagnostics = javax.tools.DiagnosticCollector@4cb80
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1379873
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:27:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e78577' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:27:03 GMT: Compiler call returned
+1 Mar 2018 2:27:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6430c5
+1 Mar 2018 2:27:03 GMT:  Kind = ERROR
+1 Mar 2018 2:27:03 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java LineNo = 69 ColNo = 43 Msg = 'The method compairTo(Card) is undefined for the type Card'
+1 Mar 2018 2:27:26 GMT: diagnostics = javax.tools.DiagnosticCollector@4d4cd6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e66182
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:27:26 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1994625' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:27:27 GMT: Compiler call returned
+1 Mar 2018 2:29:11 GMT: diagnostics = javax.tools.DiagnosticCollector@e23a93
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18c06ba
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:29:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1392d26' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:29:11 GMT: Compiler call returned
+1 Mar 2018 2:33:51 GMT: diagnostics = javax.tools.DiagnosticCollector@a9c98
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@461d3d
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 4\CardInterface.java, C:\Users\willi\Desktop\CSE271\Lab 7\AnimalRunner.java, C:\Users\willi\Desktop\CSE271\Lab 7\Speakable.java, C:\Users\willi\Desktop\CSE271\Assignment 1 Review\TemperatureConversion.java, C:\Users\willi\Desktop\CSE271\Assignment 4\Card.java, C:\Users\willi\Desktop\CSE271\Assignment 4\CardTester.java]
+1 Mar 2018 2:33:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3acfd6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 4;C:\Users\willi\Desktop\CSE271\Lab 7;C:\Users\willi\Desktop\CSE271\Assignment 1 Review;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+1 Mar 2018 2:33:51 GMT: Compiler call returned
+1 Mar 2018 2:33:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cd8c97
+1 Mar 2018 2:33:51 GMT:  Kind = WARNING
+1 Mar 2018 2:33:51 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 1 Review\TemperatureConversion.java LineNo = 149 ColNo = 21 Msg = 'Resource leak: 'in' is never closed'
+1 Mar 2018 2:33:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1563e27
+1 Mar 2018 2:33:51 GMT:  Kind = WARNING
+1 Mar 2018 2:33:51 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 1 Review\TemperatureConversion.java LineNo = 180 ColNo = 19 Msg = 'Resource leak: 'read' is never closed'
+1 Mar 2018 2:33:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2d1638
+1 Mar 2018 2:33:51 GMT:  Kind = WARNING
+1 Mar 2018 2:33:51 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 1 Review\TemperatureConversion.java LineNo = 138 ColNo = 13 Msg = 'Resource leak: 'input' is never closed'

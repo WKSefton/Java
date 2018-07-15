@@ -1,0 +1,30 @@
+20 Feb 2018 22:26:39 GMT: Log 'EclipseCompiler.txt' opened: 20 Feb 2018 22:26:39 GMT with name C:\Users\willi\Desktop\CSE271\Assignment 3\EclipseCompiler.txt
+20 Feb 2018 22:27:06 GMT: diagnostics = javax.tools.DiagnosticCollector@1a1dbe7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@177495d
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 3\Circle.java]
+20 Feb 2018 22:27:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@61a73d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 3;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+20 Feb 2018 22:27:06 GMT: Compiler call returned
+20 Feb 2018 22:28:00 GMT: diagnostics = javax.tools.DiagnosticCollector@f1d837
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a2ed43
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 3\Circle.java, C:\Users\willi\Desktop\CSE271\Assignment 3\NegativeArgumentException.java, C:\Users\willi\Desktop\CSE271\Assignment 3\Tester.java, C:\Users\willi\Desktop\CSE271\Assignment 3\Cylinder.java]
+20 Feb 2018 22:28:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@fc2bda' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 3;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+20 Feb 2018 22:28:00 GMT: Compiler call returned
+20 Feb 2018 22:28:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e424b0
+20 Feb 2018 22:28:00 GMT:  Kind = WARNING
+20 Feb 2018 22:28:00 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 3\NegativeArgumentException.java LineNo = 8 ColNo = 14 Msg = 'The serializable class NegativeArgumentException does not declare a static final serialVersionUID field of type long'
+20 Feb 2018 22:28:03 GMT: diagnostics = javax.tools.DiagnosticCollector@6356b6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ad553e
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 3\Circle.java, C:\Users\willi\Desktop\CSE271\Assignment 3\NegativeArgumentException.java, C:\Users\willi\Desktop\CSE271\Assignment 3\Tester.java, C:\Users\willi\Desktop\CSE271\Assignment 3\Cylinder.java]
+20 Feb 2018 22:28:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1213652' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 3;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+20 Feb 2018 22:28:03 GMT: Compiler call returned
+20 Feb 2018 22:28:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f1c70
+20 Feb 2018 22:28:03 GMT:  Kind = WARNING
+20 Feb 2018 22:28:03 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 3\NegativeArgumentException.java LineNo = 8 ColNo = 14 Msg = 'The serializable class NegativeArgumentException does not declare a static final serialVersionUID field of type long'
+20 Feb 2018 22:29:29 GMT: diagnostics = javax.tools.DiagnosticCollector@8bcf85
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b35819
+fileObjects = [C:\Users\willi\Desktop\CSE271\Assignment 3\Circle.java, C:\Users\willi\Desktop\CSE271\Assignment 3\NegativeArgumentException.java, C:\Users\willi\Desktop\CSE271\Assignment 3\Tester.java, C:\Users\willi\Desktop\CSE271\Assignment 3\Cylinder.java]
+20 Feb 2018 22:29:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@326861' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Assignment 3;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+20 Feb 2018 22:29:29 GMT: Compiler call returned
+20 Feb 2018 22:29:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@31071f
+20 Feb 2018 22:29:29 GMT:  Kind = WARNING
+20 Feb 2018 22:29:29 GMT: Name = C:\Users\willi\Desktop\CSE271\Assignment 3\NegativeArgumentException.java LineNo = 8 ColNo = 14 Msg = 'The serializable class NegativeArgumentException does not declare a static final serialVersionUID field of type long'

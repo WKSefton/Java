@@ -1,0 +1,11 @@
+public class InvalidBattingAverage extends RuntimeException
+{
+  
+    public String getMessage()
+  {
+    return "Invalid number for Batting Average!";
+  }
+  
+  
+  
+}

@@ -1,0 +1,17 @@
+public class Telephone
+{
+  private String areaCode;
+  private String exchange;
+  private String number;
+  Telephone (String areaCode, String exchange, String number)
+  {
+    this.areaCode = areaCode;
+    this.exchange = exchange;
+    this.number = number;
+  }
+  public static void main(String[] args)
+  {
+    Telephone t = new Telephone("123", "345", "1234");
+    System.out.println(t);
+  }
+}

@@ -1,0 +1,7 @@
+Telephone@4f5f03cb
+
+this output was formed from the telephone object in a print statment. Its using the default .toString() method, not overridden.
+
+(123) 345-1234
+
+This output was formed after overriding the .toString() method in the Telephone object.

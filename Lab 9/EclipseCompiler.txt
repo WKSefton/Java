@@ -1,0 +1,162 @@
+3 Mar 2018 5:19:36 GMT: Log 'EclipseCompiler.txt' opened: 3 Mar 2018 5:19:36 GMT with name C:\Users\willi\Desktop\CSE271\Lab 9\EclipseCompiler.txt
+3 Mar 2018 5:19:44 GMT: diagnostics = javax.tools.DiagnosticCollector@1ea250f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@df6fdb
+fileObjects = [C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java]
+3 Mar 2018 5:19:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b61170' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Lab 9;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+3 Mar 2018 5:19:44 GMT: Compiler call returned
+3 Mar 2018 5:19:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7bd6cc
+3 Mar 2018 5:19:44 GMT:  Kind = ERROR
+3 Mar 2018 5:19:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java LineNo = 53 ColNo = 52 Msg = 'InvalidStrikeOut cannot be resolved to a type'
+3 Mar 2018 5:19:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a5f0cf
+3 Mar 2018 5:19:44 GMT:  Kind = ERROR
+3 Mar 2018 5:19:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java LineNo = 66 ColNo = 52 Msg = 'InvalidBattingAverage cannot be resolved to a type'
+3 Mar 2018 5:19:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18c9c01
+3 Mar 2018 5:19:44 GMT:  Kind = ERROR
+3 Mar 2018 5:19:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java LineNo = 30 ColNo = 5 Msg = 'The method setStrikeOuts(int) from the type BaseballPlayer refers to the missing type InvalidStrikeOut'
+3 Mar 2018 5:19:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fcb15a
+3 Mar 2018 5:19:44 GMT:  Kind = ERROR
+3 Mar 2018 5:19:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java LineNo = 31 ColNo = 5 Msg = 'The method setBattingAvg(int) from the type BaseballPlayer refers to the missing type InvalidBattingAverage'
+3 Mar 2018 5:19:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13e1952
+3 Mar 2018 5:19:44 GMT:  Kind = ERROR
+3 Mar 2018 5:19:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java LineNo = 56 ColNo = 17 Msg = 'InvalidStrikeOut cannot be resolved to a type'
+3 Mar 2018 5:19:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18fbff2
+3 Mar 2018 5:19:44 GMT:  Kind = ERROR
+3 Mar 2018 5:19:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java LineNo = 69 ColNo = 17 Msg = 'InvalidBattingAverage cannot be resolved to a type'
+3 Mar 2018 5:19:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@de58d6
+3 Mar 2018 5:19:44 GMT:  Kind = ERROR
+3 Mar 2018 5:19:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java LineNo = 94 ColNo = 12 Msg = 'The method setStrikeOuts(int) from the type BaseballPlayer refers to the missing type InvalidStrikeOut'
+3 Mar 2018 5:19:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f257f6
+3 Mar 2018 5:19:44 GMT:  Kind = ERROR
+3 Mar 2018 5:19:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java LineNo = 102 ColNo = 12 Msg = 'The method setBattingAvg(int) from the type BaseballPlayer refers to the missing type InvalidBattingAverage'
+3 Mar 2018 5:19:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1993973
+3 Mar 2018 5:19:44 GMT:  Kind = ERROR
+3 Mar 2018 5:19:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java LineNo = 110 ColNo = 12 Msg = 'The method setStrikeOuts(int) from the type BaseballPlayer refers to the missing type InvalidStrikeOut'
+3 Mar 2018 5:19:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@169661d
+3 Mar 2018 5:19:44 GMT:  Kind = ERROR
+3 Mar 2018 5:19:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java LineNo = 111 ColNo = 12 Msg = 'The method setBattingAvg(int) from the type BaseballPlayer refers to the missing type InvalidBattingAverage'
+3 Mar 2018 5:19:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@143868e
+3 Mar 2018 5:19:44 GMT:  Kind = ERROR
+3 Mar 2018 5:19:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java LineNo = 119 ColNo = 12 Msg = 'The method setStrikeOuts(int) from the type BaseballPlayer refers to the missing type InvalidStrikeOut'
+3 Mar 2018 5:19:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1063a77
+3 Mar 2018 5:19:44 GMT:  Kind = ERROR
+3 Mar 2018 5:19:44 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java LineNo = 120 ColNo = 12 Msg = 'The method setBattingAvg(int) from the type BaseballPlayer refers to the missing type InvalidBattingAverage'
+3 Mar 2018 5:20:33 GMT: diagnostics = javax.tools.DiagnosticCollector@1a40c67
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10a0060
+fileObjects = [C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java, C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java, C:\Users\willi\Desktop\CSE271\Lab 9\InvalidBattingAverage.java]
+3 Mar 2018 5:20:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@424426' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Lab 9;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+3 Mar 2018 5:20:33 GMT: Compiler call returned
+3 Mar 2018 5:20:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@696eb8
+3 Mar 2018 5:20:33 GMT:  Kind = WARNING
+3 Mar 2018 5:20:33 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java LineNo = 1 ColNo = 14 Msg = 'The serializable class InvalidStrikeOut does not declare a static final serialVersionUID field of type long'
+3 Mar 2018 5:20:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@23f6b
+3 Mar 2018 5:20:33 GMT:  Kind = WARNING
+3 Mar 2018 5:20:33 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidBattingAverage.java LineNo = 1 ColNo = 14 Msg = 'The serializable class InvalidBattingAverage does not declare a static final serialVersionUID field of type long'
+3 Mar 2018 5:21:04 GMT: diagnostics = javax.tools.DiagnosticCollector@f41fd2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@821c0d
+fileObjects = [C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java, C:\Users\willi\Desktop\CSE271\Lab 9\InvalidBattingAverage.java, C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java]
+3 Mar 2018 5:21:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5ea3b3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Lab 9;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+3 Mar 2018 5:21:04 GMT: Compiler call returned
+3 Mar 2018 5:21:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@77ed89
+3 Mar 2018 5:21:04 GMT:  Kind = ERROR
+3 Mar 2018 5:21:04 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java LineNo = 1 ColNo = 27 Msg = 'Illegal modifier for the class InvalidStrikeOut; only public, abstract & final are permitted'
+3 Mar 2018 5:21:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bcac55
+3 Mar 2018 5:21:04 GMT:  Kind = WARNING
+3 Mar 2018 5:21:04 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidBattingAverage.java LineNo = 1 ColNo = 14 Msg = 'The serializable class InvalidBattingAverage does not declare a static final serialVersionUID field of type long'
+3 Mar 2018 5:21:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@113a3f5
+3 Mar 2018 5:21:04 GMT:  Kind = WARNING
+3 Mar 2018 5:21:04 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java LineNo = 1 ColNo = 27 Msg = 'The serializable class InvalidStrikeOut does not declare a static final serialVersionUID field of type long'
+3 Mar 2018 5:21:15 GMT: diagnostics = javax.tools.DiagnosticCollector@27eafa
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@92a493
+fileObjects = [C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java, C:\Users\willi\Desktop\CSE271\Lab 9\InvalidBattingAverage.java, C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java]
+3 Mar 2018 5:21:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@11d07fe' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Lab 9;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+3 Mar 2018 5:21:15 GMT: Compiler call returned
+3 Mar 2018 5:21:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13547a6
+3 Mar 2018 5:21:15 GMT:  Kind = WARNING
+3 Mar 2018 5:21:15 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidBattingAverage.java LineNo = 1 ColNo = 14 Msg = 'The serializable class InvalidBattingAverage does not declare a static final serialVersionUID field of type long'
+3 Mar 2018 5:21:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1617607
+3 Mar 2018 5:21:15 GMT:  Kind = WARNING
+3 Mar 2018 5:21:15 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java LineNo = 1 ColNo = 20 Msg = 'The serializable class InvalidStrikeOut does not declare a static final serialVersionUID field of type long'
+3 Mar 2018 5:21:25 GMT: diagnostics = javax.tools.DiagnosticCollector@1ee7000
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4c4014
+fileObjects = [C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java, C:\Users\willi\Desktop\CSE271\Lab 9\InvalidBattingAverage.java, C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java]
+3 Mar 2018 5:21:25 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@900475' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Lab 9;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+3 Mar 2018 5:21:25 GMT: Compiler call returned
+3 Mar 2018 5:21:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fb5f3a
+3 Mar 2018 5:21:25 GMT:  Kind = WARNING
+3 Mar 2018 5:21:25 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidBattingAverage.java LineNo = 1 ColNo = 14 Msg = 'The serializable class InvalidBattingAverage does not declare a static final serialVersionUID field of type long'
+3 Mar 2018 5:21:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1204af
+3 Mar 2018 5:21:25 GMT:  Kind = WARNING
+3 Mar 2018 5:21:25 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java LineNo = 1 ColNo = 14 Msg = 'The serializable class InvalidStrikeOut does not declare a static final serialVersionUID field of type long'
+3 Mar 2018 5:24:27 GMT: diagnostics = javax.tools.DiagnosticCollector@fcac0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d00432
+fileObjects = [C:\Users\willi\Desktop\CSE271\Lab 9\InvalidBattingAverage.java, C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java, C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java]
+3 Mar 2018 5:24:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@75b3aa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Lab 9;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+3 Mar 2018 5:24:28 GMT: Compiler call returned
+3 Mar 2018 5:24:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14772cb
+3 Mar 2018 5:24:28 GMT:  Kind = WARNING
+3 Mar 2018 5:24:28 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidBattingAverage.java LineNo = 1 ColNo = 14 Msg = 'The serializable class InvalidBattingAverage does not declare a static final serialVersionUID field of type long'
+3 Mar 2018 5:24:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1477333
+3 Mar 2018 5:24:28 GMT:  Kind = WARNING
+3 Mar 2018 5:24:28 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java LineNo = 1 ColNo = 14 Msg = 'The serializable class InvalidStrikeOut does not declare a static final serialVersionUID field of type long'
+3 Mar 2018 5:26:18 GMT: diagnostics = javax.tools.DiagnosticCollector@4a7130
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c33081
+fileObjects = [C:\Users\willi\Desktop\CSE271\Lab 9\InvalidBattingAverage.java, C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java, C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java]
+3 Mar 2018 5:26:18 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3e5db9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Lab 9;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+3 Mar 2018 5:26:18 GMT: Compiler call returned
+3 Mar 2018 5:26:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f1ecd9
+3 Mar 2018 5:26:18 GMT:  Kind = WARNING
+3 Mar 2018 5:26:18 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidBattingAverage.java LineNo = 1 ColNo = 14 Msg = 'The serializable class InvalidBattingAverage does not declare a static final serialVersionUID field of type long'
+3 Mar 2018 5:26:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ae76ce
+3 Mar 2018 5:26:18 GMT:  Kind = WARNING
+3 Mar 2018 5:26:18 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java LineNo = 1 ColNo = 14 Msg = 'The serializable class InvalidStrikeOut does not declare a static final serialVersionUID field of type long'
+3 Mar 2018 5:26:38 GMT: diagnostics = javax.tools.DiagnosticCollector@1c4821a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1dff50b
+fileObjects = [C:\Users\willi\Desktop\CSE271\Lab 9\InvalidBattingAverage.java, C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java, C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java]
+3 Mar 2018 5:26:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@eaed74' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Lab 9;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+3 Mar 2018 5:26:38 GMT: Compiler call returned
+3 Mar 2018 5:26:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@91993
+3 Mar 2018 5:26:38 GMT:  Kind = ERROR
+3 Mar 2018 5:26:38 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java LineNo = 1 ColNo = 27 Msg = 'Illegal modifier for the class InvalidStrikeOut; only public, abstract & final are permitted'
+3 Mar 2018 5:26:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3cb9e0
+3 Mar 2018 5:26:38 GMT:  Kind = WARNING
+3 Mar 2018 5:26:38 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidBattingAverage.java LineNo = 1 ColNo = 14 Msg = 'The serializable class InvalidBattingAverage does not declare a static final serialVersionUID field of type long'
+3 Mar 2018 5:26:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6662a
+3 Mar 2018 5:26:38 GMT:  Kind = WARNING
+3 Mar 2018 5:26:38 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java LineNo = 1 ColNo = 27 Msg = 'The serializable class InvalidStrikeOut does not declare a static final serialVersionUID field of type long'
+3 Mar 2018 5:27:23 GMT: diagnostics = javax.tools.DiagnosticCollector@1f54d2d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@455e77
+fileObjects = [C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java, C:\Users\willi\Desktop\CSE271\Lab 9\InvalidBattingAverage.java, C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java]
+3 Mar 2018 5:27:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@fd0251' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Lab 9;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+3 Mar 2018 5:27:23 GMT: Compiler call returned
+3 Mar 2018 5:27:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19dc591
+3 Mar 2018 5:27:23 GMT:  Kind = WARNING
+3 Mar 2018 5:27:23 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidBattingAverage.java LineNo = 1 ColNo = 14 Msg = 'The serializable class InvalidBattingAverage does not declare a static final serialVersionUID field of type long'
+3 Mar 2018 5:27:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17c3148
+3 Mar 2018 5:27:23 GMT:  Kind = WARNING
+3 Mar 2018 5:27:23 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java LineNo = 1 ColNo = 14 Msg = 'The serializable class InvalidStrikeOut does not declare a static final serialVersionUID field of type long'
+3 Mar 2018 5:27:30 GMT: diagnostics = javax.tools.DiagnosticCollector@1aba981
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7f27f6
+fileObjects = [C:\Users\willi\Desktop\CSE271\Lab 9\InvalidBattingAverage.java, C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java, C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java]
+3 Mar 2018 5:27:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e73b9f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Lab 9;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+3 Mar 2018 5:27:30 GMT: Compiler call returned
+3 Mar 2018 5:27:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@39fd59
+3 Mar 2018 5:27:30 GMT:  Kind = WARNING
+3 Mar 2018 5:27:30 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidBattingAverage.java LineNo = 1 ColNo = 14 Msg = 'The serializable class InvalidBattingAverage does not declare a static final serialVersionUID field of type long'
+3 Mar 2018 5:27:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17c5beb
+3 Mar 2018 5:27:30 GMT:  Kind = WARNING
+3 Mar 2018 5:27:30 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java LineNo = 1 ColNo = 14 Msg = 'The serializable class InvalidStrikeOut does not declare a static final serialVersionUID field of type long'
+3 Mar 2018 5:31:10 GMT: diagnostics = javax.tools.DiagnosticCollector@181ca97
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b76123
+fileObjects = [C:\Users\willi\Desktop\CSE271\Lab 9\InvalidBattingAverage.java, C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java, C:\Users\willi\Desktop\CSE271\Lab 9\BaseballPlayer.java, C:\Users\willi\Desktop\CSE271\Lab 8\Fraction.java]
+3 Mar 2018 5:31:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@bcaf74' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\willi\Desktop\CSE271\Lab 9;C:\Users\willi\Desktop\CSE271\Lab 8;C:\Users\willi\Desktop\CSE271\Lab 2\DrJava.exe]
+3 Mar 2018 5:31:10 GMT: Compiler call returned
+3 Mar 2018 5:31:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b94068
+3 Mar 2018 5:31:10 GMT:  Kind = WARNING
+3 Mar 2018 5:31:10 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidBattingAverage.java LineNo = 8 ColNo = 14 Msg = 'The serializable class InvalidBattingAverage does not declare a static final serialVersionUID field of type long'
+3 Mar 2018 5:31:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ce540d
+3 Mar 2018 5:31:10 GMT:  Kind = WARNING
+3 Mar 2018 5:31:10 GMT: Name = C:\Users\willi\Desktop\CSE271\Lab 9\InvalidStrikeOut.java LineNo = 8 ColNo = 14 Msg = 'The serializable class InvalidStrikeOut does not declare a static final serialVersionUID field of type long'
+13 Mar 2018 22:08:54 GMT: Log 'EclipseCompiler.txt' opened: 13 Mar 2018 22:08:54 GMT with name C:\Users\willi\Desktop\CSE271\Lab 9\EclipseCompiler.txt
+13 Mar 2018 22:08:55 GMT: Log 'EclipseCompiler.txt' opened: 13 Mar 2018 22:08:55 GMT with name C:\Users\willi\Desktop\CSE271\Lab 9\EclipseCompiler.txt
+13 Mar 2018 22:08:56 GMT: Log 'EclipseCompiler.txt' opened: 13 Mar 2018 22:08:56 GMT with name C:\Users\willi\Desktop\CSE271\Lab 9\EclipseCompiler.txt
+14 Mar 2018 21:47:43 GMT: Log 'EclipseCompiler.txt' opened: 14 Mar 2018 21:47:43 GMT with name C:\Users\willi\Desktop\CSE271\Lab 9\EclipseCompiler.txt

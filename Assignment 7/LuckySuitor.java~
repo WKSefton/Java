@@ -1,0 +1,29 @@
+public class LuckySuitor
+{
+  private ArrayList<String> list = new ArrayList<String>;
+  
+  public void readFile(String fileName)
+  {
+    File file = new File(fileName);
+    Scanner in = new Scanner(file);
+    while(in.hasNextLine)
+    {
+     list.add(in.nextLine); 
+    }    
+  }
+  
+  public void getNames()
+  {
+    for(String name : list)
+    {
+     System.out.println(name); 
+    }
+  }
+  
+ public static void main(String[] args)
+ {
+   readFile("MaleNames");
+   getName();
+ }
+  
+}

@@ -1,0 +1,10 @@
+public class CardTester
+{
+ public static void main(String[] args)
+ {
+  Card test = new Card();
+  Card test2 = new Card(1,5);
+   
+ }
+  
+}

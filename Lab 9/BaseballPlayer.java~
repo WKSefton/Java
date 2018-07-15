@@ -1,0 +1,129 @@
+/**
+ * BaseballPlayer represents a baseball player by name, strike outs, and batting average.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class BaseballPlayer
+{
+  private String name;
+  private int strikeOuts;
+  private int battingAvg;
+  
+  /**
+   * Constructor for objects of class BaseballPlayer
+   */
+  public BaseballPlayer()
+  {
+  }
+  
+  /**
+   * Overloaded constructor for BaseballPlayer
+   * 
+   * @param String name of player
+   * @param int number of strikeouts
+   * @param int batting average
+   */
+  public BaseballPlayer(String name, int strikeOuts, int battingAvg) 
+  {
+    setName(name);
+    setStrikeOuts(strikeOuts);
+    setBattingAvg(battingAvg);
+  }
+  
+  /**
+   * setter method for name
+   * 
+   * @param String name of player
+   */
+  public void setName(String name)
+  {
+    this.name = name;
+  }
+  public String getName()
+  {
+    return name;
+  }
+  
+  /**
+   * mutator method for strike outs
+   * 
+   * @param int number of strike outs
+   */
+  public void setStrikeOuts(int strikeOuts) throws InvalidStrikeOut
+  {
+    if(strikeOuts < 0)
+      throw new InvalidStrikeOut();
+    
+    this.strikeOuts = strikeOuts;
+  }
+  
+  /**
+   * mutator method for batting average
+   * 
+   * @param int batting average
+   */
+  public void setBattingAvg(int battingAvg) throws InvalidBattingAverage
+  {
+    if(battingAvg < 0 || battingAvg > 1000)
+      throw new InvalidBattingAverage();
+    
+    
+    this.battingAvg = battingAvg;
+  }
+  
+  /**
+   * @override toString()
+   */
+  public String toString() 
+  {
+    return (name + " SO="+strikeOuts + " BA="+battingAvg);
+  }
+  
+
+  public static void main(String[] args) 
+  {
+    //create object
+    BaseballPlayer test = new BaseballPlayer();
+    
+    //test setName
+    test.setName("Will Sef");
+    
+    //test strikeouts error
+    try{
+      test.setStrikeOuts(-1);
+    }catch(Exception e)
+    {
+      System.out.println(e.getMessage()); 
+    }
+    
+    //test batting average bellow zero error
+    try{
+      test.setBattingAvg(-1);
+    }catch(Exception e)
+    {
+      System.out.println(e.getMessage()); 
+    }
+    
+    //test batting average above 1000 error 
+    try{
+      test.setStrikeOuts(3);
+      test.setBattingAvg(2000);
+    }catch(Exception e)
+    {
+      System.out.println(e.getMessage()); 
+    }
+    
+    //give regular results
+    try{
+      test.setStrikeOuts(5);
+      test.setBattingAvg(500);
+    }catch(Exception e)
+    {
+      System.out.println(e.getMessage()); 
+    }
+    
+    //test toString
+    System.out.println("Baseball player: " + test.toString());
+  }
+}

@@ -1,0 +1,53 @@
+/** 
+ *  Name: William Sefton
+ *  Instructor: Laurie Werner 
+ *  Partner: None 
+ *  CSE 271 HA 
+ *  Recursion class
+ */
+
+public class Recursion
+{
+//  public writeVertical (int n)
+//  {
+//    
+//  }
+  
+  public double power (double x, double n)
+  {
+    if (n < 0)
+    {
+     return 1/power(x, -n);
+    }    
+    else if (n > 0)
+    {
+      return x*power(x, n-1);
+    }
+    return 1;
+
+  }
+  
+  public int nonRecursivePower(int x, int n)
+  {
+    int result = x;
+    if (n == 0)
+    {
+      return 1; 
+    }
+    for (int i = 1; i < n; i++)
+    {
+      result = result*x;
+    }
+    return result;
+  }
+  
+  public static void main(String args[])
+  {
+    //testing power method for recursion
+    Recursion test = new Recursion();
+    System.out.println(String.format("%f", test.power(12, -2)));
+    
+    //power method done without recursion
+    System.out.println(test.nonRecursivePower(12, 2));
+  }
+}

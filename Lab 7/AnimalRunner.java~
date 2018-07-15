@@ -1,0 +1,15 @@
+import java.util.*;
+public class AnimalRunner
+{  
+  public static void main(String[] args)   
+  {     
+    ArrayList speakList = new ArrayList();  
+    speakList.add(new Dog("Fred")); 
+    speakList.add(new Cat("Wanda"));  
+    for (Speakable obj : speakList)   
+    {    
+      obj.speak();     
+    } 
+  }
+}
+      

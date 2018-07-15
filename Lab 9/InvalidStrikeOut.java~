@@ -1,0 +1,10 @@
+public class InvalidStrikeOut extends RuntimeException
+{
+  public String getMessage()
+  {
+    return "Invalid number of Strike Outs!";
+  }
+  
+  
+  
+}
